@@ -34,15 +34,18 @@
 |  |
 | ------- |
 | [0120-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0120-triangle) |
+| [0300-longest-increasing-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1087-longest-arithmetic-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0120-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1087-longest-arithmetic-subsequence) |
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1087-longest-arithmetic-subsequence) |
 <!---LeetCode Topics End-->
