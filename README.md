@@ -22,6 +22,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -42,6 +43,7 @@
 | ------- |
 | [0120-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0279-perfect-squares](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1087-longest-arithmetic-subsequence) |
 ## Binary Search
@@ -53,4 +55,8 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0334-increasing-triplet-subsequence) |
+## Math
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
