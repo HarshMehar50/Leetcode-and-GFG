@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -25,6 +27,7 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0279-perfect-squares](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -32,6 +35,7 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -82,4 +86,5 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->
