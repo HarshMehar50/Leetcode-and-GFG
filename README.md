@@ -67,6 +67,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0044-wildcard-matching) |
 | [0120-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0279-perfect-squares](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
@@ -84,6 +85,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0044-wildcard-matching) |
 | [0334-increasing-triplet-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0334-increasing-triplet-subsequence) |
 ## Math
 |  |
@@ -120,4 +122,12 @@
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0354-russian-doll-envelopes) |
+## String
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
