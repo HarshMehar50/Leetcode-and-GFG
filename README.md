@@ -69,6 +69,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0044-wildcard-matching) |
 | [0120-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -133,10 +134,12 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0044-wildcard-matching) |
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0044-wildcard-matching) |
 ## Two Pointers
 |  |
