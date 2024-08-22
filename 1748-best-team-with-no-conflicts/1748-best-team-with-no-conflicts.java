@@ -1,4 +1,17 @@
 class Solution {
+    int solveTab(int[][] a){
+        int[][] dp = new int[a.length+1][a.length+1];
+        for(int i = a.length-1; i >= 0; i--){
+            for(int j = i-1; j >= -1; j--){
+                int include = 0;
+                if(j == -1 || (a[i][1] >= a[j][1] && j != -1))
+                include = a[c][1]+dp[i+1][i+1];
+                int exclude = dp[i+1][j+1];
+                dp[i][j+1] = Math.max(include , exclude);
+            }
+        }
+        return dp[0][0];
+    }
     int solve(int[][] a , int c , int p , int[][] dp){
         if(c == a.length){
             return 0;
@@ -20,11 +33,12 @@ class Solution {
             a[i][0] = ages[i];
             a[i][1] = scores[i];
         }
-        int[][] dp = new int[ages.length][ages.length+1];
+        /*int[][] dp = new int[ages.length][ages.length+1];
         for(int i = 0; i < dp.length; i++){
             Arrays.fill(dp[i] , -1);
-        }
+        }*/
         Arrays.sort(a,(x , y)->(x[0] != y[0])?Integer.compare(x[0] , y[0]):Integer.compare(x[1] , y[1]));
-        return solve(a , 0 , -1 , dp);
+        //return solve(a , 0 , -1 , dp);
+        return solveTab(a);
     }
 }
