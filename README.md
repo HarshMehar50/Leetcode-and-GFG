@@ -90,6 +90,7 @@
 | [0733-flood-fill](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0733-flood-fill) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1087-longest-arithmetic-subsequence) |
+| [1325-path-with-maximum-probability](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1706-min-cost-to-connect-all-points) |
@@ -153,6 +154,7 @@
 | [0684-redundant-connection](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [1300-critical-connections-in-a-network](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1300-critical-connections-in-a-network) |
+| [1325-path-with-maximum-probability](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1706-min-cost-to-connect-all-points) |
 | [1738-maximal-network-rank](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1738-maximal-network-rank) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -230,4 +232,12 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0733-flood-fill) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
