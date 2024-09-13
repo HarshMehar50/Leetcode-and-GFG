@@ -1,6 +1,6 @@
 class Solution {
     int solveGen(int[] nums){
-        /*int[][] dp = new int[2][2];
+        int[][] dp = new int[2][2];
         int ans = 1;
         for(int i = 0; i < nums.length; i++){
             for(int j = 0; j < 2; j++){
@@ -8,22 +8,7 @@ class Solution {
                 ans = Math.max(ans , dp[nums[i]%2][j]);
             }
         }
-        return ans;*/
-        int e = 0;
-        int o = 0;
-        int alt = 0;
-        int c = nums[0]%2;
-        for(int i = 0; i < nums.length; i++){
-            if(nums[i]%2 == 0)
-            e++;
-            else
-            o++;
-            if(c == nums[i]%2){
-                alt++;
-                c = 1-c;
-            }
-        }
-        return Math.max(alt , Math.max(e , o));
+        return ans;
     }
     int solveOptTab1(int[] nums, int k){
         int[] dp = new int[nums.length+1];
