@@ -54,7 +54,7 @@ class Solution {
         }
         return next[0];
     }*/
-    int solveOpt(int[] nums , int k , int c , int p , int[][] dp){
+   /* int solveOpt(int[] nums , int k , int c , int p , int[][] dp){
         if(c == nums.length){
             return 0;
         }
@@ -98,9 +98,9 @@ class Solution {
         int ans = Math.max(include , exclude);
         dp[c][p+1] = ans;
         return dp[c][p+1];
-    }
+    }*/
     public int maximumLength(int[] nums) {
-        int[][] dp0 = new int[nums.length][nums.length+1];
+        /*int[][] dp0 = new int[nums.length][nums.length+1];
         for(int i = 0; i < dp0.length; i++){
             Arrays.fill(dp0[i] , -1);
         }
@@ -108,7 +108,7 @@ class Solution {
         int[][] dp1 = new int[nums.length][nums.length+1];
         for(int i = 0; i < dp1.length; i++){
             Arrays.fill(dp1[i] , -1);
-        }
+        }*/
        // int solve1 = solve(nums , 0 , -1 , 1 , dp1);
         /*return Math.max(solve0 , solve1);*/
         //int s0 = solveTabSpace(nums , 0);
