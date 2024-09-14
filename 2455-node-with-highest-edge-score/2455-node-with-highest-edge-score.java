@@ -1,16 +1,10 @@
 class Solution {
     public int edgeScore(int[] edges) {
-        HashMap<Integer , List<Integer>> adj = new HashMap<>();
         HashMap<Integer , List<Integer>> indegree = new HashMap<>();
         for(int i = 0; i < edges.length; i++){
-            adj.put(i , new ArrayList<>());
             indegree.put(i , new ArrayList<>());
         }
         for(int i = 0; i < edges.length; i++){
-            if(!adj.containsKey(i)){
-            adj.put(i , new ArrayList<>());
-            }
-            adj.get(i).add(edges[i]);
             if(!indegree.containsKey(edges[i])){
             indegree.put(edges[i] , new ArrayList<>());
             }
