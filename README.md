@@ -39,6 +39,7 @@
 | [0684-redundant-connection](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1300-critical-connections-in-a-network) |
@@ -59,6 +60,7 @@
 | [0684-redundant-connection](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0801-is-graph-bipartite](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -166,6 +168,7 @@
 | [0210-course-schedule-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [1300-critical-connections-in-a-network](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1300-critical-connections-in-a-network) |
 | [1325-path-with-maximum-probability](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1325-path-with-maximum-probability) |
@@ -254,10 +257,12 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Sliding Window
