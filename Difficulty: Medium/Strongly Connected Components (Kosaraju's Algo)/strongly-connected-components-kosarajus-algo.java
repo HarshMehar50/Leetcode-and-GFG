@@ -47,31 +47,29 @@ class Gfg
 class Solution
 {
     //Function to find number of strongly connected components in the graph.
-    public void revDFS(int node , boolean[] visited , HashMap<Integer , List<Integer>> transpose){
+    void topSort(int node , boolean[] visited , Stack<Integer> s , ArrayList<ArrayList<Integer>> adj){
         visited[node] = true;
-        for(Integer x : transpose.get(node)){
-            if(visited[x] == false){
-                revDFS(x , visited , transpose);
-            }
-        }
-    }
-    public void topSort(int node , boolean[] visited , Stack<Integer> s , HashMap<Integer , List<Integer>> adjMap){
-        visited[node] = true;
-        for(Integer x : adjMap.get(node)){
-            if(visited[x] == false){
-                topSort(x , visited , s , adjMap);
-            }
+        for(Integer x : adj.get(node)){
+            if(!visited[x])
+            topSort(x , visited , s , adj);
         }
         s.push(node);
     }
-    public int kosarajuAlgo(HashMap<Integer , List<Integer>> adjMap , int V){
-        Stack<Integer> s = new Stack<>();
+    void revDFS(int node , boolean[] visited , HashMap<Integer , List<Integer>> transpose){
+        visited[node] = true;
+        for(Integer x : transpose.get(node)){
+            if(!visited[x])
+            revDFS(x , visited , transpose);
+        }
+    } 
+    public int kosaraju(int V, ArrayList<ArrayList<Integer>> adj)
+    {
+        //code here
         boolean[] visited = new boolean[V];
-        Arrays.fill(visited , false);
+        Stack<Integer> s = new Stack<>();
         for(int i = 0; i < V; i++){
-            if(visited[i] == false){
-                topSort(i , visited , s , adjMap);
-            }
+            if(!visited[i])
+            topSort(i , visited , s , adj);
         }
         HashMap<Integer , List<Integer>> transpose = new HashMap<>();
         for(int i = 0; i < V; i++){
@@ -79,28 +77,18 @@ class Solution
         }
         for(int i = 0; i < V; i++){
             visited[i] = false;
-            for(Integer x : adjMap.get(i)){
+            for(Integer x : adj.get(i)){
                 transpose.get(x).add(i);
             }
         }
         int c = 0;
         while(!s.isEmpty()){
             int top = s.pop();
-            if(visited[top] == false){
+            if(!visited[top]){
                 c++;
                 revDFS(top , visited , transpose);
             }
         }
         return c;
-    }
-    public int kosaraju(int V, ArrayList<ArrayList<Integer>> adj)
-    {
-        //code here
-        HashMap<Integer , List<Integer>> adjMap = new HashMap<>();
-        for(int i = 0; i < adj.size(); i++){
-            adjMap.put(i , adj.get(i));
-        }
-        int ans = kosarajuAlgo(adjMap , V);
-        return ans;
     }
 }
