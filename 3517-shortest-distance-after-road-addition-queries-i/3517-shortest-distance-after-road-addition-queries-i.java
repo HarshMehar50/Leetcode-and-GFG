@@ -1,22 +1,21 @@
 class Solution {
-    int BFS(HashMap<Integer , List<Integer>> adj , int des , int s){
-        PriorityQueue<int[]> pq = new PriorityQueue<int[]>((x , y)->Integer.compare(x[0] , y[0]));
+    int BFS(HashMap<Integer , List<Integer>> adj , int s , int des){
+        Queue<int[]> q = new LinkedList<>();
+        q.offer(new int[]{0 , s});
         int[] d = new int[adj.size()];
         Arrays.fill(d , Integer.MAX_VALUE);
-        pq.offer(new int[]{0 , s});
         d[s] = 0;
-        while(!pq.isEmpty()){
-            int node = pq.peek()[1];
-            int distance = pq.peek()[0];
-            pq.poll();
-            if(node == des)
+        while(!q.isEmpty()){
+            int distance = q.peek()[0];
+            int node = q.peek()[1];
+            q.poll();
+            if(des == node)
             return distance;
             for(int i = 0; i < adj.get(node).size(); i++){
-                int weight = 1;
                 int adjnode = adj.get(node).get(i);
-                if(distance+weight < d[adjnode]){
-                    d[adjnode] = weight+distance;
-                    pq.offer(new int[]{d[adjnode] , adjnode});
+                if(distance+1 < d[adjnode]){
+                    d[adjnode] = distance+1;
+                    q.offer(new int[]{d[adjnode] , adjnode});
                 }
             }
         }
@@ -33,7 +32,7 @@ class Solution {
         int[] ans = new int[queries.length];
         for(int i = 0; i < queries.length; i++){
             adj.get(queries[i][0]).add(queries[i][1]);
-            int c = BFS(adj , n-1 , 0);
+            int c = BFS(adj , 0 , n-1);
             ans[i] = c;
         }
         return ans;
