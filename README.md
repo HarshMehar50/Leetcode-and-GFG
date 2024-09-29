@@ -76,6 +76,7 @@
 | [0207-course-schedule](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
+| [0542-01-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0690-employee-importance) |
@@ -128,6 +129,7 @@
 | [0377-combination-sum-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0396-rotate-function) |
 | [0473-matchsticks-to-square](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0473-matchsticks-to-square) |
+| [0542-01-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0646-maximum-length-of-pair-chain) |
 | [0690-employee-importance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
@@ -168,6 +170,7 @@
 | [0377-combination-sum-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0396-rotate-function) |
 | [0473-matchsticks-to-square](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0473-matchsticks-to-square) |
+| [0542-01-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0646-maximum-length-of-pair-chain) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -342,6 +345,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0733-flood-fill) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
