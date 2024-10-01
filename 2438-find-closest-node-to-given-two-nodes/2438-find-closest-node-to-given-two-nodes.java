@@ -17,7 +17,7 @@ class Solution {
         return list;
     }*/
     int[] dijkstra(HashMap<Integer , List<Integer>> adj , int s){
-        PriorityQueue<int[]> pq = new PriorityQueue<int[]>((x , y)->Integer.compare(x[0] , y[0]));
+        Queue<int[]> pq = new LinkedList<>();
         int[] d = new int[adj.size()];
         Arrays.fill(d , Integer.MAX_VALUE);
         d[s] = 0;
