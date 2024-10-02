@@ -38,6 +38,8 @@ class Solution {
         }
         if(start != -1)
         DFS(adj , start , visited);
+        else if(start == -1)
+        return false;
         for(int i = 1; i < visited.length; i++){
             if(visited[i])
             c++;
