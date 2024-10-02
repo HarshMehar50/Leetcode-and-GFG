@@ -41,20 +41,14 @@ class Solution {
                 transpose.get(x).add(i);
             }
         }
-        int c = 0;
-        List<int[]> details = new ArrayList<>();
+        int max = 0;
         while(!s.isEmpty()){
             int top = s.pop();
             if(!visited[top]){
-                c++;
                 int[] a = new int[2];
                 revDFS(top , visited , transpose , a);
-                details.add(a);
+                max = Math.max(max , a[0]);
             }
-        }
-        int max = 0;
-        for(int i = 0; i < details.size(); i++){
-            max = Math.max(max , details.get(i)[0]);
         }
         if(max != 1)
         return max;
