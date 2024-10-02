@@ -29,12 +29,6 @@ class Solution {
             else if(indegree[i] == 1)
             c1++;
         }
-        /*for(int i = 1; i < visited.length; i++){
-            if(!visited[i]){
-                c++;
-                DFS(adj , i , visited);
-            }
-        }*/
         int start = -1;
         for(int i = 1; i < indegree.length; i++){
             if(indegree[i] == 0){
@@ -54,15 +48,12 @@ class Solution {
         return false;
     }
     public int[] findRedundantDirectedConnection(int[][] edges) {
-        List<int[]> list = new ArrayList<>();
+        int[] ans = new int[2];
         for(int i = 0; i < edges.length; i++){
             if(check(edges , i)){
-                list.add(edges[i]);
+                ans = edges[i];
             }
         }
-        if(list.size() > 0)
-        return list.get(list.size()-1);
-        else
-        return new int[]{};
+        return ans;
     }
 }
