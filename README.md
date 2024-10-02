@@ -44,6 +44,7 @@
 | [0337-house-robber-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0337-house-robber-iii) |
 | [0547-number-of-provinces](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0685-redundant-connection-ii) |
 | [0690-employee-importance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
@@ -81,6 +82,7 @@
 | [0542-01-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0685-redundant-connection-ii) |
 | [0690-employee-importance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
@@ -219,6 +221,7 @@
 | [0200-number-of-islands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
@@ -237,6 +240,7 @@
 | [0210-course-schedule-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0685-redundant-connection-ii) |
 | [0744-network-delay-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
