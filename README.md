@@ -132,6 +132,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -178,6 +179,7 @@
 | [0010-regular-expression-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -221,6 +223,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0334-increasing-triplet-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0646-maximum-length-of-pair-chain) |
 | [1952-minimum-sideway-jumps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1952-minimum-sideway-jumps) |
