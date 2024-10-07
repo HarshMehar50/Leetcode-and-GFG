@@ -72,6 +72,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2662-check-knight-tour-configuration](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2662-check-knight-tour-configuration) |
 | [2793-count-the-number-of-complete-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2793-count-the-number-of-complete-components) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3386-find-edges-in-shortest-paths) |
 ## Breadth-First Search
@@ -115,6 +116,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2662-check-knight-tour-configuration](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2662-check-knight-tour-configuration) |
 | [2793-count-the-number-of-complete-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2793-count-the-number-of-complete-components) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3386-find-edges-in-shortest-paths) |
@@ -171,6 +173,7 @@
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2262-solving-questions-with-brainpower](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2262-solving-questions-with-brainpower) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2662-check-knight-tour-configuration](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2662-check-knight-tour-configuration) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -390,6 +393,7 @@
 | [0733-flood-fill](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0733-flood-fill) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
+| [2662-check-knight-tour-configuration](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2662-check-knight-tour-configuration) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -443,6 +447,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2662-check-knight-tour-configuration](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2662-check-knight-tour-configuration) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Combinatorics
 |  |
