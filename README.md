@@ -117,6 +117,7 @@
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2662-check-knight-tour-configuration](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2662-check-knight-tour-configuration) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2793-count-the-number-of-complete-components) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3386-find-edges-in-shortest-paths) |
@@ -295,6 +296,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2455-node-with-highest-edge-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2455-node-with-highest-edge-score) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2793-count-the-number-of-complete-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3189-find-champion-ii) |
