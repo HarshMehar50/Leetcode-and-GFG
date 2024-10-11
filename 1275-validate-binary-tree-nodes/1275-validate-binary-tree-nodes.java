@@ -32,11 +32,9 @@ class Solution {
             indegree[rightChild[i]]++;
             }
         }
-        int ec = 0;
         int c0 = 0;
         int c1 = 0;
         for(int i = 0; i < n; i++){
-            ec += adj.get(i).size();
             if(indegree[i] == 0)
             c0++;
             else if(indegree[i] == 1)
@@ -57,7 +55,7 @@ class Solution {
             if(visited[i])
             tc++;
         }
-        if(c0 == 1 && c1 == n-1 && ec == n-1 && tc == n)
+        if(c0 == 1 && c1 == n-1 && tc == n)
         return true;
         else
         return false;
