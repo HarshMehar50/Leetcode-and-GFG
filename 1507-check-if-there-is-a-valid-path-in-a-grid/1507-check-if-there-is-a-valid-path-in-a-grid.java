@@ -2,8 +2,6 @@ class Solution {
     public boolean hasValidPath(int[][] grid) {
         Queue<int[]> q = new LinkedList<>();
         boolean[][] visited = new boolean[grid.length][grid[0].length];
-        int l = grid.length;
-        int w = grid[0].length;
         q.offer(new int[]{0 , 0 , grid[0][0]});
         visited[0][0] = true;
         while(!q.isEmpty()){
