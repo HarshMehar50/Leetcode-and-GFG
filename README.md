@@ -134,6 +134,7 @@
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3386-find-edges-in-shortest-paths) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -201,6 +202,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -337,6 +339,7 @@
 | [3386-find-edges-in-shortest-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -439,6 +442,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [2662-check-knight-tour-configuration](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2662-check-knight-tour-configuration) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -452,6 +456,7 @@
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -464,6 +469,7 @@
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
