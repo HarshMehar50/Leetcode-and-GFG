@@ -22,7 +22,9 @@ class GFG
             Solution obj = new Solution();
             int ans = obj.minStepToReachTarget(KnightPos, TargetPos, N);
             System.out.println(ans);
-       }
+       
+System.out.println("~");
+}
     }
 }
 
@@ -35,7 +37,7 @@ class Solution
     public int minStepToReachTarget(int KnightPos[], int TargetPos[], int N)
     {
         // Code here
-        int[] dR = {-2 , -2 , -1 , -1 , 1 , 1 , 2 , 2};
+         int[] dR = {-2 , -2 , -1 , -1 , 1 , 1 , 2 , 2};
         int[] dC = {-1 , 1 , -2 , 2 , -2 , 2 , -1 , 1};
         Queue<int[]> q = new LinkedList<>();
         int[][] d = new int[N+1][N+1];
