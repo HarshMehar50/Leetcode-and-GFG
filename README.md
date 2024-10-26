@@ -63,6 +63,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1275-validate-binary-tree-nodes) |
 | [1300-critical-connections-in-a-network](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1300-critical-connections-in-a-network) |
 | [1428-jump-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1428-jump-game-iii) |
@@ -110,6 +111,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1275-validate-binary-tree-nodes) |
@@ -181,6 +183,7 @@
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0945-snakes-and-ladders) |
+| [1073-number-of-enclaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1087-longest-arithmetic-subsequence) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1325-path-with-maximum-probability](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1325-path-with-maximum-probability) |
@@ -285,6 +288,7 @@
 | [0721-accounts-merge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1073-number-of-enclaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1275-validate-binary-tree-nodes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -440,6 +444,7 @@
 | [0695-max-area-of-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0945-snakes-and-ladders) |
+| [1073-number-of-enclaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1663-detect-cycles-in-2d-grid) |
