@@ -140,6 +140,7 @@
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2662-check-knight-tour-configuration](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2662-check-knight-tour-configuration) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2671-shortest-cycle-in-a-graph) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2793-count-the-number-of-complete-components) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3386-find-edges-in-shortest-paths) |
@@ -214,6 +215,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2262-solving-questions-with-brainpower) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2662-check-knight-tour-configuration](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2662-check-knight-tour-configuration) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -354,6 +356,7 @@
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3189-find-champion-ii) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3386-find-edges-in-shortest-paths) |
@@ -468,6 +471,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [2662-check-knight-tour-configuration](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2662-check-knight-tour-configuration) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -481,6 +485,7 @@
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2379-maximum-total-importance-of-roads](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -494,6 +499,7 @@
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
