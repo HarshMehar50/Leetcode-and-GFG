@@ -19,18 +19,15 @@ class Solution {
                 int nr = r+dR[i];
                 int nc = c+dC[i];
                 if(nr < grid.length && nr >= 0 && nc < grid[0].length && nc >= 0 && !visited[nr][nc]){
-                    if(grid[nr][nc] <= time+1){
+                    if(grid[nr][nc] <= time+1)
                         pq.offer(new int[]{time+1 , nr , nc});
-                        visited[nr][nc] = true;
-                    }else{
-                        if((grid[nr][nc]-time)%2 == 1){
+                    else{
+                        if((grid[nr][nc]-time)%2 == 1)
                             pq.offer(new int[]{grid[nr][nc] , nr , nc});
-                            visited[nr][nc] = true;
-                        }else{
+                        else
                             pq.offer(new int[]{grid[nr][nc]+1 , nr , nc});
-                            visited[nr][nc] = true;
-                        }
                     }
+                    visited[nr][nc] = true;
                 }
             }
         }
