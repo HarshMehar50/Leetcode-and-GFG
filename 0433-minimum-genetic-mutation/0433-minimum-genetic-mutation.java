@@ -9,8 +9,8 @@ class Solution {
     }
     public int minMutation(String startGene, String endGene, String[] bank) {
         Queue<Node> q = new LinkedList<>();
-        q.offer(new Node(0 , startGene));
         List<String> visited = new ArrayList<>();
+        q.offer(new Node(0 , startGene));
         visited.add(startGene);
         while(!q.isEmpty()){
             int count = q.peek().c;
