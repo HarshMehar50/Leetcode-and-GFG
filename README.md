@@ -293,6 +293,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0375-guess-number-higher-or-lower-ii) |
