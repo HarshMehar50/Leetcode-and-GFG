@@ -1,6 +1,6 @@
 class Solution {
     public int stoneGameVI(int[] aliceValues, int[] bobValues) {
-        int[][] a = new int[aliceValues.length][2];
+       /* int[][] a = new int[aliceValues.length][2];
         int[][] b = new int[bobValues.length][2];
         for(int i = 0; i < aliceValues.length; i++){
             a[i][0] = aliceValues[i];
@@ -9,11 +9,11 @@ class Solution {
             b[i][1] = i;
         }
         Arrays.sort(a , (x , y)->Integer.compare(y[0] , x[0]));
-        Arrays.sort(b , (x , y)->Integer.compare(y[0] , x[0]));
+        Arrays.sort(b , (x , y)->Integer.compare(y[0] , x[0]));*/
         int as = 0;
         int bs = 0;
-        boolean[] visiteda = new boolean[aliceValues.length];
-        boolean[] visitedb = new boolean[aliceValues.length];
+       // boolean[] visiteda = new boolean[aliceValues.length];
+        // boolean[] visitedb = new boolean[aliceValues.length];
         /*int turn = 1;
         for(int i = 0; i < aliceValues.length; i++){
             if(turn == 1){
