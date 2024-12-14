@@ -58,7 +58,7 @@ class Solution {
         for(int i = 0; i < stones.length; i++){
             map.put(stones[i] , i);
         }
-        int[][] dp = new int[2001][2001];
+        int[][] dp = new int[stones.length+1][stones.length+1];
         for(int i = 0; i < dp.length; i++){
             Arrays.fill(dp[i] , -1);
         }
