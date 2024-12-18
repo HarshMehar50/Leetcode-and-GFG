@@ -239,6 +239,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
 |  |
@@ -287,6 +288,7 @@
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Binary Search
 |  |
 | ------- |
