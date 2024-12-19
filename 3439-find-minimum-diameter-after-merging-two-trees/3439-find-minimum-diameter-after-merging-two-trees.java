@@ -43,6 +43,6 @@ class Solution {
         int d2 = daimeter(adj2);
         int nd1 = d1+1;
         int nd2 = d2+1;
-        return (nd1/2 + nd2/2 + 1);
+        return Math.max((nd1/2 + nd2/2 + 1) , Math.max(d1 , d2));
     }
 }
