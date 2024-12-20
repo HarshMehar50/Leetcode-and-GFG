@@ -31,10 +31,7 @@ class Solution {
         }
         for(int i = nums1.length-1; i >= 0; i--){
             for(int j = nums2.length-1; j >= 0; j--){
-                int same = dp[i+1][j+1]+(nums1[i]*nums2[j]);
-                int inc1 = dp[i+1][j];
-                int inc2 = dp[i][j+1];
-                dp[i][j] = Math.max(nums1[i]*nums2[j] , Math.max(same , Math.max(inc1 , inc2)));
+                dp[i][j] = Math.max(nums1[i]*nums2[j] , Math.max(dp[i+1][j+1]+(nums1[i]*nums2[j]) , Math.max(dp[i+1][j] , dp[i][j+1])));
             }
         }
         return dp[0][0];
