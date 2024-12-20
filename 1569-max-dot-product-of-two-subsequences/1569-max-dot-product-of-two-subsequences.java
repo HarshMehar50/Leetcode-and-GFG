@@ -37,11 +37,11 @@ class Solution {
         return dp[0][0];
     }
     public int maxDotProduct(int[] nums1, int[] nums2) {
-        /*int[][] dp = new int[nums1.length+1][nums2.length+1];
+        int[][] dp = new int[nums1.length+1][nums2.length+1];
         for(int i = 0; i < dp.length; i++){
             Arrays.fill(dp[i] , -1000000000);
         }
-        return solve(nums1 , nums2 , 0 , 0 , dp);*/
-        return solveTab(nums1 , nums2);
+        return solve(nums1 , nums2 , 0 , 0 , dp);
+        //return solveTab(nums1 , nums2);
     }
 }
