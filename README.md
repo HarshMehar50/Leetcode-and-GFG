@@ -221,6 +221,7 @@
 | [1428-jump-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1447-jump-game-iv) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1569-max-dot-product-of-two-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1706-min-cost-to-connect-all-points) |
 | [1748-best-team-with-no-conflicts](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1748-best-team-with-no-conflicts) |
@@ -282,6 +283,7 @@
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1569-max-dot-product-of-two-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1748-best-team-with-no-conflicts](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1748-best-team-with-no-conflicts) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1952-minimum-sideway-jumps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1952-minimum-sideway-jumps) |
