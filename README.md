@@ -145,6 +145,7 @@
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2151-the-time-when-the-network-becomes-idle) |
+| [2183-minimum-operations-to-convert-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2183-minimum-operations-to-convert-number) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -235,6 +236,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2151-the-time-when-the-network-becomes-idle) |
+| [2183-minimum-operations-to-convert-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2183-minimum-operations-to-convert-number) |
 | [2262-solving-questions-with-brainpower](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2262-solving-questions-with-brainpower) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2445-reachable-nodes-with-restrictions) |
