@@ -216,6 +216,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0909-stone-game) |
 | [0945-snakes-and-ladders](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0945-snakes-and-ladders) |
+| [1063-best-sightseeing-pair](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1087-longest-arithmetic-subsequence) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -284,6 +285,7 @@
 | [0863-sum-of-distances-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0863-sum-of-distances-in-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0909-stone-game) |
+| [1063-best-sightseeing-pair](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1087-longest-arithmetic-subsequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1367-maximum-height-by-stacking-cuboids) |
