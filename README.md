@@ -283,6 +283,7 @@
 | [0354-russian-doll-envelopes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0354-russian-doll-envelopes) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0403-frog-jump) |
 | [0473-matchsticks-to-square](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0473-matchsticks-to-square) |
@@ -486,6 +487,7 @@
 | [0044-wildcard-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0044-wildcard-matching) |
 | [0127-word-ladder](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
+| [0392-is-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0392-is-subsequence) |
 | [0433-minimum-genetic-mutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0433-minimum-genetic-mutation) |
 | [0721-accounts-merge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
 | [1170-shortest-common-supersequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1170-shortest-common-supersequence) |
@@ -502,6 +504,7 @@
 | [0042-trapping-rain-water](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0148-sort-list) |
+| [0392-is-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0392-is-subsequence) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 ## Divide and Conquer
 |  |
