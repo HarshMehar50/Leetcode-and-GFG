@@ -54,6 +54,7 @@
 | [0207-course-schedule](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0337-house-robber-iii) |
 | [0547-number-of-provinces](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0547-number-of-provinces) |
 | [0655-print-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0655-print-binary-tree) |
@@ -111,6 +112,7 @@
 | [0210-course-schedule-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0433-minimum-genetic-mutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0547-number-of-provinces) |
@@ -203,6 +205,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0300-longest-increasing-subsequence) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0354-russian-doll-envelopes) |
@@ -284,6 +287,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0279-perfect-squares](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0300-longest-increasing-subsequence) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0337-house-robber-iii) |
 | [0354-russian-doll-envelopes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0354-russian-doll-envelopes) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -390,6 +394,7 @@
 | [0207-course-schedule](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0685-redundant-connection-ii) |
@@ -463,6 +468,7 @@
 | [0207-course-schedule](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
@@ -562,6 +568,7 @@
 | [0064-minimum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0733-flood-fill) |
@@ -678,6 +685,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-sliding-puzzle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0787-sliding-puzzle) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
