@@ -87,6 +87,7 @@
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [2201-valid-arrangement-of-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2201-valid-arrangement-of-pairs) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2439-longest-cycle-in-a-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -154,6 +155,7 @@
 | [2183-minimum-operations-to-convert-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2183-minimum-operations-to-convert-number) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -253,6 +255,7 @@
 | [2183-minimum-operations-to-convert-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2183-minimum-operations-to-convert-number) |
 | [2262-solving-questions-with-brainpower](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2262-solving-questions-with-brainpower) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2662-check-knight-tour-configuration](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2662-check-knight-tour-configuration) |
@@ -316,6 +319,7 @@
 | [1952-minimum-sideway-jumps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1952-minimum-sideway-jumps) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2262-solving-questions-with-brainpower) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -422,6 +426,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2439-longest-cycle-in-a-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -462,6 +467,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2439-longest-cycle-in-a-graph) |
 ## Sorting
 |  |
@@ -571,6 +577,7 @@
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2662-check-knight-tour-configuration](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2662-check-knight-tour-configuration) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -672,6 +679,7 @@
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0787-sliding-puzzle) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Stack
 |  |
