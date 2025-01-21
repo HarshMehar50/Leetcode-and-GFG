@@ -591,6 +591,7 @@
 | ------- |
 | [0136-single-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0473-matchsticks-to-square](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0473-matchsticks-to-square) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2323-minimum-bit-flips-to-convert-number) |
