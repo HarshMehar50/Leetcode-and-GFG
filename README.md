@@ -379,6 +379,7 @@
 | [1788-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1788-stone-game-vi) |
 | [1952-minimum-sideway-jumps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1952-minimum-sideway-jumps) |
 | [2379-maximum-total-importance-of-roads](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2379-maximum-total-importance-of-roads) |
+| [3192-maximum-xor-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3192-maximum-xor-product) |
 ## Math
 |  |
 | ------- |
@@ -391,6 +392,7 @@
 | [0909-stone-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1014-k-closest-points-to-origin) |
 | [1788-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1788-stone-game-vi) |
+| [3192-maximum-xor-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3192-maximum-xor-product) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Union Find
 |  |
@@ -601,6 +603,7 @@
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3192-maximum-xor-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3192-maximum-xor-product) |
 ## Bitmask
 |  |
 | ------- |
