@@ -295,6 +295,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -362,6 +363,7 @@
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
