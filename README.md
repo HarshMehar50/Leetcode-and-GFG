@@ -208,6 +208,7 @@
 | [0055-jump-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0075-sort-colors) |
+| [0119-pascals-triangle-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -316,6 +317,7 @@
 | [0045-jump-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
+| [0119-pascals-triangle-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
