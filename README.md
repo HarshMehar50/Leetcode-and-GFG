@@ -21,6 +21,7 @@
 | [1087-longest-arithmetic-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1087-longest-arithmetic-subsequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1447-jump-game-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1447-jump-game-iv) |
+| [2044-number-of-wonderful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2044-number-of-wonderful-substrings) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2455-node-with-highest-edge-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2455-node-with-highest-edge-score) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -580,6 +581,7 @@
 | [0753-open-the-lock](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0753-open-the-lock) |
 | [1170-shortest-common-supersequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2044-number-of-wonderful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2044-number-of-wonderful-substrings) |
 | [3447-clear-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Recursion
@@ -638,6 +640,7 @@
 | [0473-matchsticks-to-square](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0477-total-hamming-distance) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [2044-number-of-wonderful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2044-number-of-wonderful-substrings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -779,6 +782,7 @@
 | [0238-product-of-array-except-self](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0724-find-pivot-index) |
 | [1985-maximum-subarray-min-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1985-maximum-subarray-min-product) |
+| [2044-number-of-wonderful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2044-number-of-wonderful-substrings) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Memoization
 |  |
