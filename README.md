@@ -292,6 +292,7 @@
 | [2183-minimum-operations-to-convert-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2183-minimum-operations-to-convert-number) |
 | [2227-sum-of-subarray-ranges](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2227-sum-of-subarray-ranges) |
 | [2262-solving-questions-with-brainpower](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2262-solving-questions-with-brainpower) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2350-find-closest-number-to-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2350-find-closest-number-to-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -601,6 +602,7 @@
 | [0283-move-zeroes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0392-is-subsequence) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -768,6 +770,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0735-asteroid-collision) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2662-check-knight-tour-configuration](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2662-check-knight-tour-configuration) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3422-find-the-n-th-value-after-k-seconds) |
