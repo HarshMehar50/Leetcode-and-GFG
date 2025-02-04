@@ -284,6 +284,7 @@
 | [1748-best-team-with-no-conflicts](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1748-best-team-with-no-conflicts) |
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [1788-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1788-stone-game-vi) |
+| [1814-jump-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1814-jump-game-vi) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1952-minimum-sideway-jumps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1952-minimum-sideway-jumps) |
@@ -373,6 +374,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1748-best-team-with-no-conflicts](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1748-best-team-with-no-conflicts) |
+| [1814-jump-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1814-jump-game-vi) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1952-minimum-sideway-jumps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1952-minimum-sideway-jumps) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -711,6 +713,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [1788-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1788-stone-game-vi) |
+| [1814-jump-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1814-jump-game-vi) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2379-maximum-total-importance-of-roads) |
@@ -881,4 +884,12 @@
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1014-k-closest-points-to-origin) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+## Queue
+|  |
+| ------- |
+| [1814-jump-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1814-jump-game-vi) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1814-jump-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1814-jump-game-vi) |
 <!---LeetCode Topics End-->
