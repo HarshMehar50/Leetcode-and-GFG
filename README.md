@@ -414,6 +414,7 @@
 | [2379-maximum-total-importance-of-roads](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 | [3192-maximum-xor-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3192-maximum-xor-product) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3264-maximum-points-after-enemy-battles) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Math
 |  |
 | ------- |
@@ -596,6 +597,7 @@
 | [2044-number-of-wonderful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2044-number-of-wonderful-substrings) |
 | [3447-clear-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3567-convert-date-to-binary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3567-convert-date-to-binary) |
 ## Recursion
 |  |
