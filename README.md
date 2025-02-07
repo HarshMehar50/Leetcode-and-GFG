@@ -600,6 +600,7 @@
 | [3447-clear-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3567-convert-date-to-binary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3567-convert-date-to-binary) |
 ## Recursion
 |  |
@@ -792,6 +793,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3447-clear-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3447-clear-digits) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Combinatorics
 |  |
 | ------- |
