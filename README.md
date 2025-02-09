@@ -270,6 +270,7 @@
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1325-path-with-maximum-probability](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1396-count-servers-that-communicate](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -371,6 +372,7 @@
 | [1170-shortest-common-supersequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -398,6 +400,7 @@
 | [0354-russian-doll-envelopes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0354-russian-doll-envelopes) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1087-longest-arithmetic-subsequence) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 ## Greedy
 |  |
@@ -574,6 +577,7 @@
 | [0948-sort-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
