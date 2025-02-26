@@ -289,6 +289,7 @@
 | [1788-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1788-stone-game-vi) |
 | [1814-jump-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1814-jump-game-vi) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1952-minimum-sideway-jumps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1952-minimum-sideway-jumps) |
 | [1985-maximum-subarray-min-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1985-maximum-subarray-min-product) |
@@ -382,6 +383,7 @@
 | [1569-max-dot-product-of-two-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1748-best-team-with-no-conflicts](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1748-best-team-with-no-conflicts) |
 | [1814-jump-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1814-jump-game-vi) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1952-minimum-sideway-jumps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1952-minimum-sideway-jumps) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -407,6 +409,7 @@
 | [1087-longest-arithmetic-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1087-longest-arithmetic-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2118-maximum-earnings-from-taxi) |
 | [2164-two-best-non-overlapping-events](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2164-two-best-non-overlapping-events) |
 ## Greedy
@@ -591,6 +594,7 @@
 | [1748-best-team-with-no-conflicts](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1748-best-team-with-no-conflicts) |
 | [1788-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1788-stone-game-vi) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2118-maximum-earnings-from-taxi) |
 | [2164-two-best-non-overlapping-events](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2164-two-best-non-overlapping-events) |
