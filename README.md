@@ -346,6 +346,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0044-wildcard-matching) |
@@ -640,6 +641,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0115-distinct-subsequences) |
@@ -669,6 +671,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0075-sort-colors) |
