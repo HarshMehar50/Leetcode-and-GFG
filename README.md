@@ -345,6 +345,7 @@
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3639-zero-array-transformation-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3639-zero-array-transformation-i) |
 | [3654-minimum-array-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3654-minimum-array-sum) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Dynamic Programming
@@ -898,6 +899,7 @@
 | [2044-number-of-wonderful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2044-number-of-wonderful-substrings) |
 | [2342-minimum-average-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2342-minimum-average-difference) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3639-zero-array-transformation-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3639-zero-array-transformation-i) |
 ## Memoization
 |  |
 | ------- |
