@@ -258,6 +258,7 @@
 | [0797-rabbits-in-forest](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0797-rabbits-in-forest) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0854-making-a-large-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
+| [0891-score-after-flipping-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0891-score-after-flipping-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0909-stone-game) |
@@ -462,6 +463,7 @@
 | [0402-remove-k-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0402-remove-k-digits) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0646-maximum-length-of-pair-chain) |
 | [0797-rabbits-in-forest](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0797-rabbits-in-forest) |
+| [0891-score-after-flipping-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0891-score-after-flipping-matrix) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1788-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1788-stone-game-vi) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -739,6 +741,7 @@
 | [0473-matchsticks-to-square](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0477-total-hamming-distance) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0891-score-after-flipping-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0891-score-after-flipping-matrix) |
 | [2044-number-of-wonderful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2044-number-of-wonderful-substrings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -761,6 +764,7 @@
 | [0733-flood-fill](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
+| [0891-score-after-flipping-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0891-score-after-flipping-matrix) |
 | [0945-snakes-and-ladders](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
