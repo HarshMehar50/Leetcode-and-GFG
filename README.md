@@ -500,6 +500,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0368-largest-divisible-subset) |
@@ -714,6 +715,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
