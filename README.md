@@ -431,6 +431,7 @@
 | [1808-stone-game-vii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1808-stone-game-vii) |
 | [1814-jump-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1814-jump-game-vi) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1871-palindrome-partitioning-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1871-palindrome-partitioning-iv) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1952-minimum-sideway-jumps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1952-minimum-sideway-jumps) |
@@ -697,6 +698,7 @@
 | [1170-shortest-common-supersequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1871-palindrome-partitioning-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1871-palindrome-partitioning-iv) |
 | [2044-number-of-wonderful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2044-number-of-wonderful-substrings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3447-clear-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3447-clear-digits) |
