@@ -280,6 +280,7 @@
 | [1127-last-stone-weight](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1240-stone-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1240-stone-game-ii) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1286-constrained-subsequence-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1286-constrained-subsequence-sum) |
 | [1290-make-array-strictly-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1290-make-array-strictly-increasing) |
@@ -419,6 +420,7 @@
 | [1105-uncrossed-lines](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1105-uncrossed-lines) |
 | [1170-shortest-common-supersequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1240-stone-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1240-stone-game-ii) |
 | [1286-constrained-subsequence-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1286-constrained-subsequence-sum) |
 | [1290-make-array-strictly-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1290-make-array-strictly-increasing) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -515,6 +517,7 @@
 | [0797-rabbits-in-forest](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1014-k-closest-points-to-origin) |
+| [1240-stone-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1240-stone-game-ii) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1522-stone-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1522-stone-game-iii) |
 | [1685-stone-game-v](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1685-stone-game-v) |
@@ -763,6 +766,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1522-stone-game-iii) |
 | [1685-stone-game-v](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1685-stone-game-v) |
 | [1788-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1788-stone-game-vi) |
@@ -947,6 +951,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0724-find-pivot-index) |
+| [1240-stone-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1240-stone-game-ii) |
 | [1985-maximum-subarray-min-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1985-maximum-subarray-min-product) |
 | [2044-number-of-wonderful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2044-number-of-wonderful-substrings) |
 | [2342-minimum-average-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2342-minimum-average-difference) |
