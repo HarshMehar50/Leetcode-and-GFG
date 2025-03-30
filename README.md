@@ -301,6 +301,7 @@
 | [1569-max-dot-product-of-two-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1685-stone-game-v](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1685-stone-game-v) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1706-min-cost-to-connect-all-points) |
@@ -434,6 +435,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1522-stone-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1522-stone-game-iii) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1569-max-dot-product-of-two-subsequences) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1685-stone-game-v](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1685-stone-game-v) |
 | [1748-best-team-with-no-conflicts](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1748-best-team-with-no-conflicts) |
 | [1808-stone-game-vii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1808-stone-game-vii) |
@@ -681,6 +683,7 @@
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1748-best-team-with-no-conflicts](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1748-best-team-with-no-conflicts) |
 | [1788-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1788-stone-game-vi) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
