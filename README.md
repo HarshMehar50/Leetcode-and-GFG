@@ -318,6 +318,7 @@
 | [1985-maximum-subarray-min-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1985-maximum-subarray-min-product) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2118-maximum-earnings-from-taxi) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2151-the-time-when-the-network-becomes-idle) |
@@ -446,6 +447,7 @@
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1952-minimum-sideway-jumps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1952-minimum-sideway-jumps) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2118-maximum-earnings-from-taxi) |
 | [2164-two-best-non-overlapping-events](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2164-two-best-non-overlapping-events) |
@@ -605,6 +607,7 @@
 | [1738-maximal-network-rank](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1738-maximal-network-rank) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2171-second-minimum-time-to-reach-destination) |
