@@ -44,15 +44,13 @@ class Solution {
         return dummy.next;
     }
     public ListNode sortList(ListNode head) {
-        if(head == null || head.next == null){
+       if(head == null || head.next == null){
             return head;
         }
         ListNode mid = getMid(head);
         ListNode left = sortList(head);
         ListNode right = sortList(mid);
         return merge(left , right);
-        
-
+         
     }
-
 }
