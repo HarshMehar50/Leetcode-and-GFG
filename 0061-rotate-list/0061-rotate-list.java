@@ -8,8 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
-    int length(ListNode head){
+class Solution {int length(ListNode head){
         ListNode temp = head;
         int c = 0;
         while(temp != null){
