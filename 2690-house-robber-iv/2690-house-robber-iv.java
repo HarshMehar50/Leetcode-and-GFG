@@ -1,6 +1,6 @@
 class Solution {
     public int minCapability(int[] nums, int k) {
-        int min = Integer.MAX_VALUE;
+         int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;
         for(int i = 0; i < nums.length; i++){
             min = Math.min(min , nums[i]);
