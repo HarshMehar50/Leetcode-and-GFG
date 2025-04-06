@@ -27,6 +27,9 @@ class Solution {
             else
             e = m-1;
         }
+        if((int) s != 0)
+        return (int)s-1;
+        else
         return (int)s;
     }
 }
