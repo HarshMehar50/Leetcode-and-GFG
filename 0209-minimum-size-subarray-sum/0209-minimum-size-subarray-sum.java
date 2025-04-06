@@ -1,4 +1,3 @@
-import java.util.Arrays;
 class Solution {
     int sum(int a[]){
         int sum = 0;
@@ -31,4 +30,4 @@ class Solution {
       else
       return min;
     }
-}   
+}
