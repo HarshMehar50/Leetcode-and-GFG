@@ -1,5 +1,5 @@
 class Solution {
-    int[] NSL(int[] arr){
+     int[] NSL(int[] arr){
         int[] nsli = new int[arr.length];
         Stack<int[]> s = new Stack<>();
         for(int i = 0; i < arr.length; i++){
