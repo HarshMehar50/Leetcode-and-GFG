@@ -8,6 +8,7 @@
 | [0127-word-ladder](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0433-minimum-genetic-mutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0433-minimum-genetic-mutation) |
@@ -662,6 +663,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0148-sort-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1484-linked-list-in-binary-tree) |
 ## Topological Sort
@@ -758,6 +760,7 @@
 | [0061-rotate-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0295-find-median-from-data-stream) |
