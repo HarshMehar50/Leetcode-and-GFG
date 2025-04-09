@@ -665,6 +665,7 @@
 | [0141-linked-list-cycle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0203-remove-linked-list-elements) |
 | [1484-linked-list-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1484-linked-list-in-binary-tree) |
 ## Topological Sort
 |  |
@@ -751,6 +752,7 @@
 | [0010-regular-expression-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
