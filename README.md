@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0141-linked-list-cycle) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -211,6 +213,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -231,6 +234,7 @@
 | [0055-jump-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0075-sort-colors) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -786,6 +790,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0347-top-k-frequent-elements) |
