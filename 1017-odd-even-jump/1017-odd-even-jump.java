@@ -31,36 +31,7 @@ class Solution {
         dp.put(new Pair<>(i , p%2) , ans);
         return dp.get(new Pair<>(i , p%2));
     }
-    /*
-    int n = arr.length;
-        boolean[] odd = new boolean[n];
-        boolean[] even = new boolean[n];
-        odd[n - 1] = even[n - 1] = true;
-
-        TreeMap<Integer, Integer> map = new TreeMap<>();
-        map.put(arr[n - 1], n - 1);
-
-        for (int i = n - 2; i >= 0; --i) {
-            Map.Entry<Integer, Integer> oddJump = map.ceilingEntry(arr[i]); // Smallest >= arr[i]
-            Map.Entry<Integer, Integer> evenJump = map.floorEntry(arr[i]);  // Largest <= arr[i]
-
-            if (oddJump != null) {
-                odd[i] = even[oddJump.getValue()];
-            }
-            if (evenJump != null) {
-                even[i] = odd[evenJump.getValue()];
-            }
-
-            map.put(arr[i], i);
-        }
-
-        int count = 0;
-        for (boolean b : odd) {
-            if (b) count++;
-        }
-        return count;
-    */ 
-    int solve(int[] arr){
+    int solveTab(int[] arr){
         TreeMap<Integer , Integer> map = new TreeMap<>();
         boolean[][] dp = new boolean[arr.length][2];
         dp[arr.length-1][1] = true;
@@ -101,6 +72,6 @@ class Solution {
         return ans;
         else
         return ans+1;*/
-        return solve(arr);
+        return solveTab(arr);
     }
 }
