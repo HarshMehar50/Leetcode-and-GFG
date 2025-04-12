@@ -45,6 +45,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -221,6 +223,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -829,6 +832,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0113-path-sum-ii) |
 | [0473-matchsticks-to-square](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0787-sliding-puzzle) |
