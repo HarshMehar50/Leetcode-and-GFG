@@ -50,6 +50,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0337-house-robber-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0337-house-robber-iii) |
 | [0655-print-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0655-print-binary-tree) |
 | [0690-employee-importance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0690-employee-importance) |
@@ -75,6 +76,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0210-course-schedule-ii) |
@@ -230,6 +232,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0337-house-robber-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0337-house-robber-iii) |
 | [0655-print-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0655-print-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1032,6 +1035,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0739-daily-temperatures) |
