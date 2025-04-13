@@ -818,6 +818,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0948-sort-an-array) |
@@ -856,6 +857,7 @@
 | ------- |
 | [0136-single-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0342-power-of-four) |
