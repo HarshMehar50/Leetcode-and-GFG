@@ -53,6 +53,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0337-house-robber-iii) |
 | [0655-print-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0655-print-binary-tree) |
 | [0690-employee-importance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0690-employee-importance) |
@@ -84,6 +85,7 @@
 | [0200-number-of-islands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0310-minimum-height-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0337-house-robber-iii) |
@@ -240,6 +242,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0337-house-robber-iii) |
 | [0655-print-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0655-print-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1146,4 +1149,8 @@
 |  |
 | ------- |
 | [1017-odd-even-jump](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1017-odd-even-jump) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
