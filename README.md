@@ -488,6 +488,7 @@
 | [1352-maximum-profit-in-job-scheduling](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1394-minimum-path-cost-in-a-grid) |
+| [1403-palindrome-partitioning-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1403-palindrome-partitioning-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1522-stone-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1522-stone-game-iii) |
@@ -784,6 +785,7 @@
 | [0721-accounts-merge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0753-open-the-lock) |
 | [1170-shortest-common-supersequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1170-shortest-common-supersequence) |
+| [1403-palindrome-partitioning-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1403-palindrome-partitioning-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-palindrome-partitioning-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1871-palindrome-partitioning-iv) |
