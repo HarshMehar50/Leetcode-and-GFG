@@ -351,6 +351,7 @@
 | [1522-stone-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1522-stone-game-iii) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1656-count-good-triplets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1656-count-good-triplets) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1685-stone-game-v](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1685-stone-game-v) |
@@ -1110,6 +1111,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0204-count-primes) |
+| [1656-count-good-triplets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1656-count-good-triplets) |
 ## Number Theory
 |  |
 | ------- |
