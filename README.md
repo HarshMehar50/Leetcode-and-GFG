@@ -63,6 +63,7 @@
 | [0655-print-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0655-print-binary-tree) |
 | [0690-employee-importance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0690-employee-importance) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0863-sum-of-distances-in-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -108,6 +109,7 @@
 | [0721-accounts-merge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0801-is-graph-bipartite](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0813-all-paths-from-source-to-target) |
@@ -182,6 +184,7 @@
 | [0744-network-delay-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0753-open-the-lock) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0787-sliding-puzzle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
