@@ -13,7 +13,8 @@
  *     }
  * }
  */
-class node{
+class Solution {
+    class node{
     TreeNode tree;
     int r;
     int c;
@@ -22,10 +23,9 @@ class node{
         this.r = r;
         this.c = c;
     }
-} 
-class Solution {
+    }
     public List<List<Integer>> verticalTraversal(TreeNode root) {
-       /* List<List<Integer>> list = new ArrayList<>();
+        /* List<List<Integer>> list = new ArrayList<>();
         if(root == null){
             return list;
         }
