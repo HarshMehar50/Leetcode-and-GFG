@@ -68,6 +68,7 @@
 | [0863-sum-of-distances-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0863-sum-of-distances-in-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1275-validate-binary-tree-nodes) |
 | [1484-linked-list-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1484-linked-list-in-binary-tree) |
@@ -124,6 +125,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1275-validate-binary-tree-nodes) |
 | [1300-critical-connections-in-a-network](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1300-critical-connections-in-a-network) |
@@ -201,6 +203,7 @@
 | [0971-shortest-bridge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -271,6 +274,7 @@
 | [0655-print-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0655-print-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1275-validate-binary-tree-nodes) |
 | [1484-linked-list-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1484-linked-list-in-binary-tree) |
