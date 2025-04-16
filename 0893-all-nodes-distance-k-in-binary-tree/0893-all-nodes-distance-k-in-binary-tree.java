@@ -20,9 +20,9 @@ class Solution {
        /* for(int i = 0; i < parent.size(); i++){
             adj.put(parent.get(i) , new ArrayList<>());
         }*/
-       if(root == null){
-           return;
-       }
+        if(root == null){
+            return;
+        }
         if(root.left != null) {
             adj.get(root.val).add(root.left.val);
             adj.get(root.left.val).add(root.val);
@@ -32,9 +32,9 @@ class Solution {
             adj.get(root.right.val).add(root.val);
         }
         createAdjList(parent , root.left , adj);
-       createAdjList(parent , root.right , adj);
-   }
-   static List<List<Integer>> BFSLevel(HashMap<Integer , List<Integer>> adj , List<Integer> parent , int s){
+        createAdjList(parent , root.right , adj);
+    }
+    static List<List<Integer>> BFSLevel(HashMap<Integer , List<Integer>> adj , List<Integer> parent , int s){
         List<List<Integer>> list = new ArrayList<>();
         HashMap<Integer , Boolean> visited = new HashMap<>();
         for(int i = 0; i < parent.size(); i++){
@@ -63,14 +63,14 @@ class Solution {
     public List<Integer> distanceK(TreeNode root, TreeNode target, int k) {
         List<Integer> parent = new ArrayList<>();
         createParentList(root , parent);
-         HashMap<Integer , List<Integer>> adj = new HashMap<>();
+        HashMap<Integer , List<Integer>> adj = new HashMap<>();
         for(int i = 0; i < parent.size(); i++){
             adj.put(parent.get(i) , new ArrayList<>());
         }
         createAdjList(parent , root , adj);
         List<List<Integer>> bfsList = BFSLevel(adj , parent , target.val);
         if(bfsList.size() == 1 && k == 0){
-            return bfsList.get(0); 
+            return bfsList.get(0);
         }
         else if(bfsList.size() <= k){
             return new ArrayList<>();
