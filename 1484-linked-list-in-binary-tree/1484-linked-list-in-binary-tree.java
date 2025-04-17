@@ -24,25 +24,6 @@
  * }
  */
 class Solution {
-   /* TreeNode find(TreeNode root , int value){
-        if(root != null){
-            if(root.val == value){
-                return root;
-            }else{
-                find(root.left , value);
-                find(root.right , value);
-            }
-        }
-        return null;
-    }*/
-    /*boolean recursion(ListNode head , TreeNode root){
-        int headValue = head.val;
-        int treeValue = root.val;
-        if(headValue == treeValue && head != null && root != null){
-            return true;
-        }
-        return recursion(head.next , root.left)||recursion(head.next , root.right); 
-    }*/
     boolean solve(ListNode head , TreeNode root){
         if(head == null){
             return true;
@@ -53,13 +34,12 @@ class Solution {
         if(root.val != head.val){
             return false;
         }
-           boolean left = solve(head.next , root.left);
-           boolean right = solve(head.next , root.right);
-           return left||right;
-        
+        boolean left = solve(head.next , root.left);
+        boolean right = solve(head.next , root.right);
+        return left||right;
     }
-    public boolean isSubPath(ListNode head , TreeNode root) {
-       /* TreeNode start = find(root , head.val);
+    public boolean isSubPath(ListNode head, TreeNode root) {
+        /* TreeNode start = find(root , head.val);
         return recursion(head , start);*/
         if(root == null){
             return false;
