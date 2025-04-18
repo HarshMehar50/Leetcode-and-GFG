@@ -705,6 +705,7 @@
 | [1706-min-cost-to-connect-all-points](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1706-min-cost-to-connect-all-points) |
 | [1738-maximal-network-rank](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1738-maximal-network-rank) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
