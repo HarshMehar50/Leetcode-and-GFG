@@ -3,14 +3,14 @@ class Solution {
         List<Integer> z = new ArrayList<>();
         for(int i = 0; i < nums.length; i++){
             if(nums[i] == 0)
-            z.add(i);
+                z.add(i);
         }
         int[] ans = new int[nums.length];
         if(z.size() == 1){
             int p = 1;
             for(int i = 0; i < nums.length; i++){
                 if(nums[i] != 0)
-                p = p*nums[i];
+                    p = p*nums[i];
             }
             ans[z.get(0)] = p;
             return ans;
