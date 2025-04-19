@@ -12,7 +12,7 @@ class Solution {
         }
         for(int i = 0; i < nums.length; i++){
             if(p[i] == s[i])
-            return i;
+                return i;
         }
         return -1;
     }
