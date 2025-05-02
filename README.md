@@ -755,6 +755,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0092-reverse-linked-list-ii) |
@@ -866,6 +867,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0075-sort-colors) |
