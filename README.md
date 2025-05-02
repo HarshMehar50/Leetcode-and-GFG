@@ -757,6 +757,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -856,6 +857,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0203-remove-linked-list-elements) |
