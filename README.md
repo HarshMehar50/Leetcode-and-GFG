@@ -117,6 +117,7 @@
 | [0721-accounts-merge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0801-is-graph-bipartite](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -772,6 +773,7 @@
 | [0148-sort-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0206-reverse-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1484-linked-list-in-binary-tree) |
 ## Topological Sort
 |  |
@@ -1231,4 +1233,8 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1427-all-elements-in-two-binary-search-trees) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
