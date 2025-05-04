@@ -16,9 +16,9 @@ class Solution {
             int cc = pq.peek()[2];
             pq.poll();
             if(cc+1 < nums.get(cr).size()){
-            pq.offer(new int[]{nums.get(cr).get(cc+1) , cr , cc+1});
-            max = Math.max(max , nums.get(cr).get(cc+1));
-            min = pq.peek()[0];
+                pq.offer(new int[]{nums.get(cr).get(cc+1) , cr , cc+1});
+                max = Math.max(max , nums.get(cr).get(cc+1));
+                min = pq.peek()[0];
             }
             if(max-min < e-s){
                 s = min;
