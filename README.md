@@ -391,6 +391,7 @@
 | [1396-count-servers-that-communicate](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1428-jump-game-iii) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1447-jump-game-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1447-jump-game-iv) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1073,6 +1074,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1286-constrained-subsequence-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1286-constrained-subsequence-sum) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Rolling Hash
 |  |
