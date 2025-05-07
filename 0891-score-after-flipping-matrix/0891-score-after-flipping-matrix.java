@@ -11,7 +11,7 @@ class Solution {
         for(int i = 0; i < grid[0].length; i++){
             for(int j = 0; j < grid.length; j++){
                 if(grid[j][i] == 0)
-                c[i]++;
+                    c[i]++;
             }
         }
         for(int i = 0; i < c.length; i++){
