@@ -7,9 +7,9 @@ class Solution {
             long aset = ((a>>i)&1);
             long bset = ((b>>i)&1);
             if(aset > 0)
-            axorx ^= (1L<<i);
+                axorx ^= (1L<<i);
             if(bset > 0)
-            bxorx ^= (1L<<i);
+                bxorx ^= (1L<<i);
         }
         for(long i = n-1; i >= 0; i--){
             long aset = (a&(1L<<i));
@@ -20,9 +20,9 @@ class Solution {
                 continue;
             }
             if(axorx > bxorx)
-            bxorx ^= (1L<<i);
+                bxorx ^= (1L<<i);
             else
-            axorx ^= (1L<<i);
+                axorx ^= (1L<<i);
         }
         axorx = axorx%mod;
         bxorx = bxorx%mod;
