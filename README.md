@@ -414,6 +414,7 @@
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1952-minimum-sideway-jumps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1952-minimum-sideway-jumps) |
+| [1983-maximum-population-year](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1983-maximum-population-year) |
 | [1985-maximum-subarray-min-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1985-maximum-subarray-min-product) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -1130,6 +1131,7 @@
 | [0238-product-of-array-except-self](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0724-find-pivot-index) |
 | [1240-stone-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1240-stone-game-ii) |
+| [1983-maximum-population-year](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1983-maximum-population-year) |
 | [1985-maximum-subarray-min-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1985-maximum-subarray-min-product) |
 | [2044-number-of-wonderful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2044-number-of-wonderful-substrings) |
 | [2342-minimum-average-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2342-minimum-average-difference) |
@@ -1183,6 +1185,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0347-top-k-frequent-elements) |
 | [1396-count-servers-that-communicate](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1396-count-servers-that-communicate) |
+| [1983-maximum-population-year](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1983-maximum-population-year) |
 | [2448-count-number-of-bad-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
