@@ -14,7 +14,7 @@ class Solution {
             mapB.put(B[i] , vb+1);
             for(int j = 1; j <= A.length; j++){
                 if(mapA.get(j) == 1 && mapB.get(j) == 1)
-                ans[i]++;
+                    ans[i]++;
             }
         }
         return ans;
