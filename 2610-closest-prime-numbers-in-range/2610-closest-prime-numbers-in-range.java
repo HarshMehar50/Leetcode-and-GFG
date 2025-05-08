@@ -18,7 +18,7 @@ class Solution {
         List<Integer> l = new ArrayList<>();
         for(int i = left; i <= right; i++){
             if(prime[i])
-            l.add(i);
+                l.add(i);
         }
         int[] ans = new int[2];
         ans[0] = -1;
