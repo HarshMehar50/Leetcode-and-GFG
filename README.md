@@ -21,6 +21,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1087-longest-arithmetic-subsequence) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -371,6 +372,7 @@
 | [0948-sort-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0948-sort-an-array) |
 | [0971-shortest-bridge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0971-shortest-bridge) |
 | [1014-k-closest-points-to-origin](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1014-k-closest-points-to-origin) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1017-odd-even-jump](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1017-odd-even-jump) |
 | [1063-best-sightseeing-pair](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
@@ -1142,6 +1144,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0724-find-pivot-index) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1240-stone-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
 | [1983-maximum-population-year](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1983-maximum-population-year) |
