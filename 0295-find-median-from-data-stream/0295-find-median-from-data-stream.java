@@ -5,23 +5,23 @@ class MedianFinder {
         maxpq = new PriorityQueue<>(Collections.reverseOrder());
         minpq = new PriorityQueue<>();
     }
-    
+
     public void addNum(int num) {
         if(maxpq.isEmpty() || num < maxpq.peek())
-        maxpq.offer(num);
+            maxpq.offer(num);
         else
-        minpq.offer(num);
+            minpq.offer(num);
         if(Math.abs(maxpq.size()-minpq.size()) > 1)
-        minpq.offer(maxpq.poll());
+            minpq.offer(maxpq.poll());
         else if(maxpq.size() < minpq.size())
-        maxpq.offer(minpq.poll());
+            maxpq.offer(minpq.poll());
     }
-    
+
     public double findMedian() {
         if(minpq.size() == maxpq.size())
-        return (minpq.peek()+maxpq.peek())/2.00;
+            return (minpq.peek()+maxpq.peek())/2.00;
         else
-        return maxpq.peek();
+            return maxpq.peek();
     }
 }
 
