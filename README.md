@@ -434,6 +434,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2227-sum-of-subarray-ranges) |
 | [2262-solving-questions-with-brainpower](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2272-maximum-good-people-based-on-statements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2294-minimum-time-to-complete-trips) |
 | [2342-minimum-average-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2342-minimum-average-difference) |
@@ -963,6 +964,7 @@
 | [0494-target-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0787-sliding-puzzle) |
 | [0813-all-paths-from-source-to-target](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0813-all-paths-from-source-to-target) |
+| [2272-maximum-good-people-based-on-statements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2272-maximum-good-people-based-on-statements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -977,6 +979,7 @@
 | [0877-shortest-path-visiting-all-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0891-score-after-flipping-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0891-score-after-flipping-matrix) |
 | [2044-number-of-wonderful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2044-number-of-wonderful-substrings) |
+| [2272-maximum-good-people-based-on-statements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2621-find-xor-beauty-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2621-find-xor-beauty-of-array) |
@@ -1224,6 +1227,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1656-count-good-triplets) |
+| [2272-maximum-good-people-based-on-statements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2272-maximum-good-people-based-on-statements) |
 ## Number Theory
 |  |
 | ------- |
