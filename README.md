@@ -477,6 +477,7 @@
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3639-zero-array-transformation-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3639-zero-array-transformation-i) |
 | [3654-minimum-array-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3654-minimum-array-sum) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
@@ -576,6 +577,7 @@
 | [3518-maximum-multiplication-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3518-maximum-multiplication-score) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3654-minimum-array-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3654-minimum-array-sum) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Binary Search
 |  |
@@ -980,6 +982,7 @@
 | [2621-find-xor-beauty-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2621-find-xor-beauty-of-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3192-maximum-xor-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3192-maximum-xor-product) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Bitmask
 |  |
 | ------- |
@@ -1025,6 +1028,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Heap (Priority Queue)
 |  |
