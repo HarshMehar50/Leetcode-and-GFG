@@ -22,10 +22,10 @@ class Solution {
         int ans = 0;
         for(int i = 0; i < answers.length; i++){
             if(answers[i] == 0)
-            ans++;
+                ans++;
             else{
                 if(f.get(answers[i]) > 0)
-                ans += 1+answers[i];
+                    ans += 1+answers[i];
                 int v = f.get(answers[i]);
                 f.put(answers[i] , v-(answers[i]+1));
             }
