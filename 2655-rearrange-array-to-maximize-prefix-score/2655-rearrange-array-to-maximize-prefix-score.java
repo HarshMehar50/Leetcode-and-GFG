@@ -9,7 +9,7 @@ class Solution {
         int ans = 0;
         for(int i = 0; i < ps.length; i++){
             if(ps[i] > 0)
-            ans++;
+                ans++;
         }
         return ans;
     }
