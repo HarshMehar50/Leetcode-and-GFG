@@ -6,7 +6,7 @@ class Solution {
         }
         for(int i = 0; i < list.size(); i++){
             if(list.contains(target-list.get(i)) && list.indexOf(target-list.get(i)) != i)
-            return new int[]{i , list.indexOf(target-list.get(i))};
+                return new int[]{i , list.indexOf(target-list.get(i))};
         }
         return new int[]{};
     }
