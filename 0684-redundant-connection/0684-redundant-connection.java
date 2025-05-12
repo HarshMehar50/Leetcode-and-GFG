@@ -12,8 +12,8 @@ class Solution {
         boolean[] visited = new boolean[adj.size()+1];
         for(int i = 1; i < visited.length; i++){
             if(!visited[i]){
-            c++;
-            DFS(i , adj , visited);
+                c++;
+                DFS(i , adj , visited);
             }
         }
         return c;
@@ -29,7 +29,7 @@ class Solution {
             visited[node] = true;
             for(int i = 0; i < adj.get(node).size(); i++){
                 if(!visited[adj.get(node).get(i)])
-                q.offer(adj.get(node).get(i));
+                    q.offer(adj.get(node).get(i));
             }
         }
         return false;
@@ -62,7 +62,7 @@ class Solution {
             adj.get(edges[i][1]).remove(r0);
             int c = connected(adj);
             if(c == 1 && !detectCycle(adj))
-            ans = edges[i];
+                ans = edges[i];
             adj.get(edges[i][0]).add(e1);
             adj.get(edges[i][1]).add(e0);
         }
