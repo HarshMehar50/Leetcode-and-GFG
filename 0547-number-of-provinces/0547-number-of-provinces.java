@@ -15,7 +15,7 @@ class Solution {
         for(int i = 0; i < isConnected.length; i++){
             for(int j = 0; j < isConnected[0].length; j++){
                 if(isConnected[i][j] == 1 && i != j)
-                adj.get(i+1).add(j+1);
+                    adj.get(i+1).add(j+1);
             }
         }
         boolean[] visited = new boolean[isConnected.length+1];
@@ -23,8 +23,8 @@ class Solution {
         int c = 0;
         for(int i = 1; i < visited.length; i++){
             if(!visited[i]){
-            c++;
-            DFS(i , adj , visited);
+                c++;
+                DFS(i , adj , visited);
             }
         }
         return c;
