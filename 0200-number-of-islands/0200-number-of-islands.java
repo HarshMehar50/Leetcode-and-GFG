@@ -6,7 +6,7 @@ class Solution {
             int nc = c+dC[i];
             if(nr < grid.length && nr >= 0 && nc < grid[0].length && nc >= 0){
                 if(!visited[nr][nc] && grid[nr][nc] == '1')
-                DFS(nr , nc , visited , grid , dR , dC);
+                    DFS(nr , nc , visited , grid , dR , dC);
             }
         }
     }
