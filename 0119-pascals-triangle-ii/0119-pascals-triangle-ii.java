@@ -8,10 +8,10 @@ class Solution {
         List<Integer> ans = new ArrayList<>();
         ans.add(1);
         if(rowIndex == 0)
-        return ans;
+            return ans;
         ans.add(rowIndex);
         if(rowIndex == 1)
-        return ans;
+            return ans;
         long v = rowIndex;
         for(int i = 2; i <= rowIndex/2; i++){
             v = v*(rowIndex-i+1)/i;
