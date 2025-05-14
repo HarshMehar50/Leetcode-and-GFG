@@ -1,53 +1,34 @@
 class Solution {
-   /* List<Integer> BFS(HashMap<Integer , List<Integer>> adj , int numCourses , int src){
-        List<Integer> bfsList = new ArrayList<>();
-        int[] visited = new int[adj.size()];
-        Arrays.fill(visited , false);
-        Queue<Integer> q = new LinkedList<>();
-        q.offer(src);
-        while(!q.isEmpty()){
-            int current = q.poll();
-            bfsList.add(current);
-            List<Integer> currentlev = adj.get(current);
-            for(int j = 0; j < currentlev.size(); j++){
-                if(!visited[currentlev.get(j)]) {
-                    q.offer(currentlev.get(j));
-                    visited[currentlev.get(j)] = true;
-                }
-            }
-        }
-        return bfsList;
-    }*/
-   boolean isCyclicDFS(HashMap<Integer , List<Integer>> adj , boolean[] visited , boolean[] dfsvisited , int node){
-    visited[node] = dfsvisited[node] = true;
-    for(int i = 0; i < adj.get(node).size(); i++){
-        boolean ans = false;
-        if(visited[adj.get(node).get(i)] == false)
-        ans = isCyclicDFS(adj , visited , dfsvisited , adj.get(node).get(i));
-        if(ans){
-            return true;
-        }else if(dfsvisited[adj.get(node).get(i)] == true){
-            return true;
-        }
-    }
-    dfsvisited[node] = false;
-    return false;
-   }
-   boolean detectCycle(HashMap<Integer , List<Integer>> adj){
-    boolean[] visited = new boolean[adj.size()];
-    boolean[] dfsvisited = new boolean[adj.size()];
-    Arrays.fill(visited , false);
-    Arrays.fill(dfsvisited , false);
-    for(int i = 0; i < adj.size(); i++) {
-        if(visited[i] == false) {
-            boolean ans = isCyclicDFS(adj , visited , dfsvisited , i);
-            if(ans) {
+    boolean isCyclicDFS(HashMap<Integer , List<Integer>> adj , boolean[] visited , boolean[] dfsvisited , int node){
+        visited[node] = dfsvisited[node] = true;
+        for(int i = 0; i < adj.get(node).size(); i++){
+            boolean ans = false;
+            if(visited[adj.get(node).get(i)] == false)
+                ans = isCyclicDFS(adj , visited , dfsvisited , adj.get(node).get(i));
+            if(ans){
+                return true;
+            }else if(dfsvisited[adj.get(node).get(i)] == true){
                 return true;
             }
         }
+        dfsvisited[node] = false;
+        return false;
     }
-    return false;
-   }
+    boolean detectCycle(HashMap<Integer , List<Integer>> adj){
+        boolean[] visited = new boolean[adj.size()];
+        boolean[] dfsvisited = new boolean[adj.size()];
+        Arrays.fill(visited , false);
+        Arrays.fill(dfsvisited , false);
+        for(int i = 0; i < adj.size(); i++) {
+            if(visited[i] == false) {
+                boolean ans = isCyclicDFS(adj , visited , dfsvisited , i);
+                if(ans) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
     void DFS(HashMap<Integer , List<Integer>> adj , Stack<Integer> s , boolean[] visited , int node){
         visited[node] = true;
         for(int i = 0; i < adj.get(node).size(); i++){
