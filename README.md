@@ -497,6 +497,7 @@
 | [0045-jump-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0119-pascals-triangle-ii) |
@@ -649,6 +650,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
@@ -1198,6 +1200,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-sliding-puzzle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0787-sliding-puzzle) |
 | [1013-fibonacci-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1013-fibonacci-number) |
