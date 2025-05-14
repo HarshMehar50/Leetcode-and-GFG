@@ -19,7 +19,7 @@ class Solution {
         Queue<Integer> q = new LinkedList<>();
         for(int i = 0; i < n; i++){
             if(degree[i] == 1)
-            q.offer(i);
+                q.offer(i);
         }
         List<Integer> ans = new ArrayList<>();
         while(n > 2){
@@ -30,7 +30,7 @@ class Solution {
                 for(int j = 0; j < adj.get(node).size(); j++){
                     degree[adj.get(node).get(j)]--;
                     if(degree[adj.get(node).get(j)] == 1)
-                    q.offer(adj.get(node).get(j));
+                        q.offer(adj.get(node).get(j));
                 }
             }
         }
