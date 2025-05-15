@@ -1,11 +1,11 @@
 class Solution {
     int solve(String s , String t , int i , int j , int[][] dp){
         if(i >= s.length() || j >= t.length())
-        return 0;
+            return 0;
         if(dp[i][j] != -1)
-        return dp[i][j];
+            return dp[i][j];
         if(s.charAt(i) == t.charAt(j))
-        return 1+solve(s , t , i+1 , j+1 , dp);
+            return 1+solve(s , t , i+1 , j+1 , dp);
         else{
             int s1 = solve(s , t , i+1 , j , dp);
             int s2 = solve(s , t , i , j+1 , dp);
@@ -21,8 +21,8 @@ class Solution {
         }
         int ans = solve(s , t , 0 , 0 , dp);
         if(ans == s.length())
-        return true;
+            return true;
         else
-        return false;
+            return false;
     }
 }
