@@ -30,8 +30,8 @@ class Solution {
             max = Math.max(max , d[i]);
         }
         if(max == Integer.MAX_VALUE)
-        return -1;
+            return -1;
         else
-        return max;
+            return max;
     }
 }
