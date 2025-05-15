@@ -2,9 +2,9 @@ class Solution {
     void DFS(HashMap<Integer , int[]> adj , List<List<Integer>> ans , List<Integer> inner , int s , int d){
         inner.add(s);
         if(s == d){
-        List<Integer> c = new ArrayList<>(inner);
-        ans.add(c);
-        return;
+            List<Integer> c = new ArrayList<>(inner);
+            ans.add(c);
+            return;
         }
         int[] child = adj.get(s);
         for(int i = 0; i < child.length; i++){
