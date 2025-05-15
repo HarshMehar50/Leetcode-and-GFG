@@ -26,7 +26,7 @@ class Solution {
         for(int i = 0; i < alternate.length; i++){
             if(alternate[i] == -1){
                 if(!check(i , adj , alternate))
-                return false;
+                    return false;
             }
         }
         return true;
