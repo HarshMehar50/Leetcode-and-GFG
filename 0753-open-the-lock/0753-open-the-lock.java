@@ -19,10 +19,10 @@ class Solution {
         Set<String> set = new HashSet<>();
         for(int i = 0; i < deadends.length; i++){
             set.add(deadends[i]);
-        } 
+        }
         Set<String> visited = new HashSet<>();
         if(set.contains("0000"))
-        return -1;
+            return -1;
         Queue<String> q = new LinkedList<>();
         q.offer("0000");
         int level = 0;
@@ -31,13 +31,13 @@ class Solution {
             for(int i = 0; i < l; i++){
                 String node = q.poll();
                 if(node.equals(target))
-                return level;
+                    return level;
                 StringBuilder s = new StringBuilder(node);
                 List<String> valid = validChilds(s);
                 for(int j = 0; j < valid.size(); j++){
                     if(!visited.contains(valid.get(j)) && !set.contains(valid.get(j))){
-                    q.offer(valid.get(j));
-                    visited.add(valid.get(j));
+                        q.offer(valid.get(j));
+                        visited.add(valid.get(j));
                     }
                 }
             }
