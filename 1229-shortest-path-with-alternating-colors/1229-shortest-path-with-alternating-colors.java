@@ -45,16 +45,16 @@ class Solution {
                 if(ecolor != color || color == 'N'){
                     int colorindex = (ecolor == 'R')?0:1;
                     if(!visited[adjnode][colorindex]){
-                    visited[adjnode][colorindex] = true;
-                    d[adjnode] = Math.min(distance+1 , d[adjnode]);
-                    q.offer(new details(adjnode , ecolor , distance+1));
+                        visited[adjnode][colorindex] = true;
+                        d[adjnode] = Math.min(distance+1 , d[adjnode]);
+                        q.offer(new details(adjnode , ecolor , distance+1));
                     }
                 }
             }
         }
         for(int i = 0; i < n; i++){
             if(d[i] == (int)(1e9))
-            d[i] = -1;
+                d[i] = -1;
         }
         return d;
     }
