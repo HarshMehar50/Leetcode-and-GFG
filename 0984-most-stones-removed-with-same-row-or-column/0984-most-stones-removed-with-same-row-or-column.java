@@ -22,7 +22,7 @@ class Solution {
             int up = findParent(u);
             int vp = findParent(v);
             if(up == vp)
-            return;
+                return;
             if(rank[up] < rank[vp]){
                 parent[up] = vp;
             }else if(rank[vp] < rank[up]){
@@ -36,7 +36,7 @@ class Solution {
             int up = findParent(u);
             int vp = findParent(v);
             if(up == vp)
-            return;
+                return;
             if(size[up] < size[vp]){
                 parent[up] = vp;
                 size[vp] = size[vp]+size[up];
@@ -65,7 +65,7 @@ class Solution {
         int count = 0;
         for(Map.Entry<Integer , Integer> m : map.entrySet()){
             if(ds.findParent(m.getKey()) == m.getKey())
-            count++;
+                count++;
         }
         return stones.length-count;
     }
