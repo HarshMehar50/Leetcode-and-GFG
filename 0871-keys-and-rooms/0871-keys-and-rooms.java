@@ -10,19 +10,19 @@ class Solution {
             q.poll();
             for(int i = 0; i < node.size(); i++){
                 if(!visited[node.get(i)]){
-                q.offer(rooms.get(node.get(i)));
-                visited[node.get(i)] = true;
+                    q.offer(rooms.get(node.get(i)));
+                    visited[node.get(i)] = true;
                 }
             }
         }
         int c = 0;
         for(int i = 0; i < visited.length; i++){
             if(visited[i])
-            c++;
+                c++;
         }
         if(c == rooms.size())
-        return true;
+            return true;
         else
-        return false;
+            return false;
     }
 }
