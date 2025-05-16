@@ -5,7 +5,7 @@ class Solution {
         ans[1] += adj.get(node).size();
         for(Integer x : adj.get(node)){
             if(!visited[x])
-            DFS(x , visited , adj , ans);
+                DFS(x , visited , adj , ans);
         }
     }
     public int makeConnected(int n, int[][] connections) {
@@ -32,11 +32,11 @@ class Solution {
         int extra = 0;
         for(int i = 0; i < details.size(); i++){
             if(details.get(i)[0] <= details.get(i)[1])
-            extra += details.get(i)[1]-(details.get(i)[0]-1);
+                extra += details.get(i)[1]-(details.get(i)[0]-1);
         }
         if(extra >= c-1)
-        return c-1;
+            return c-1;
         else
-        return -1;
+            return -1;
     }
 }
