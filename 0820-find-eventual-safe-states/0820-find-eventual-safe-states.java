@@ -15,7 +15,7 @@ class Solution {
         List<Integer> ans = new ArrayList<>();
         for(int i = 0; i < graph.length; i++){
             if(indegree[i] == 0)
-            q.offer(i);
+                q.offer(i);
         }
         while(!q.isEmpty()){
             int node = q.poll();
@@ -23,7 +23,7 @@ class Solution {
             for(int i = 0; i < adj.get(node).size(); i++){
                 indegree[adj.get(node).get(i)]--;
                 if(indegree[adj.get(node).get(i)] == 0)
-                q.offer(adj.get(node).get(i));
+                    q.offer(adj.get(node).get(i));
             }
         }
         Collections.sort(ans);
