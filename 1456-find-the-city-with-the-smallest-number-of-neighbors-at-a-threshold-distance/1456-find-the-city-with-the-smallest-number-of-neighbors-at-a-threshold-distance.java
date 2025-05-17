@@ -34,15 +34,15 @@ class Solution {
             int[] d = dijkstra(adj , i);
             for(int j = 0; j < n; j++){
                 if(d[j] <= distanceThreshold)
-                ans[j]++;
+                    ans[j]++;
             }
         }
         int city = Integer.MAX_VALUE;
         int cityi = -1;
         for(int i = 0; i < n; i++){
             if(city >= ans[i]){
-            city = ans[i];
-            cityi = i;
+                city = ans[i];
+                cityi = i;
             }
         }
         return cityi;
