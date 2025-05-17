@@ -1,12 +1,12 @@
-class Pair{
-    double probability;
-    int node;
-    public Pair(double probability , int node){
-        this.probability = probability;
-        this.node = node;
-    }
-}
 class Solution {
+    class Pair{
+        double probability;
+        int node;
+        public Pair(double probability , int node){
+            this.probability = probability;
+            this.node = node;
+        }
+    }
     public double maxProbability(int n, int[][] edges, double[] succProb, int start_node, int end_node) {
         HashMap<Integer , List<Pair>> adj = new HashMap<>();
         for(int i = 0; i < n; i++){
@@ -33,7 +33,7 @@ class Solution {
                     pq.add(new Pair(p[adjnode] , adjnode));
                 }
             }
-        } 
+        }
         return p[end_node];
     }
 }
