@@ -2,11 +2,11 @@ class Solution {
     boolean DFS(HashMap<Integer , List<Integer>> adj , boolean[] visited , int node , int d){
         visited[node] = true;
         if(node == d)
-        return true;
+            return true;
         boolean ans = false;
         for(Integer x : adj.get(node)){
             if(!visited[x])
-            ans = ans||DFS(adj , visited , x , d);
+                ans = ans||DFS(adj , visited , x , d);
         }
         return ans;
     }
