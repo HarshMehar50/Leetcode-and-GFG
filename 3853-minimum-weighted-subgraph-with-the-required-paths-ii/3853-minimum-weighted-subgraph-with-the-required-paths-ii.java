@@ -3,7 +3,7 @@ class Solution {
         ancestors[node][0] = parent;
         for(int i = 1; i < ancestors[0].length; i++){
             if(ancestors[node][i-1] != -1)
-            ancestors[node][i] = ancestors[ancestors[node][i-1]][i-1];
+                ancestors[node][i] = ancestors[ancestors[node][i-1]][i-1];
         }
         for(int[] a : adj.get(node)){
             if(a[0] != parent){
@@ -17,7 +17,7 @@ class Solution {
             if((k&(1<<i)) > 0){
                 node = ancestors[node][i];
                 if(node == -1)
-                break;
+                    break;
             }
         }
         return node;
@@ -30,7 +30,7 @@ class Solution {
         }
         u = liftNode(adj , ancestors , depth , u , depth[u]-depth[v]);
         if(u == v)
-        return u;
+            return u;
         for(int i = ancestors[0].length-1; i >= 0; i--){
             if(ancestors[u][i] != ancestors[v][i]){
                 u = ancestors[u][i];
