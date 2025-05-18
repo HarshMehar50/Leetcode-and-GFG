@@ -15,9 +15,9 @@ class Solution {
         for(int i = 0; i < indegree.length-1; i++){
             for(int j = i+1; j < indegree.length; j++){
                 if(adj.get(i).contains(j))
-                ans = Math.max(indegree[i]+indegree[j]-1 , ans);
+                    ans = Math.max(indegree[i]+indegree[j]-1 , ans);
                 else
-                ans = Math.max(indegree[i]+indegree[j] , ans);
+                    ans = Math.max(indegree[i]+indegree[j] , ans);
             }
         }
         return ans;
