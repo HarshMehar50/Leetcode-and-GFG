@@ -2,14 +2,14 @@ class Solution {
     final int mod = 1000000007;
     int DFS(HashMap<Integer , List<int[]>> adj , int[] d , int[] dp , int node){
         if(node == adj.size())
-        return 1;
+            return 1;
         if(dp[node] != -1)
-        return dp[node];
+            return dp[node];
         long ans = 0;
         for(int i = 0; i < adj.get(node).size(); i++){
             int adjnode = adj.get(node).get(i)[1];
             if(d[adjnode] < d[node])
-            ans = (ans+DFS(adj , d , dp , adjnode))%mod;
+                ans = (ans+DFS(adj , d , dp , adjnode))%mod;
         }
         dp[node] = (int)ans;
         return dp[node];
