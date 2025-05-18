@@ -31,7 +31,7 @@ class Solution {
             int t = 2*d[i];
             int nmessages = t/patience[i];
             if(t%patience[i] == 0)
-            nmessages--;
+                nmessages--;
             int lastmessage = nmessages*patience[i];
             ans = Math.max(ans , lastmessage+t+1);
         }
