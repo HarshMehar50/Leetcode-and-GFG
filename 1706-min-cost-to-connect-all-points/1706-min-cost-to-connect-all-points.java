@@ -32,7 +32,5 @@ class Solution {
             s += key[i];
         }
         return s;
-
     }
-
 }
