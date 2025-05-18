@@ -1,7 +1,7 @@
 class Solution {
     public int minMoves(String[] matrix) {
         if(matrix[matrix.length-1].charAt(matrix[0].length()-1) == '#')
-        return -1;
+            return -1;
         int[] dR = {1 , 0 , -1 , 0};
         int[] dC = {0 , 1 , 0 , -1};
         PriorityQueue<int[]> pq = new PriorityQueue<int[]>((x , y)->Integer.compare(x[2] , y[2]));
@@ -14,13 +14,13 @@ class Solution {
         for(int i = 0; i < matrix.length; i++){
             for(int j = 0; j < matrix[0].length(); j++){
                 if(matrix[i].charAt(j) >= 'A' && matrix[i].charAt(j) <= 'Z')
-                map.put(matrix[i].charAt(j) , new ArrayList<>());
+                    map.put(matrix[i].charAt(j) , new ArrayList<>());
             }
         }
         for(int i = 0; i < matrix.length; i++){
             for(int j = 0; j < matrix[0].length(); j++){
                 if(matrix[i].charAt(j) >= 'A' && matrix[i].charAt(j) <= 'Z')
-                map.get(matrix[i].charAt(j)).add(new int[]{i , j});
+                    map.get(matrix[i].charAt(j)).add(new int[]{i , j});
             }
         }
         d[0][0] = 0;
@@ -31,9 +31,9 @@ class Solution {
             int distance = pq.peek()[2];
             pq.poll();
             if(distance > d[r][c])
-            continue;
+                continue;
             if(r == matrix.length-1 && c == matrix[0].length()-1)
-            return distance;
+                return distance;
             if(matrix[r].charAt(c) >= 'A' && matrix[r].charAt(c) <= 'Z' && !set.contains(matrix[r].charAt(c))){
                 set.add(matrix[r].charAt(c));
                 for(int[] a : map.get(matrix[r].charAt(c))){
