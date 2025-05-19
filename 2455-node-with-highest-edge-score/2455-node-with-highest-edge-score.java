@@ -6,7 +6,7 @@ class Solution {
         }
         for(int i = 0; i < edges.length; i++){
             if(!indegree.containsKey(edges[i])){
-            indegree.put(edges[i] , new ArrayList<>());
+                indegree.put(edges[i] , new ArrayList<>());
             }
             indegree.get(edges[i]).add(i);
         }
@@ -14,7 +14,7 @@ class Solution {
         for(int i = 0; i < indegree.size(); i++){
             long s = 0;
             for(int j = 0; j < indegree.get(i).size(); j++){
-                 s += indegree.get(i).get(j);
+                s += indegree.get(i).get(j);
             }
             ans[i] = s;
         }
