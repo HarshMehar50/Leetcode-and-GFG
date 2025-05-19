@@ -5,7 +5,7 @@ class Solution {
         a[1] += adj.get(node).size();
         for(Integer x : adj.get(node)){
             if(!visited[x])
-            DFS(x , visited , adj , a);
+                DFS(x , visited , adj , a);
         }
     }
     public long countPairs(int n, int[][] edges) {
