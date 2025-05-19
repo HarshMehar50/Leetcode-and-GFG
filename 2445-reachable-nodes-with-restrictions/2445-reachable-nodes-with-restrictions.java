@@ -6,27 +6,21 @@ class Solution {
         }
         for (int[] edge : edges) {
             adj.get(edge[0]).add(edge[1]);
-            adj.get(edge[1]).add(edge[0]); 
+            adj.get(edge[1]).add(edge[0]);
         }
-
-        // Mark restricted nodes
         boolean[] vis = new boolean[n];
         for (int i = 0; i < restricted.length; i++) {
             vis[restricted[i]] = true;
         }
-        if (vis[0] == true) return 0; // if 0 itself is a restricted node
-
-        // Initialize BFS
+        if (vis[0] == true)
+            return 0;
         int count = 0;
         Queue<Integer> q = new LinkedList<>();
         vis[0] = true;
         q.offer(0);
-
-        // Perform BFS
         while (!q.isEmpty()) {
             int node = q.poll();
             count++;
-
             for (Integer it : adj.get(node)) {
                 if (!vis[it]) {
                     vis[it] = true;
@@ -34,7 +28,6 @@ class Solution {
                 }
             }
         }
-
         return count;
     }
 }
