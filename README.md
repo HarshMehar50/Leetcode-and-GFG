@@ -85,6 +85,7 @@
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
@@ -475,6 +476,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3264-maximum-points-after-enemy-battles) |
@@ -793,6 +795,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2793-count-the-number-of-complete-components) |
 | [2803-modify-graph-edge-weights](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2803-modify-graph-edge-weights) |
+| [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3189-find-champion-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3189-find-champion-ii) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
@@ -1172,6 +1175,7 @@
 | ------- |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
