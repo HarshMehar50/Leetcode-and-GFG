@@ -38,7 +38,7 @@ class Solution {
             }
             s = s/2;
             if(s == l.size()*(l.size()-1)/2)
-            connect++;
+                connect++;
         }
         return connect;
     }
