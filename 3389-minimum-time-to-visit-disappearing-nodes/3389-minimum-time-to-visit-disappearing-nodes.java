@@ -32,7 +32,7 @@ class Solution {
         }
         for(int i = 0; i < n; i++){
             if(d[i] > disappear[i])
-            d[i] = -1;
+                d[i] = -1;
         }
         return d;
     }
