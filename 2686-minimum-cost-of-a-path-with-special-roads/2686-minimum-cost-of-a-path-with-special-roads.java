@@ -10,7 +10,7 @@ class Solution {
             int cost = pq.peek()[2];
             pq.poll();
             if(x == target[0] && y == target[1])
-            return cost;
+                return cost;
             for(int i = 0; i < specialRoads.length; i++){
                 int nc = Math.abs(x-specialRoads[i][0])+Math.abs(y-specialRoads[i][1])+specialRoads[i][4];
                 if(nc+cost < d[i]){
