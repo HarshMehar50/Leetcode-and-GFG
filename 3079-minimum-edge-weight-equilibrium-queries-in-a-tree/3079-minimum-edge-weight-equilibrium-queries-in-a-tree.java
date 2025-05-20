@@ -89,7 +89,9 @@ class Solution {
             int ec = d[queries[i][0]]+d[queries[i][1]]-(2*d[lca]);
             for(int j = 1; j <= mw; j++){
                 ans[i] = Math.min(ans[i] , ec-(f[queries[i][0]][j]+f[queries[i][1]][j]-(2*f[lca][j])));
-            }  
+            } 
+            if(ans[i] == Integer.MAX_VALUE)
+            ans[i] = 0; 
         }
         return ans;
     }
