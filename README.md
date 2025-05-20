@@ -312,6 +312,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0074-search-a-2d-matrix) |
@@ -996,6 +997,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0090-subsets-ii) |
