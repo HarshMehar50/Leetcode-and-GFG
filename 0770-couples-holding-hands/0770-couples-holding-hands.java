@@ -32,7 +32,6 @@ class Solution {
                 DFS(adj , visited , i);
             }
         }
-        System.out.println(c);
         return (row.length/2)-c;
     }
 }
