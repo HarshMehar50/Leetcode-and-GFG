@@ -496,6 +496,7 @@
 | [3518-maximum-multiplication-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3518-maximum-multiplication-score) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3639-zero-array-transformation-i) |
 | [3654-minimum-array-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3654-minimum-array-sum) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
@@ -810,6 +811,7 @@
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Minimum Spanning Tree
 |  |
@@ -1094,6 +1096,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3849-equal-sum-grid-partition-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3849-equal-sum-grid-partition-i) |
@@ -1136,6 +1139,7 @@
 | [3386-find-edges-in-shortest-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1157,6 +1161,7 @@
 | [3386-find-edges-in-shortest-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Sliding Window
 |  |
 | ------- |
