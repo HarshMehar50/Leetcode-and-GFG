@@ -15,14 +15,14 @@ class Solution {
             int altTurn = q.peek()[4];
             q.poll();
             if(r == moveTime.length-1 && c == moveTime[0].length-1)
-            return time;
+                return time;
             for(int i = 0; i < 4; i++){
                 int nr = r+dR[i];
                 int nc = c+dC[i];
                 if(nr < moveTime.length && nr >= 0 && nc < moveTime[0].length && nc >= 0 && !visited[nr][nc]){
                     if(altTurn == 1){
-                    q.offer(new int[]{Math.max(time+altTurn , moveTime[nr][nc]+altTurn) , nr , nc , moveTime[nr][nc] , 2});
-                    visited[nr][nc] = true;
+                        q.offer(new int[]{Math.max(time+altTurn , moveTime[nr][nc]+altTurn) , nr , nc , moveTime[nr][nc] , 2});
+                        visited[nr][nc] = true;
                     }else if(altTurn == 2){
                         q.offer(new int[]{Math.max(time+altTurn , moveTime[nr][nc]+altTurn) , nr , nc , moveTime[nr][nc] , 1});
                         visited[nr][nc] = true;
