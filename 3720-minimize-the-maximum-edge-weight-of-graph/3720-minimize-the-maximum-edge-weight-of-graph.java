@@ -60,7 +60,7 @@ class Solution {
         DFS(adj , visited , 0 , m);
         for(int i = 0; i < visited.length; i++){
             if(!visited[i])
-            return false;
+                return false;
         }
         return true;
     }
@@ -82,12 +82,12 @@ class Solution {
                 ans = m;
                 e = m-1;
             }else
-            s = m+1;
+                s = m+1;
         }
         if(ans == Integer.MAX_VALUE)
-        return -1;
+            return -1;
         else
-        return ans;
+            return ans;
     }
     public int minMaxWeight(int n, int[][] edges, int threshold) {
         /*DisjointSet ds = new DisjointSet(n);
