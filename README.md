@@ -172,6 +172,7 @@
 | [3386-find-edges-in-shortest-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3386-find-edges-in-shortest-paths) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -270,6 +271,7 @@
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -640,6 +642,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2690-house-robber-iv) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Greedy
 |  |
@@ -814,6 +817,7 @@
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Minimum Spanning Tree
 |  |
@@ -1167,6 +1171,7 @@
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Sliding Window
 |  |
 | ------- |
