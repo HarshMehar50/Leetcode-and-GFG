@@ -22,7 +22,7 @@ class Solution {
             int up = findParent(u);
             int vp = findParent(v);
             if(up == vp)
-            return;
+                return;
             if(rank[up] < rank[vp]){
                 parent[up] = vp;
             }else if(rank[vp] < rank[up]){
@@ -36,7 +36,7 @@ class Solution {
             int up = findParent(u);
             int vp = findParent(v);
             if(up == vp)
-            return;
+                return;
             if(size[up] < size[vp]){
                 parent[up] = vp;
                 size[vp] = size[vp]+size[up];
@@ -53,12 +53,12 @@ class Solution {
         while(s <= e){
             int m = s+(e-s)/2;
             if(arr[m] == x)
-            return m;
+                return m;
             else if(arr[m] < x){
                 floor = m;
                 s = m+1;
             }else
-            e = m-1;
+                e = m-1;
         }
         return floor;
     }
@@ -69,9 +69,9 @@ class Solution {
         while(s <= e){
             int m = s+(e-s)/2;
             if(arr[m] == x)
-            return m;
+                return m;
             else if(arr[m] < x)
-            s = m+1;
+                s = m+1;
             else{
                 ceil = m;
                 e = m-1;
@@ -108,9 +108,9 @@ class Solution {
         l.add(range[0]);
         for(int i = 1; i < n; i++){
             if(range[i][0] <= l.get(l.size()-1)[1])
-            l.get(l.size()-1)[1] = range[i][1];
+                l.get(l.size()-1)[1] = range[i][1];
             else
-            l.add(range[i]);
+                l.add(range[i]);
         }
         int[] p = new int[n];
         for(int i = 0; i < l.size(); i++){
@@ -122,7 +122,7 @@ class Solution {
         for(int i = 0; i < queries.length; i++){
             //if(ds.findParent(queries[i][0]) == ds.findParent(queries[i][1]))
             if(p[queries[i][0]] == p[queries[i][1]])
-            ans[i] = true;
+                ans[i] = true;
         }
         return ans;
     }
