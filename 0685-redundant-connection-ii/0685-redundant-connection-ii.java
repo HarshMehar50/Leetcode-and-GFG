@@ -3,7 +3,7 @@ class Solution {
         visited[node] = true;
         for(Integer x : adj.get(node)){
             if(!visited[x])
-            DFS(adj , x , visited);
+                DFS(adj , x , visited);
         }
     }
     boolean check(int[][] edges , int skip){
@@ -15,8 +15,8 @@ class Solution {
         boolean[] visited = new boolean[edges.length+1];
         for(int i = 0; i < edges.length; i++){
             if(i != skip){
-            adj.get(edges[i][0]).add(edges[i][1]);
-            indegree[edges[i][1]]++;
+                adj.get(edges[i][0]).add(edges[i][1]);
+                indegree[edges[i][1]]++;
             }
         }
         indegree[0] = Integer.MAX_VALUE;
@@ -25,9 +25,9 @@ class Solution {
         int c = 0;
         for(int i = 1; i <= edges.length; i++){
             if(indegree[i] == 0)
-            c0++;
+                c0++;
             else if(indegree[i] == 1)
-            c1++;
+                c1++;
         }
         int start = -1;
         for(int i = 1; i < indegree.length; i++){
@@ -37,17 +37,17 @@ class Solution {
             }
         }
         if(start != -1)
-        DFS(adj , start , visited);
+            DFS(adj , start , visited);
         else if(start == -1)
-        return false;
+            return false;
         for(int i = 1; i < visited.length; i++){
             if(visited[i])
-            c++;
+                c++;
         }
         if(c0 == 1 && c1 == edges.length-1 && c == edges.length)
-        return true;
+            return true;
         else
-        return false;
+            return false;
     }
     public int[] findRedundantDirectedConnection(int[][] edges) {
         int[] ans = new int[2];
