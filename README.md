@@ -85,6 +85,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2597-cycle-length-queries-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -309,6 +310,7 @@
 | [1731-even-odd-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1731-even-odd-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2597-cycle-length-queries-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Array
 |  |
@@ -468,6 +470,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2597-cycle-length-queries-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2621-find-xor-beauty-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2621-find-xor-beauty-of-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2631-sort-the-students-by-their-kth-score) |
