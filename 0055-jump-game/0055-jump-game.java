@@ -9,7 +9,7 @@ class Solution {
             int n = q.peek()[1];
             q.poll();
             if(index == nums.length-1)
-            return true;
+                return true;
             for(int i = 0; i <= nums[index]; i++){
                 if(i+index < nums.length && !visited[i+index]){
                     q.offer(new int[]{i+index , nums[i+index]});
