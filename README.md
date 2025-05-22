@@ -320,6 +320,7 @@
 | [0042-trapping-rain-water](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0074-search-a-2d-matrix) |
@@ -519,6 +520,7 @@
 | [0042-trapping-rain-water](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0070-climbing-stairs) |
@@ -984,6 +986,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0191-number-of-1-bits) |
