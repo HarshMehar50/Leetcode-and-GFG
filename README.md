@@ -88,6 +88,7 @@
 | [2597-cycle-length-queries-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
@@ -492,6 +493,7 @@
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3264-maximum-points-after-enemy-battles) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3422-find-the-n-th-value-after-k-seconds) |
@@ -613,6 +615,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3518-maximum-multiplication-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3518-maximum-multiplication-score) |
@@ -676,6 +679,7 @@
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3192-maximum-xor-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3192-maximum-xor-product) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3264-maximum-points-after-enemy-battles) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Math
 |  |
@@ -909,6 +913,7 @@
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2728-sum-in-a-matrix) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3430-count-days-without-meetings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3430-count-days-without-meetings) |
 ## String
 |  |
@@ -1059,6 +1064,7 @@
 | [2621-find-xor-beauty-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2621-find-xor-beauty-of-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3192-maximum-xor-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3192-maximum-xor-product) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3394-minimum-array-end](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3394-minimum-array-end) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Bitmask
