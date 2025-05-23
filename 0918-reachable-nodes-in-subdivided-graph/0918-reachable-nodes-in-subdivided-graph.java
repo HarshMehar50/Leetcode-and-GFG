@@ -29,7 +29,7 @@ class Solution {
         int ans = 0;
         for(int i = 0; i < n; i++){
             if(d[i] <= maxMoves)
-            ans++;
+                ans++;
         }
         for(int i = 0; i < edges.length; i++){
             int x = Math.max(0 , maxMoves-d[edges[i][0]]);
