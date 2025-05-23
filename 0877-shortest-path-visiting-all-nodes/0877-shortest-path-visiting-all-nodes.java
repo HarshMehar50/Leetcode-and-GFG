@@ -1,7 +1,7 @@
 class Solution {
     public int shortestPathLength(int[][] graph) {
         if(graph.length == 0 || graph.length == 1)
-        return 0;
+            return 0;
         HashMap<Integer , int[]> adj = new HashMap<>();
         for(int i = 0; i < graph.length; i++){
             adj.put(i , graph[i]);
@@ -25,7 +25,7 @@ class Solution {
                     int nextMask = (mask|(1<<adj.get(node)[i]));
                     if(visited[adj.get(node)[i]][nextMask]) continue;
                     if(nextMask == allVisited)
-                    return ans;
+                        return ans;
                     visited[adj.get(node)[i]][nextMask] = true;
                     q.offer(new int[]{adj.get(node)[i] , nextMask});
                 }
