@@ -44,12 +44,12 @@ class Solution {
         return dp[i][j];
     }
     public int minDistance(String word1, String word2) {
-        int[][] dp = new int[word1.length()+1][word2.length()+1];
+        /*int[][] dp = new int[word1.length()+1][word2.length()+1];
         for(int i = 0; i < dp.length; i++){
             Arrays.fill(dp[i] , -1);
         }
-        return solve(word1 , word2 , 0 , 0 , dp);
-        //return solveTab(word1 , word2);
+        return solve(word1 , word2 , 0 , 0 , dp);*/
+        return solveTab(word1 , word2);
         //return solve(word1 , word2 , 0 , 0);
     }
 }
