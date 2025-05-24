@@ -15,7 +15,7 @@ class Solution {
             int cost = pq.peek()[2];
             pq.poll();
             if(r == grid.length-1 && c == grid[0].length-1)
-            return cost;
+                return cost;
             for(int i = 0; i < 4; i++){
                 int nr = r+dR[i];
                 int nc = c+dC[i];
