@@ -1,18 +1,17 @@
 class Solution {
     int solve(List<List<Integer>> triangle , int i , int j , int[][] dp){
-       if(i >= triangle.size()){
-        return 0; 
-       }
-       if(dp[i][j] != -1){
+        if(i >= triangle.size()){
+            return 0;
+        }
+        if(dp[i][j] != -1){
+            return dp[i][j];
+        }
+        int same = (triangle.get(i)).get(j) + solve(triangle , i+1 , j , dp);
+        int increment = (triangle.get(i)).get(j) + solve(triangle , i+1 , j+1 , dp);
+        int ans = Math.min(same , increment);
+        dp[i][j] = ans;
         return dp[i][j];
-       }
-       int same = (triangle.get(i)).get(j) + solve(triangle , i+1 , j , dp);
-       int increment = (triangle.get(i)).get(j) + solve(triangle , i+1 , j+1 , dp);
-       int ans = Math.min(same , increment);
-       dp[i][j] = ans;
-       return dp[i][j];
     }
-    
     public int minimumTotal(List<List<Integer>> triangle) {
         /*int s = 0;
         for(List<Integer> list : triangle){
