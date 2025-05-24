@@ -1,8 +1,10 @@
 class Solution {
-    int solve(int[] prices , int index , int buy , int dp[][]){
+    int solve(int[] prices , int index , int buy , int[][] dp){
         if(index >= prices.length){
             return 0;
         }
+        if(dp[index][buy] != -1)
+        return dp[index][buy];
         int profit = 0;
         int buyskip = 0;
         int buyinclude = 0;
@@ -19,7 +21,6 @@ class Solution {
         }
         dp[index][buy] = profit;
         return dp[index][buy];
-
     }
     int solveTab(int[] prices){
         int[][] dp = new int[prices.length+1][2];
@@ -32,11 +33,11 @@ class Solution {
                     dp[i][j] = Math.max(dp[i+1][1]+prices[i] , dp[i+1][0]);
                 }
             }
-        } 
+        }
         return dp[0][1];
     }
     public int maxProfit(int[] prices) {
-       /* int maxP = Integer.MIN_VALUE;
+        /* int maxP = Integer.MIN_VALUE;
         int profit = 0;
         int min = prices[0];
         for(int i = 1; i < prices.length; i++){
@@ -51,8 +52,11 @@ class Solution {
         return 0;
         else
         return maxP;*/
-       // int[][] dp =new int[prices.length][2];
-       // return solve(prices , 0 , 1 , dp);
-       return solveTab(prices);
+        int[][] dp =new int[prices.length][2];
+        for(int i = 0; i < dp.length; i++){
+            Arrays.fill(dp[i] , -1);
+        }
+        return solve(prices , 0 , 1 , dp);
+        //return solveTab(prices);
     }
 }
