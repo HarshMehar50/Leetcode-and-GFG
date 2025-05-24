@@ -46,6 +46,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -279,6 +280,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -532,6 +534,7 @@
 | [0064-minimum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0119-pascals-triangle-ii) |
@@ -696,6 +699,7 @@
 | [0050-powx-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
@@ -1403,6 +1407,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1427-all-elements-in-two-binary-search-trees) |
