@@ -74,12 +74,12 @@ class Solution {
         return ans.size();
     }
     public int lengthOfLIS(int[] nums) {
-        //return solveBinary(nums);
-        int[][] dp = new int[nums.length][nums.length+1];
+        return solveBinary(nums);
+        /*int[][] dp = new int[nums.length][nums.length+1];
         for(int i = 0; i < dp.length; i++){
             Arrays.fill(dp[i] , -1);
         }
-        return solve(nums  , 0  , -1 , dp);
-        // return solveTab(nums);
+        return solve(nums  , 0  , -1 , dp);*/
+        //return solveTab(nums);
     }
 }
