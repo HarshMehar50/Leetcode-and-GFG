@@ -345,6 +345,7 @@
 | [0162-find-peak-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0164-maximum-gap) |
 | [0174-dungeon-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0174-dungeon-game) |
+| [0198-house-robber](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0209-minimum-size-subarray-sum) |
@@ -545,6 +546,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0132-palindrome-partitioning-ii) |
 | [0174-dungeon-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0174-dungeon-game) |
+| [0198-house-robber](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0312-burst-balloons) |
