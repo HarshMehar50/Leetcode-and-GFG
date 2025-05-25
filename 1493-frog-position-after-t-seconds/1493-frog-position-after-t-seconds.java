@@ -25,19 +25,19 @@ class Solution {
     void DFS(int s , int parent , HashMap<Integer , List<Integer>> adj , List<List<Integer>> ans , List<Integer> inner , int d){
         inner.add(s);
         if(s == d){
-        List<Integer> c = new ArrayList<>(inner);
-        ans.add(c);
-        inner.remove(inner.size() - 1);
-        return;
+            List<Integer> c = new ArrayList<>(inner);
+            ans.add(c);
+            inner.remove(inner.size() - 1);
+            return;
         }
         List<Integer> child = adj.get(s);
         if (child == null || child.isEmpty()) {
-        inner.remove(inner.size() - 1);
-        return;
+            inner.remove(inner.size() - 1);
+            return;
         }
         for(int i = 0; i < child.size(); i++){
             if(child.get(i) != parent)
-            DFS(child.get(i) , s , adj , ans , inner , d);
+                DFS(child.get(i) , s , adj , ans , inner , d);
         }
         inner.remove(inner.size()-1);
     }
@@ -62,13 +62,13 @@ class Solution {
         List<List<Integer>> paths = allPaths(adj , 1 , target);
         List<List<Integer>> validPaths = new ArrayList<>();
         for (List<Integer> path : paths) {
-        if (path.size() <= t + 1) {
-            validPaths.add(path);
+            if (path.size() <= t + 1) {
+                validPaths.add(path);
+            }
         }
-       }
-       if (validPaths.isEmpty()) {
-        return 0;
-       }
+        if (validPaths.isEmpty()) {
+            return 0;
+        }
         /*List<Double> ans = new ArrayList<>();
         for(List<Integer> l : paths){
             double p = 1;
@@ -92,7 +92,7 @@ class Solution {
             p = p/nchild;
         }
         if(validPath.size()-1 < t && adj.get(target).size() > 1)
-        return 0;
+            return 0;
         return p;
     }
 }
