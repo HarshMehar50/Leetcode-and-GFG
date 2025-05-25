@@ -1,6 +1,6 @@
 class Solution {
     int N;
-     class DisjointSet{
+    class DisjointSet{
         int[] parent;
         int[] rank;
         public DisjointSet(int N){
@@ -20,7 +20,7 @@ class Solution {
             int up = findParent(u);
             int vp = findParent(v);
             if(up == vp)
-            return;
+                return;
             if(rank[up] > rank[vp]){
                 parent[vp] = up;
             }else if(rank[up] < rank[vp]){
@@ -51,7 +51,7 @@ class Solution {
             }
         }
         if(edgeCount != N-1)
-        return Integer.MAX_VALUE;
+            return Integer.MAX_VALUE;
         return minWeight;
     }
     public List<List<Integer>> findCriticalAndPseudoCriticalEdges(int n, int[][] edges) {
@@ -70,9 +70,9 @@ class Solution {
         List<Integer> pseudoCritical = new ArrayList<>();
         for(int i = 0; i < g.length; i++){
             if(Kruskal(g , i , -1) > mst)
-            critical.add(g[i][3]);
+                critical.add(g[i][3]);
             else if(Kruskal(g , -1 , i) == mst)
-            pseudoCritical.add(g[i][3]);
+                pseudoCritical.add(g[i][3]);
         }
         ans.add(critical);
         ans.add(pseudoCritical);
