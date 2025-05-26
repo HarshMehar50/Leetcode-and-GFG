@@ -557,6 +557,7 @@
 | [0312-burst-balloons](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -713,6 +714,7 @@
 | [0279-perfect-squares](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0390-elimination-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0390-elimination-game) |
