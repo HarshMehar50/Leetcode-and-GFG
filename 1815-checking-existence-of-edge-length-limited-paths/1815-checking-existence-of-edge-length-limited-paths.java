@@ -22,7 +22,7 @@ class Solution {
             int up = findParent(u);
             int vp = findParent(v);
             if(up == vp)
-            return;
+                return;
             if(rank[up] < rank[vp]){
                 parent[up] = vp;
             }else if(rank[vp] < rank[up]){
@@ -36,7 +36,7 @@ class Solution {
             int up = findParent(u);
             int vp = findParent(v);
             if(up == vp)
-            return;
+                return;
             if(size[up] < size[vp]){
                 parent[up] = vp;
                 size[vp] = size[vp]+size[up];
@@ -55,7 +55,7 @@ class Solution {
             q[i][2] = queries[i][2];
             q[i][3] = i;
         }
-        Arrays.sort(q , (x , y)->Integer.compare(x[0] , y[0]));
+        Arrays.sort(q , (x , y)->Integer.compare(x[2] , y[2]));
         boolean[] ans = new boolean[queries.length];
         DisjointSet ds = new DisjointSet(n);
         int j = 0;
@@ -65,9 +65,9 @@ class Solution {
                 j++;
             }
             if(ds.findParent(q[i][0]) == ds.findParent(q[i][1]))
-            ans[q[i][3]] = true;
+                ans[q[i][3]] = true;
             else
-            ans[q[i][3]] = false;
+                ans[q[i][3]] = false;
         }
         return ans;
     }
