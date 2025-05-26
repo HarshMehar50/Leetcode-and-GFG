@@ -37,11 +37,11 @@ class Solution {
         return dp[0][1];
     }
     public int maxProfit(int[] prices) {
-        int[][] dp = new int[prices.length][2];
+        /*int[][] dp = new int[prices.length][2];
         for(int i = 0; i < dp.length; i++){
             Arrays.fill(dp[i] , -1);
         }
-        return solve(prices , 0 , 1 , dp);
-        //return solveTab(prices);
+        return solve(prices , 0 , 1 , dp);*/
+        return solveTab(prices);
     }
 }
