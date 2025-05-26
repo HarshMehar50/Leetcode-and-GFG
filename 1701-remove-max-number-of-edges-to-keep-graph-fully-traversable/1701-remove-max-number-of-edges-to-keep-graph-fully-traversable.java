@@ -7,7 +7,7 @@ class Solution {
             parent = new int[n+1];
             rank = new int[n+1];
             size = new int[n+1];
-            for(int i = 0; i <= n; i++){
+            for(int i = 0; i < n; i++){
                 parent[i] = i;
                 size[i] = 1;
             }
@@ -22,7 +22,7 @@ class Solution {
             int up = findParent(u);
             int vp = findParent(v);
             if(up == vp)
-            return;
+                return;
             if(rank[up] < rank[vp]){
                 parent[up] = vp;
             }else if(rank[vp] < rank[up]){
@@ -36,7 +36,7 @@ class Solution {
             int up = findParent(u);
             int vp = findParent(v);
             if(up == vp)
-            return;
+                return;
             if(size[up] < size[vp]){
                 parent[up] = vp;
                 size[vp] = size[vp]+size[up];
@@ -53,33 +53,33 @@ class Solution {
         int c = 0;
         for(int i = 0; i < edges.length; i++){
             if(edges[i][0] == 3 && dsA.findParent(edges[i][1]) != dsA.findParent(edges[i][2])){
-            dsA.unionSetRank(edges[i][1] , edges[i][2]);
-            dsB.unionSetRank(edges[i][1] , edges[i][2]);
-            c++;
+                dsA.unionSetRank(edges[i][1] , edges[i][2]);
+                dsB.unionSetRank(edges[i][1] , edges[i][2]);
+                c++;
             }
         }
         for(int i = 0; i < edges.length; i++){
             if(edges[i][0] == 2 && dsB.findParent(edges[i][1]) != dsB.findParent(edges[i][2])){
-            dsB.unionSetRank(edges[i][1] , edges[i][2]);
-            c++;
+                dsB.unionSetRank(edges[i][1] , edges[i][2]);
+                c++;
             }
         }
         for(int i = 0; i < edges.length; i++){
             if(edges[i][0] == 1 && dsA.findParent(edges[i][1]) != dsA.findParent(edges[i][2])){
-            dsA.unionSetRank(edges[i][1] , edges[i][2]);
-            c++;
+                dsA.unionSetRank(edges[i][1] , edges[i][2]);
+                c++;
             }
         }
         boolean alice = true;
         boolean bob = true;
         for(int i = 1; i <= n; i++){
             if(dsA.findParent(i) != dsA.findParent(1))
-            alice = false;
+                alice = false;
             if(dsB.findParent(i) != dsB.findParent(1))
-            bob = false;
-        } 
+                bob = false;
+        }
         if(!alice || !bob)
-        return -1;
+            return -1;
 
         return edges.length-c;
     }
