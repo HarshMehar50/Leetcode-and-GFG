@@ -562,6 +562,7 @@
 | [0337-house-robber-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0376-wiggle-subsequence) |
@@ -718,6 +719,7 @@
 | [0326-power-of-three](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0390-elimination-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0390-elimination-game) |
@@ -1062,6 +1064,7 @@
 | [0090-subsets-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0216-combination-sum-iii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0787-sliding-puzzle) |
