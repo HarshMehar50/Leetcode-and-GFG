@@ -14,11 +14,14 @@ class Solution {
                 if(graph[i][j] || graph[j][i]){
                     for(int k = 1; k <= n; k++){
                         if((graph[j][k] || graph[k][j])&&(graph[i][k] || graph[k][i]))
-                        ans = Math.min(ans , degree[i]+degree[j]+degree[k]-6);
+                            ans = Math.min(ans , degree[i]+degree[j]+degree[k]-6);
                     }
                 }
             }
         }
-        return ans;
+        if(ans != Integer.MAX_VALUE)
+            return ans;
+        else
+            return -1;
     }
 }
