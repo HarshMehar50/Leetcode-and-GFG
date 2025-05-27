@@ -14,7 +14,7 @@ class Solution {
         Queue<Integer> q = new LinkedList<>();
         for(int i = 0; i < colors.length(); i++){
             if(indegree[i] == 0)
-            q.offer(i);
+                q.offer(i);
         }
         int[][] dp = new int[colors.length()][26];
         while(!q.isEmpty()){
@@ -28,11 +28,11 @@ class Solution {
                 }
                 indegree[x]--;
                 if(indegree[x] == 0)
-                q.offer(x);
+                    q.offer(x);
             }
         }
         if(c != colors.length())
-        return -1;
+            return -1;
         return ans;
     }
 }
