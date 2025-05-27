@@ -1,16 +1,16 @@
 class Solution {
     int solve(int[] nums , int c , int p , int g , int[][][] dp){
         if(c >= nums.length)
-        return 0;
+            return 0;
         if(dp[c][p+1][g] != -1)
-        return dp[c][p+1][g];
+            return dp[c][p+1][g];
         int include = 0;
         if(g == 1){
             if(p == -1 || (p != -1 && nums[c] > nums[p]))
-            include = 1+solve(nums, c+1 , c , 0 , dp);
+                include = 1+solve(nums , c+1 , c , 0 , dp);
         }else{
             if(p == -1 || (p != -1 && nums[c] < nums[p]))
-            include = 1+solve(nums , c+1 , c , 1 , dp);
+                include = 1+solve(nums , c+1 , c , 1 , dp);
         }
         int exclude = solve(nums , c+1 , p , g , dp);
         int ans = Math.max(include , exclude);
