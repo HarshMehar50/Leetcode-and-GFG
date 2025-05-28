@@ -5,7 +5,7 @@ class Solution {
         for(int i = 1; i <= target; i++){
             for(int j = 0; j < nums.length; j++){
                 if(i-nums[j] >= 0)
-                dp[i] += dp[i-nums[j]]; 
+                    dp[i] += dp[i-nums[j]];
             }
         }
         return dp[target];
