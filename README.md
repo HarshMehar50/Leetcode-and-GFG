@@ -569,6 +569,7 @@
 | [0377-combination-sum-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0416-partition-equal-subset-sum) |
@@ -686,6 +687,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0402-remove-k-digits) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0646-maximum-length-of-pair-chain) |
@@ -1084,6 +1086,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0342-power-of-four) |
+| [0397-integer-replacement](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0477-total-hamming-distance) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0877-shortest-path-visiting-all-nodes) |
@@ -1308,6 +1311,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0397-integer-replacement) |
 | [0787-sliding-puzzle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0787-sliding-puzzle) |
 | [1013-fibonacci-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1236-n-th-tribonacci-number) |
