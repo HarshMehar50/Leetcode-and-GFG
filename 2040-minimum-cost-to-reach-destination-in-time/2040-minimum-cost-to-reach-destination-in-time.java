@@ -21,7 +21,7 @@ class Solution {
             int time = pq.peek()[2];
             pq.poll();
             if(node == passingFees.length-1)
-            return cost;
+                return cost;
             for(int i = 0; i < adj.get(node).size(); i++){
                 int adjnode = adj.get(node).get(i)[0];
                 int nextTime = adj.get(node).get(i)[1];
