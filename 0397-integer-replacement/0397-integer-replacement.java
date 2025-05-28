@@ -1,25 +1,25 @@
 class Solution {
-    int solve(long n){
+    int solve(long n , HashMap<Long , Integer> dp){
         if(n == 1){
             return 0;
         }
         if(n < 1){
             return Integer.MAX_VALUE;
         }
-        /*if(dp.containsKey(n)){
+        if(dp.containsKey(n)){
             return dp.get(n);
-        }*/
+        }
         int ans = 0;
         int includeOddAdd = 0;
         int includeOddSub = 0;
         if(n%2 == 0){
-            ans = 1+solve(n/2);
+            ans = 1+solve(n/2 , dp);
         }else{
-            includeOddAdd = solve(n+1);
-            includeOddSub = solve(n-1);
+            includeOddAdd = solve(n+1 , dp);
+            includeOddSub = solve(n-1 , dp);
             ans = 1+Math.min(includeOddSub , includeOddAdd);
         }
-        //dp.put(n , ans);
+        dp.put(n , ans);
         return ans;
     }
     /*int solveTab(int n){
@@ -39,7 +39,8 @@ class Solution {
         return dp[n];
     }*/
     public int integerReplacement(int n) {
-        return solve((long)n);
+        HashMap<Long , Integer> dp = new HashMap<>();
+        return solve((long)n , dp);
         //return solve(n);
     }
 }
