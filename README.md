@@ -361,6 +361,7 @@
 | [0216-combination-sum-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0312-burst-balloons) |
@@ -663,6 +664,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -1023,6 +1025,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0647-palindromic-substrings) |
@@ -1095,6 +1098,7 @@
 | [0191-number-of-1-bits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0473-matchsticks-to-square) |
