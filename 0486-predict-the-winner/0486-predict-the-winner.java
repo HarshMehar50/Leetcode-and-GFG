@@ -11,7 +11,7 @@ class Solution {
             else
             return false;
         }
-        boolean includeStart = 
+        boolean includeStart =
 
     }*/
     int solve(int[] nums , int l , int r){
@@ -28,14 +28,14 @@ class Solution {
         return dp[0][nums.length-1];
     }
     public boolean predictTheWinner(int[] nums) {
-       /* boolean[] visited = new boolean[nums.length];
+        /* boolean[] visited = new boolean[nums.length];
         Arrays.fill(visited , false);
         return solve(nums , visited , 0 , 0 , 0 , true);*/
         int ans = solve(nums , 0 , nums.length-1);
         System.out.println(ans);
         if(ans >= 0)
-        return true;
+            return true;
         else
-        return false;
+            return false;
     }
 }
