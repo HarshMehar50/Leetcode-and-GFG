@@ -22,7 +22,7 @@ class Solution {
             int up = findParent(u);
             int vp = findParent(v);
             if(up == vp)
-            return;
+                return;
             if(rank[up] < rank[vp]){
                 parent[up] = vp;
             }else if(rank[vp] < rank[up]){
@@ -36,7 +36,7 @@ class Solution {
             int up = findParent(u);
             int vp = findParent(v);
             if(up == vp)
-            return;
+                return;
             if(size[up] < size[vp]){
                 parent[up] = vp;
                 size[vp] = size[vp]+size[up];
@@ -67,7 +67,7 @@ class Solution {
                 }
             }
             if(ans[i])
-            ds.unionSetRank(requests[i][0] , requests[i][1]);
+                ds.unionSetRank(requests[i][0] , requests[i][1]);
         }
         return ans;
     }
