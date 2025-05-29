@@ -25,11 +25,11 @@ class Solution {
         return ans;
     }
     public int findTargetSumWays(int[] nums, int target) {
-        /*int[][] dp = new int[nums.length][2001];
+        int[][] dp = new int[nums.length][2001];
         for(int i = 0; i < dp.length; i++){
             Arrays.fill(dp[i] , -1);
         }
-        return solve(nums , target , 0 , 0 , dp);*/
-        return solveRec(nums , target , 0 , 0);
+        return solve(nums , target , 0 , 0 , dp);
+        //return solveRec(nums , target , 0 , 0);
     }
 }
