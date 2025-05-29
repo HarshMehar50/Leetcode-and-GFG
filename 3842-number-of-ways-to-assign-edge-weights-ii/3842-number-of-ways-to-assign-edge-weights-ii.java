@@ -40,6 +40,18 @@ class Solution {
         }
         return ancestors[u][0];
     }
+    int modPow(int base, int exp, int mod) {
+    long result = 1;
+    long b = base;
+    while (exp > 0) {
+        if ((exp & 1) == 1) {
+            result = (result * b) % mod;
+        }
+        b = (b * b) % mod;
+        exp >>= 1;
+    }
+    return (int) result;
+    }
     public int[] assignEdgeWeights(int[][] edges, int[][] queries) {
         HashMap<Integer , List<Integer>> adj = new HashMap<>();
         for(int i = 1; i <= edges.length+1; i++){
@@ -62,9 +74,7 @@ class Solution {
             ans[i] = 0;
             else{
                 int l = depth[queries[i][0]]+depth[queries[i][1]]-(2*depth[LCA(adj , ancestors , depth , queries[i][0] , queries[i][1])]);
-                for(int j = 0; j < l-1; j++){
-                    ans[i] = (ans[i]*2)%mod;
-                }
+                ans[i] = modPow(2, l - 1, mod);
             }
         }
         return ans;
