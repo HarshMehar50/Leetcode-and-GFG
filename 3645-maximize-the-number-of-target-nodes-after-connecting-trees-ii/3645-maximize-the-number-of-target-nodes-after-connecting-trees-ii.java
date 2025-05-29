@@ -98,11 +98,14 @@ class Solution {
         List<List<Integer>> list1 = BFS(adj1);
         List<List<Integer>> list2 = BFS(adj2);
         int max = Math.max(list2.get(0).size() , list2.get(1).size());
+        int[] value = new int[edges1.length+1];
+        for(List<Integer> l : list1){
+            for(Integer x : l){
+                value[x] = l.size();
+            }
+        }
         for(int i = 0; i < ans.length; i++){
-            if(list1.get(0).contains(i))
-            ans[i] = list1.get(0).size()+max;
-            else
-            ans[i] = list1.get(1).size()+max;
+            ans[i] = value[i]+max;
         }
         return ans;
     }
