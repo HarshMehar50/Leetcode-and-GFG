@@ -9,7 +9,7 @@ class Solution {
         }
         for(int i = lastIndex ; i >= 0; i--){
             if(visited[i]) continue;
-            int temp = subsetSum[index] + matchsticks[i]; 
+            int temp = subsetSum[index] + matchsticks[i];
             if(temp <= target){
                 visited[i] = true;
                 subsetSum[index] += matchsticks[i];
