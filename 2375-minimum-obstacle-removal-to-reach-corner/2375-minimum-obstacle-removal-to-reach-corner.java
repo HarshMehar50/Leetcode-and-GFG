@@ -20,7 +20,7 @@ class Solution {
                     d[nr][nc] = distance+grid[nr][nc];
                     pq.offer(new int[]{d[nr][nc] , nr , nc});
                 }
-            } 
+            }
         }
         return d[grid.length-1][grid[0].length-1];
     }
