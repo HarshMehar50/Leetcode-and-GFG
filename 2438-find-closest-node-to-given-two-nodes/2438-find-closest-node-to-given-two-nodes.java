@@ -44,7 +44,7 @@ class Solution {
         }
         for(int i = 0; i < edges.length; i++){
             if(edges[i] != -1)
-                adj.get(i).add(edges[i]);
+            adj.get(i).add(edges[i]);
         }
         int[] d1 = dijkstra(adj , node1);
         int[] d2 = dijkstra(adj , node2);
