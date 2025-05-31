@@ -3,7 +3,7 @@ class Solution {
         visited[node] = true;
         for(Integer x : adj.get(node)){
             if(!visited[x])
-            topSort(x , visited , s , adj);   
+                topSort(x , visited , s , adj);
         }
         s.push(node);
     }
@@ -13,7 +13,7 @@ class Solution {
         a[1] += transpose.get(node).size();
         for(Integer x : transpose.get(node)) {
             if(!visited[x])
-            revDFS(x , visited , transpose , a);
+                revDFS(x , visited , transpose , a);
         }
     }
     public int longestCycle(int[] edges) {
@@ -29,7 +29,7 @@ class Solution {
         boolean[] visited = new boolean[edges.length];
         for(int i = 0; i < visited.length; i++){
             if(!visited[i])
-            topSort(i , visited , s , adj);
+                topSort(i , visited , s , adj);
         }
         HashMap<Integer , List<Integer>> transpose = new HashMap<>();
         for(int i = 0; i < edges.length; i++){
@@ -51,8 +51,8 @@ class Solution {
             }
         }
         if(max != 1)
-        return max;
+            return max;
         else
-        return -1;
+            return -1;
     }
 }
