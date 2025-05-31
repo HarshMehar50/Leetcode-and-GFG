@@ -25,7 +25,7 @@ class Solution {
         visited[node] = true;
         for(Integer x : adj.get(node)){
             if(!visited[x])
-            max = Math.max(max , maxComp(adj , x , visited , levels));
+                max = Math.max(max , maxComp(adj , x , visited , levels));
         }
         return max;
     }
@@ -44,7 +44,7 @@ class Solution {
                             c[x] = 1-c[node];
                             q.offer(x);
                         }else if(c[x] == c[node])
-                        return false;
+                            return false;
                     }
                 }
             }
@@ -62,7 +62,7 @@ class Solution {
         }
         boolean bipartite = checkBipartite(n , adj);
         if(!bipartite)
-        return -1;
+            return -1;
         else{
             int[] levels = new int[n+1];
             for(int i = 1; i <= n; i++){
@@ -72,7 +72,7 @@ class Solution {
             boolean[] visited = new boolean[n+1];
             for(int i = 1; i <= n; i++){
                 if(!visited[i])
-                ans += maxComp(adj , i , visited , levels);
+                    ans += maxComp(adj , i , visited , levels);
             }
             return ans;
         }
