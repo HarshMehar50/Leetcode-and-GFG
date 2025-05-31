@@ -1,5 +1,5 @@
 class Solution {
-   /* void createList(int[] nums , int c , int p , List<List<Integer>> result , List<Integer> inner , int l , boolean include){
+    /* void createList(int[] nums , int c , int p , List<List<Integer>> result , List<Integer> inner , int l , boolean include){
         if(inner.size() == l){
             result.add(inner);
         }
@@ -45,7 +45,7 @@ class Solution {
             for(int j = 0; j < i; j++){
                 if(nums[j] < nums[i]){
                     if(lis[i] == lis[j]+1)
-                    dp[i] += dp[j];
+                        dp[i] += dp[j];
                     else if(lis[i] < lis[j]+1){
                         lis[i] = lis[j]+1;
                         dp[i] = dp[j];
@@ -60,7 +60,7 @@ class Solution {
         int ans = 0;
         for(int i = 0; i < nums.length; i++){
             if(lis[i] == max)
-            ans += dp[i];
+                ans += dp[i];
         }
         return ans;
     }
