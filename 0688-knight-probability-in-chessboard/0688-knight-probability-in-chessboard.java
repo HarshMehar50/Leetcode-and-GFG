@@ -3,11 +3,11 @@ class Solution {
     int[] dC = {-1 , 1 , -2 , 2 , -2 , 2 , -1 , 1};
     double solve(int n , int k , int r , int c , double[][][] dp){
         if(r < 0 || r >= n || c < 0 || c >= n)
-        return 0;
+            return 0;
         if(k == 0)
-        return 1;
+            return 1;
         if(dp[k][r][c] != -1)
-        return dp[k][r][c];
+            return dp[k][r][c];
         double ans = 0;
         for(int i = 0; i < 8; i++){
             int nr = r+dR[i];
