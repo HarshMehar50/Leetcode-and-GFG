@@ -3,7 +3,7 @@ class Solution {
         PriorityQueue<int[]> pq = new PriorityQueue<int[]>((x , y)->Integer.compare(x[0] , y[0]));
         boolean[][] visited = new boolean[grid.length][grid[0].length];
         if(grid[0][1] > 1 && grid[1][0] > 1)
-        return -1;
+            return -1;
         pq.offer(new int[]{grid[0][0] , 0 , 0});
         int[] dR = {1 , 0 , -1 , 0};
         int[] dC = {0 , 1 , 0 , -1};
@@ -14,7 +14,7 @@ class Solution {
             int c = pq.peek()[2];
             pq.poll();
             if(r == grid.length-1 && c == grid[0].length-1)
-            return time;
+                return time;
             for(int i = 0; i < 4; i++){
                 int nr = r+dR[i];
                 int nc = c+dC[i];
