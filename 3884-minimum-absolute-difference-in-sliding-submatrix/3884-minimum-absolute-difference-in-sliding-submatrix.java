@@ -1,6 +1,5 @@
 class Solution {
     int solve(int r , int c , int[][] grid , int k){
-        int ans = Integer.MAX_VALUE;
         List<Integer> l = new ArrayList<>();
         for(int i = r; i < r+k; i++){
             for(int j = c; j < c+k; j++){
@@ -8,9 +7,10 @@ class Solution {
                 l.add(grid[i][j]);
             }
         }
+        int ans = Integer.MAX_VALUE;
         Collections.sort(l);
         for(int i = 0; i < l.size()-1; i++){
-            if(l.get(i+1) != l.get(i))
+            if(l.get(i) != l.get(i+1))
             ans = Math.min(ans , Math.abs(l.get(i+1)-l.get(i)));
         }
         if(ans != Integer.MAX_VALUE)
