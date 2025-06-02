@@ -18,6 +18,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0690-employee-importance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0740-delete-and-earn) |
 | [0753-open-the-lock](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0753-open-the-lock) |
 | [0797-rabbits-in-forest](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -404,6 +405,7 @@
 | [0733-flood-fill](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0753-open-the-lock) |
 | [0787-sliding-puzzle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0787-sliding-puzzle) |
@@ -606,6 +608,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0740-delete-and-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
