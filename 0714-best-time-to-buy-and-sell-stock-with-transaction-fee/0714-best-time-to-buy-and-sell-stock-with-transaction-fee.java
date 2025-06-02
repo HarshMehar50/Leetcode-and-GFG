@@ -38,11 +38,11 @@ class Solution {
 
     }
     public int maxProfit(int[] prices, int fee) {
-        int[][] dp = new int[prices.length][2];
+        /*int[][] dp = new int[prices.length][2];
         for(int i = 0; i < dp.length; i++){
             Arrays.fill(dp[i] , -1);
         }
-        return solve(prices , 0 , 1 , fee , dp);
-        //return solveTab(prices , fee);
+        return solve(prices , 0 , 1 , fee , dp);*/
+        return solveTab(prices , fee);
     }
 }
