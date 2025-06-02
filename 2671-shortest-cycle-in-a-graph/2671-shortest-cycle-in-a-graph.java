@@ -17,7 +17,7 @@ class Solution {
                 }
             }
         }
-        return ans+1;
+        return ans;
     }
     public int findShortestCycle(int n, int[][] edges) {
         HashMap<Integer , List<Integer>> adj = new HashMap<>();
