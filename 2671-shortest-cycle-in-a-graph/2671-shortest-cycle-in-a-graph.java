@@ -17,7 +17,7 @@ class Solution {
                 }
             }
         }
-        return ans;
+        return ans+1;
     }
     public int findShortestCycle(int n, int[][] edges) {
         HashMap<Integer , List<Integer>> adj = new HashMap<>();
@@ -33,7 +33,7 @@ class Solution {
             ans = Math.min(ans , BFS(adj , n , i));
         }
         if(ans != Integer.MAX_VALUE)
-        return ans;
+            return ans;
         else return -1;
     }
 }
