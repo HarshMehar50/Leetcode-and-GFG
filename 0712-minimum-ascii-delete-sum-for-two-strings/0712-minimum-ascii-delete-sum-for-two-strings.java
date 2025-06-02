@@ -46,7 +46,7 @@ class Solution {
         for(int i = 0; i < dp.length; i++){
             Arrays.fill(dp[i] , -1);
         }
-        int common = solve(s1 , s2 , 0 , 0 , dp);
+        int common = solveTab(s1 , s2);
         int sum1 = 0;
         int sum2 = 0;
         for(int i = 0; i < s1.length(); i++){
