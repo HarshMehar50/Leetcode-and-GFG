@@ -33,11 +33,13 @@ class Solution {
             q.poll();
             if(mask == (1<<l.size())-1)
             return distance;
+            if(e == 0)
+            continue;
             for(int i = 0; i < 4; i++){
                 int nr = r+dR[i];
                 int nc = c+dC[i];
-                int nmask = mask;
                 int ne = e-1;
+                int nmask = mask;
                 if(nr < classroom.length && nr >= 0 && nc < classroom[0].length() && nc >= 0 && classroom[nr].charAt(nc) != 'X'){
                     if(classroom[nr].charAt(nc) == 'R')
                     ne = energy;
@@ -49,7 +51,7 @@ class Solution {
                                 break;
                             }
                         }
-                        if(k != -1)
+                        if(k != -1 && (nmask&(1<<k)) == 0)
                         nmask = nmask|(1<<k);
                     }
                     if(ne >= 0 && visited[nr][nc][nmask] < ne){
