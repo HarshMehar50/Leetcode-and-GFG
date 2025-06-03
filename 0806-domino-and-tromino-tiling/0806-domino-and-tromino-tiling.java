@@ -26,9 +26,9 @@ class Solution {
         return dp[n];
     }
     public int numTilings(int n) {
-        int[] dp = new int[n+1];
+        /*int[] dp = new int[n+1];
         Arrays.fill(dp , -1);
-        return solve(n , dp)%mod;
-        //return solveTab(n);
+        return solve(n , dp)%mod;*/
+        return solveTab(n);
     }
 }
