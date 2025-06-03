@@ -1,5 +1,6 @@
 class Graph {
     HashMap<Integer , List<int[]>> adj = new HashMap<>();
+
     public Graph(int n, int[][] edges) {
         for(int i = 0; i < n; i++){
             adj.put(i , new ArrayList<>());
@@ -24,7 +25,7 @@ class Graph {
             int node = pq.peek()[1];
             pq.poll();
             if(node == node2)
-            return distance;
+                return distance;
             for(int i = 0; i < adj.get(node).size(); i++){
                 int weight = adj.get(node).get(i)[0];
                 int adjnode = adj.get(node).get(i)[1];
