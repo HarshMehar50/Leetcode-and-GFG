@@ -1,7 +1,7 @@
 class Solution {
     int solveHash(int[] arr){
         if(arr.length < 3)
-        return 0;
+            return 0;
         HashMap<Integer , Integer> map = new HashMap<>();
         for(int i = 0; i < arr.length; i++){
             map.put(arr[i] , i);
@@ -14,11 +14,11 @@ class Solution {
                     dp[j][i] = dp[map.get(arr[i]-arr[j])][j]+1;
                     ans = Math.max(dp[j][i]+2 , ans);
                 }else
-                dp[j][i] = 0;
+                    dp[j][i] = 0;
             }
         }
         if(ans >= 3)
-        return ans;
+            return ans;
         else return 0;
     }
     int solve(int[] arr , int c , int p1 , int p2 , int[][] dp){
@@ -30,7 +30,7 @@ class Solution {
         }
         int include = 0;
         if((p1 == -1 || p2 == -1)||(arr[p1]+arr[p2] == arr[c] && p1 != -1 && p2 != -1))
-        include = 1+solve(arr , c+1 , c , p1 , dp);
+            include = 1+solve(arr , c+1 , c , p1 , dp);
         int exclude = solve(arr , c+1 , p1 , p2 , dp);
         int ans = Math.max(include , exclude);
         dp[p1+1][p2+1] = ans;
