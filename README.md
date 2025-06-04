@@ -428,6 +428,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0948-sort-an-array) |
+| [0967-minimum-falling-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0971-shortest-bridge) |
 | [1014-k-closest-points-to-origin](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -632,6 +633,7 @@
 | [0911-profitable-schemes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0911-profitable-schemes) |
 | [0943-sum-of-subarray-minimums](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0943-sum-of-subarray-minimums) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0962-flip-string-to-monotone-increasing) |
+| [0967-minimum-falling-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1013-fibonacci-number) |
 | [1017-odd-even-jump](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1017-odd-even-jump) |
 | [1063-best-sightseeing-pair](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1063-best-sightseeing-pair) |
@@ -1198,6 +1200,7 @@
 | [0891-score-after-flipping-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0891-score-after-flipping-matrix) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0945-snakes-and-ladders) |
+| [0967-minimum-falling-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0971-shortest-bridge) |
 | [1022-unique-paths-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1022-unique-paths-iii) |
 | [1073-number-of-enclaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
