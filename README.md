@@ -39,6 +39,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2455-node-with-highest-edge-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2455-node-with-highest-edge-score) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -504,6 +505,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2551-apply-operations-to-an-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1304,6 +1306,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Rolling Hash
 |  |
 | ------- |
