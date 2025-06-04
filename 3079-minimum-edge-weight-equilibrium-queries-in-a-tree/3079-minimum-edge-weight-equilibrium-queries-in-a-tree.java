@@ -3,7 +3,7 @@ class Solution {
         ancestors[node][0] = parent;
         for(int i = 1; i < ancestors[0].length; i++){
             if(ancestors[node][i-1] != -1)
-            ancestors[node][i] = ancestors[ancestors[node][i-1]][i-1];
+                ancestors[node][i] = ancestors[ancestors[node][i-1]][i-1];
         }
         for(int[] a : adj.get(node)){
             if(a[0] != parent){
@@ -17,7 +17,7 @@ class Solution {
             if((k&(1<<i)) > 0){
                 node = ancestors[node][i];
                 if(node == -1)
-                break;
+                    break;
             }
         }
         return node;
@@ -30,7 +30,7 @@ class Solution {
         }
         u = liftNode(adj , ancestors , u , depth[u]-depth[v]);
         if(u == v)
-        return u;
+            return u;
         for(int i = ancestors[0].length-1; i >= 0; i--){
             if(ancestors[u][i] != ancestors[v][i]){
                 u = ancestors[u][i];
@@ -52,7 +52,7 @@ class Solution {
                     visited[adj.get(node).get(i)[0]] = true;
                     for(int j = 0; j < f[0].length; j++){
                         if(f[node][j] != 0)
-                        f[adj.get(node).get(i)[0]][j] = f[node][j];
+                            f[adj.get(node).get(i)[0]][j] = f[node][j];
                     }
                     f[adj.get(node).get(i)[0]][adj.get(node).get(i)[1]]++;
                 }
@@ -89,9 +89,9 @@ class Solution {
             int ec = d[queries[i][0]]+d[queries[i][1]]-(2*d[lca]);
             for(int j = 1; j <= mw; j++){
                 ans[i] = Math.min(ans[i] , ec-(f[queries[i][0]][j]+f[queries[i][1]][j]-(2*f[lca][j])));
-            } 
+            }
             if(ans[i] == Integer.MAX_VALUE)
-            ans[i] = 0; 
+                ans[i] = 0;
         }
         return ans;
     }
