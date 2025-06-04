@@ -15,8 +15,8 @@ class Solution {
     public boolean stoneGame(int[] piles) {
         int ans = solve(piles , 0 , piles.length-1);
         if(ans > 0)
-        return true;
+            return true;
         else
-        return false;
+            return false;
     }
 }
