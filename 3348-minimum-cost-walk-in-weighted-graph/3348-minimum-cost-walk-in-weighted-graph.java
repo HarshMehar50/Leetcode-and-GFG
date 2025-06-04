@@ -1,7 +1,7 @@
 class Solution {
     int find(int x , int[] parent){
         if(parent[x] == x)
-        return x;
+            return x;
         return parent[x] = find(parent[x] , parent);
     }
     public int[] minimumCost(int n, int[][] edges, int[][] query) {
@@ -25,11 +25,11 @@ class Solution {
             int p1 = find(query[i][0] , parent);
             int p2 = find(query[i][1] , parent);
             if(query[i][0] == query[i][1])
-            ans[i] = 0;
+                ans[i] = 0;
             else if(p1 != p2)
-            ans[i] = -1;
+                ans[i] = -1;
             else
-            ans[i] = cost[p1];
+                ans[i] = cost[p1];
         }
         return ans;
     }
