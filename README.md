@@ -417,6 +417,7 @@
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0854-making-a-large-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
 | [0891-score-after-flipping-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0891-score-after-flipping-matrix) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0907-koko-eating-bananas) |
@@ -696,6 +697,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0794-swim-in-rising-water](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0794-swim-in-rising-water) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0907-koko-eating-bananas) |
 | [0910-nth-magical-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0910-nth-magical-number) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1087-longest-arithmetic-subsequence) |
@@ -1233,6 +1235,7 @@
 | [0744-network-delay-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [0948-sort-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1014-k-closest-points-to-origin) |
@@ -1296,6 +1299,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1286-constrained-subsequence-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1286-constrained-subsequence-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -1356,6 +1360,7 @@
 | [0238-product-of-array-except-self](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0724-find-pivot-index) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1240-stone-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1482,6 +1487,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1286-constrained-subsequence-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1286-constrained-subsequence-sum) |
 | [1814-jump-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1814-jump-game-vi) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1489,6 +1495,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1286-constrained-subsequence-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1286-constrained-subsequence-sum) |
 | [1814-jump-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1814-jump-game-vi) |
 ## Ordered Set
