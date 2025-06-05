@@ -1,5 +1,5 @@
 class Solution {
-   /* int solve(int[] nums , int d , int index){
+    int solve(int[] nums , int d , int index){
         if(index < 0){
             return 0;
         }
@@ -10,7 +10,7 @@ class Solution {
             }
         }
         return ans;
-    }*/
+    }
     int solveTab(int[] nums){
        /* if(nums.length <= 2){
             return nums.length
@@ -25,12 +25,10 @@ class Solution {
         }*/
         int count = 2;
         int len = nums.length;
-
         int[][] dp = new int[len][2000];
         for (int[] i : dp) {
             Arrays.fill(i, 0);
         }
-
         for (int i = 0; i < len; i++) {
             for (int j = i + 1; j < len; j++) {
                 int diff = nums[j] - nums[i] + 1000;
@@ -41,10 +39,14 @@ class Solution {
         return count;
     }
     public int longestArithSeqLength(int[] nums) {
-       /* if(nums.length <= 2){
+        /*if(nums.length <= 2){
             return nums.length;
         }
         int ans = 0;
+        int[][] dp = new int[nums.length][2000];
+        for(int i = 0; i < dp.length; i++){
+            Arrays.fill(dp[i] , -1);
+        }
         for(int i = 0; i < nums.length; i++){
             for(int j = i+1; j < nums.length; j++){
                 ans = Math.max(ans , 2+solve(nums , nums[j]-nums[i] , i));
