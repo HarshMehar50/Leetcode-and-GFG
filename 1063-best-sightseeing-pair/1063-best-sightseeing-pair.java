@@ -1,7 +1,7 @@
 class Solution {
     public int maxScoreSightseeingPair(int[] values) {
         if(values.length == 2)
-        return values[0]+values[1]-1;
+            return values[0]+values[1]-1;
         int[] a1 = new int[values.length];
         int[] a2 = new int[values.length];
         for(int i = 0; i < a1.length; i++){
