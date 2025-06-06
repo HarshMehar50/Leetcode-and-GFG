@@ -439,6 +439,7 @@
 | [1073-number-of-enclaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1105-uncrossed-lines) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1224-minimum-falling-path-sum-ii) |
@@ -641,6 +642,7 @@
 | [1063-best-sightseeing-pair](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1105-uncrossed-lines) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1236-n-th-tribonacci-number) |
