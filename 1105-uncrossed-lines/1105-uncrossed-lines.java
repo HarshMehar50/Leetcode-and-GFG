@@ -1,11 +1,11 @@
 class Solution {
     int solve(int[] nums1 , int[] nums2 , int i , int j , int[][] dp){
         if(i >= nums1.length || j >= nums2.length)
-        return 0;
+            return 0;
         if(dp[i][j] != -1)
-        return dp[i][j];
+            return dp[i][j];
         if(nums1[i] == nums2[j])
-        return 1+solve(nums1 , nums2 , i+1 , j+1 , dp);
+            return 1+solve(nums1 , nums2 , i+1 , j+1 , dp);
         else{
             int m1 = solve(nums1 , nums2 , i+1 , j , dp);
             int m2 = solve(nums1 , nums2 , i , j+1 , dp);
