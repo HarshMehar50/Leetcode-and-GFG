@@ -8,25 +8,25 @@ class Solution {
         }
         if(i < 0 && j >= 0){
             if(p.charAt(j) == '*'){
-            return solve(s , p , i , j-2);
+                return solve(s , p , i , j-2);
             }
             else{
-            return false;
+                return false;
             }
         }
         if(s.charAt(i) == p.charAt(j) || p.charAt(j) == '.'){
-        return solve(s , p , i-1 , j-1);
+            return solve(s , p , i-1 , j-1);
         }
         else if(p.charAt(j) == '*'){
             if(j > 0 && solve(s , p , i , j-2)){
-            return true;
+                return true;
             }
             if(j > 0 && (p.charAt(j-1) == s.charAt(i) || p.charAt(j-1) == '.')){
-            return solve(s , p , i-1 , j);
+                return solve(s , p , i-1 , j);
             }
         }
         else {
-        return false;
+            return false;
         }
         return false;
     }
