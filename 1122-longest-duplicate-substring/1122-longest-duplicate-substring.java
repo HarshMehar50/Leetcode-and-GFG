@@ -4,11 +4,10 @@ class Solution {
         int n;
         int primesCount;
         List<Long> hashPrimes = Arrays.asList(1000000009L, 1000000007L);
-        final long base = 31;
+        final long base = 27;
         List<long[]> hashValues;
         List<long[]> powersOfBase;
         List<long[]> inversePowersOfBase;
-
         public Hashing(String a) {
             s = a;
             n = s.length();
