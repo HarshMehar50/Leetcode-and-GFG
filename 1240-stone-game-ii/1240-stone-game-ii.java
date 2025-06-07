@@ -1,21 +1,21 @@
 class Solution {
     int solve(int[] piles , int i , int m , int t , int[][][] dp){
         if(i >= piles.length)
-        return 0;
+            return 0;
         if(dp[i][m][t] != -1)
-        return dp[i][m][t];
+            return dp[i][m][t];
         int ans = -1;
         if(t == 0)
-        ans = Integer.MAX_VALUE;
+            ans = Integer.MAX_VALUE;
         else
-        ans = Integer.MIN_VALUE;
+            ans = Integer.MIN_VALUE;
         int s = 0;
         for(int x = 1; x <= Math.min(2*m , piles.length-i); x++){
             s += piles[i+x-1];
             if(t == 1)
-            ans = Math.max(ans , s+solve(piles , i+x , Math.max(m , x) , 0 , dp));
+                ans = Math.max(ans , s+solve(piles , i+x , Math.max(m , x) , 0 , dp));
             else
-            ans = Math.min(ans , solve(piles , i+x , Math.max(m , x) , 1 , dp));
+                ans = Math.min(ans , solve(piles , i+x , Math.max(m , x) , 1 , dp));
         }
         /*if(t){
             int s = 0;
