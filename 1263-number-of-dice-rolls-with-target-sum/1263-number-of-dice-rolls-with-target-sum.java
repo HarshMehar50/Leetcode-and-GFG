@@ -36,13 +36,13 @@ class Solution {
         return dp[n][target];
     }
     public int numRollsToTarget(int n, int k, int target) {
-        int[][] dp = new int[n+1][target+1];
+        /*int[][] dp = new int[n+1][target+1];
         for(int i = 0; i < n+1; i++){
             for(int j = 0; j < target+1; j++){
                 dp[i][j] = -1;
             }
         }
-        return solve(n , k , target , dp);
-        //return solveTab(n , k , target);
+        return solve(n , k , target , dp);*/
+        return solveTab(n , k , target);
     }
 }
