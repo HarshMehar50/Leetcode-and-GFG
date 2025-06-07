@@ -647,6 +647,7 @@
 | [1224-minimum-falling-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1240-stone-game-ii) |
+| [1250-longest-common-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1250-longest-common-subsequence) |
 | [1286-constrained-subsequence-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1286-constrained-subsequence-sum) |
 | [1290-make-array-strictly-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1290-make-array-strictly-increasing) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -1032,6 +1033,7 @@
 | [0962-flip-string-to-monotone-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1170-shortest-common-supersequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1170-shortest-common-supersequence) |
 | [1244-distinct-echo-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1244-distinct-echo-substrings) |
+| [1250-longest-common-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1250-longest-common-subsequence) |
 | [1403-palindrome-partitioning-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1403-palindrome-partitioning-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1508-longest-happy-prefix) |
