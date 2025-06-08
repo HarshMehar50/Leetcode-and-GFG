@@ -73,8 +73,8 @@ class Solution {
             long result = 1;
             a %= mod;
             while (b > 0) {
-                if ((b & 1) == 1) 
-                result = (result * a) % mod;
+                if ((b & 1) == 1)
+                    result = (result * a) % mod;
                 a = (a * a) % mod;
                 b >>= 1;
             }
@@ -97,16 +97,16 @@ class Solution {
                 ans = m;
                 l = m+1;
             }else
-            r = m-1;
+                r = m-1;
         }
         if(ans == -1)
-        return "";
+            return "";
         HashMap<String , Integer> map = new HashMap<>();
         for(int i = 0; i+ans-1 < s.length(); i++){
             List<Long> l1 = h.substringHash(i , i+ans-1);
             map.put(l1.get(0)+" "+l1.get(1) , map.getOrDefault(l1.get(0)+" "+l1.get(1) , 0)+1);
             if(map.get(l1.get(0)+" "+l1.get(1)) > 1)
-            return s.substring(i , i+ans);
+                return s.substring(i , i+ans);
         }
         return "";
     }
