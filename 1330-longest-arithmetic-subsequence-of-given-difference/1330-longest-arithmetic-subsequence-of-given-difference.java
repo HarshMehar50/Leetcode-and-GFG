@@ -6,7 +6,7 @@ class Solution {
             int temp = arr[i]-difference;
             int tempans = 0;
             if(dp.containsKey(temp))
-            tempans = dp.get(temp);
+                tempans = dp.get(temp);
             dp.put(arr[i] , 1+tempans);
             ans = Math.max(ans , dp.get(arr[i]));
         }
