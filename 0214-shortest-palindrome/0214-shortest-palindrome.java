@@ -82,7 +82,7 @@ class Solution {
             int l = i+1;
             List<Long> l2 = hr.substringHash(s.length()-l , s.length()-1);
             if(l1.equals(l2))
-            ansl = Math.max(ansl , l);
+                ansl = Math.max(ansl , l);
         }
         return r.substring(0 , s.length()-ansl)+s;
     }
