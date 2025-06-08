@@ -453,6 +453,7 @@
 | [1352-maximum-profit-in-job-scheduling](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -655,6 +656,7 @@
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1403-palindrome-partitioning-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1403-palindrome-partitioning-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -750,6 +752,7 @@
 | [0797-rabbits-in-forest](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0797-rabbits-in-forest) |
 | [0891-score-after-flipping-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0891-score-after-flipping-matrix) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1255-reverse-subarray-to-maximize-array-value) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1788-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1788-stone-game-vi) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1952-minimum-sideway-jumps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1952-minimum-sideway-jumps) |
@@ -989,6 +992,7 @@
 | [1290-make-array-strictly-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
