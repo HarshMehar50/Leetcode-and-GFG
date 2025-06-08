@@ -1,5 +1,4 @@
-class Solution {
-    class Hashing {
+class Solution {class Hashing {
         String s;
         int n;
         int primesCount;
