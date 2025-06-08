@@ -661,6 +661,7 @@
 | [1403-palindrome-partitioning-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1403-palindrome-partitioning-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1488-sort-integers-by-the-power-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1488-sort-integers-by-the-power-value) |
 | [1522-stone-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1522-stone-game-iii) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -994,6 +995,7 @@
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1488-sort-integers-by-the-power-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1488-sort-integers-by-the-power-value) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -1434,6 +1436,7 @@
 | [0787-sliding-puzzle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0787-sliding-puzzle) |
 | [1013-fibonacci-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1236-n-th-tribonacci-number) |
+| [1488-sort-integers-by-the-power-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1488-sort-integers-by-the-power-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
