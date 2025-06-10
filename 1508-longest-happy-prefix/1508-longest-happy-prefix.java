@@ -1,5 +1,4 @@
-class Solution {
-    class Hashing {
+class Solution {class Hashing {
         String s;
         int n;
         int primesCount;
@@ -62,8 +61,8 @@ class Solution {
             long result = 1;
             a %= mod;
             while (b > 0) {
-                if ((b & 1) == 1) 
-                result = (result * a) % mod;
+                if ((b & 1) == 1)
+                    result = (result * a) % mod;
                 a = (a * a) % mod;
                 b >>= 1;
             }
@@ -79,7 +78,7 @@ class Solution {
             List<Long> hs2 = h.substringHash(s.length()-l , s.length()-1);
             for(int j = 0; j < hs1.size(); j++){
                 if(hs2.contains(hs1.get(j)))
-                ansl = Math.max(ansl , l);
+                    ansl = Math.max(ansl , l);
             }
         }
         return s.substring(0 , ansl);
