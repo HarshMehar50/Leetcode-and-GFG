@@ -33,6 +33,7 @@
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
 | [1447-jump-game-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1447-jump-game-iv) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2044-number-of-wonderful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2044-number-of-wonderful-substrings) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2118-maximum-earnings-from-taxi) |
@@ -670,6 +671,7 @@
 | [1488-sort-integers-by-the-power-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1488-sort-integers-by-the-power-value) |
 | [1522-stone-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1522-stone-game-iii) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1569-max-dot-product-of-two-subsequences) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1685-stone-game-v](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1685-stone-game-v) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
@@ -1057,6 +1059,7 @@
 | [1403-palindrome-partitioning-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1403-palindrome-partitioning-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1508-longest-happy-prefix) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-palindrome-partitioning-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1871-palindrome-partitioning-iv) |
 | [2044-number-of-wonderful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2044-number-of-wonderful-substrings) |
@@ -1191,6 +1194,7 @@
 | [0895-shortest-path-to-get-all-keys](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1022-unique-paths-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1022-unique-paths-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1435-xor-queries-of-a-subarray) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1826-maximum-xor-with-an-element-from-array) |
