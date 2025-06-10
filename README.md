@@ -12,6 +12,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0433-minimum-genetic-mutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0480-sliding-window-median) |
@@ -388,6 +389,7 @@
 | [0403-frog-jump](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0477-total-hamming-distance) |
@@ -1175,6 +1177,7 @@
 | [0287-find-the-duplicate-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0397-integer-replacement) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0477-total-hamming-distance) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -1477,6 +1480,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1244-distinct-echo-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1244-distinct-echo-substrings) |
 ## Bucket Sort
 |  |
