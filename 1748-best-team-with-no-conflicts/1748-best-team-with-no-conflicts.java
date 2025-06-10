@@ -33,12 +33,12 @@ class Solution {
             a[i][0] = ages[i];
             a[i][1] = scores[i];
         }
-        int[][] dp = new int[ages.length][ages.length+1];
+        /*int[][] dp = new int[ages.length][ages.length+1];
         for(int i = 0; i < dp.length; i++){
             Arrays.fill(dp[i] , -1);
-        }
+        }*/
         Arrays.sort(a,(x , y)->(x[0] != y[0])?Integer.compare(x[0] , y[0]):Integer.compare(x[1] , y[1]));
-        return solve(a , 0 , -1 , dp);
-        //return solveTab(a);
+        //return solve(a , 0 , -1 , dp);
+        return solveTab(a);
     }
 }
