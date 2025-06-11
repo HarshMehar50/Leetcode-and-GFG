@@ -1,5 +1,4 @@
-class Solution {
-    class Hashing {
+class Solution {class Hashing {
         String s;
         int n;
         int primesCount;
@@ -62,8 +61,8 @@ class Solution {
             long result = 1;
             a %= mod;
             while (b > 0) {
-                if ((b & 1) == 1) 
-                result = (result * a) % mod;
+                if ((b & 1) == 1)
+                    result = (result * a) % mod;
                 a = (a * a) % mod;
                 b >>= 1;
             }
@@ -77,7 +76,7 @@ class Solution {
         while(s <= e){
             int m = s+(e-s)/2;
             if(l.get(m)[0] < x)
-            s = m+1;
+                s = m+1;
             else{
                 ans = m;
                 e = m-1;
@@ -95,7 +94,7 @@ class Solution {
                 ans = m;
                 s = m+1;
             }else
-            e = m-1;
+                e = m-1;
         }
         return ans;
     }
@@ -110,25 +109,20 @@ class Solution {
         for(int i = 0; i+a.length()-1 < s.length(); i++){
             List<Long> l = hs.substringHash(i , i+a.length()-1);
             if(la.equals(l))
-            l1.add(i);
+                l1.add(i);
         }
         for(int i = 0; i+b.length()-1 < s.length(); i++){
             List<Long> l = hs.substringHash(i , i+b.length()-1);
             if(lb.equals(l))
-            l2.add(i);
+                l2.add(i);
         }
         List<Integer> ans = new ArrayList<>();
-        List<int[]> range = new ArrayList<>();
-        for(int i = 0; i < l1.size(); i++){
-            range.add(new int[]{Math.max(0 , l1.get(i)-k) , Math.min(s.length()-1 , l1.get(i)+k)});
+        TreeSet<Integer> set = new TreeSet<>(l2);
+        for(Integer x : l1){
+            Integer c = set.ceiling(x-k);
+            if(c != null && c <= x+k)
+                ans.add(x);
         }
-        for(int i = 0; i < l2.size(); i++){
-            int c = ceil(range , l2.get(i));
-            int f = floor(range , l2.get(i));
-            if(c != -1 && !ans.contains(l1.get(c)))
-            ans.add(l1.get(c));
-        }
-        Collections.sort(ans);
         return ans;
     }
 }
