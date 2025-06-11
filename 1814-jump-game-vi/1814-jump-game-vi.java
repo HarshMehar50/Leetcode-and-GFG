@@ -1,9 +1,9 @@
 class Solution {
     int solve(int[] nums , int k , int i , int[] dp){
         if(i == nums.length-1)
-        return nums[nums.length-1];
+            return nums[nums.length-1];
         if(dp[i] != Integer.MIN_VALUE)
-        return dp[i];
+            return dp[i];
         int ans = Integer.MIN_VALUE;
         int e = i+k;
         for(int j = i+1; j <= Math.min(nums.length-1 , e); j++){
