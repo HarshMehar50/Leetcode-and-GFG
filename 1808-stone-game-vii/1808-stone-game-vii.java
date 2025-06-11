@@ -1,19 +1,19 @@
 class Solution {
     int solve(int[] stones , int[] ps , int l , int r , boolean alice , int[][] dp){
         if(l > r)
-        return 0;
+            return 0;
         if(dp[l][r] != -1)
-        return dp[l][r];
+            return dp[l][r];
         int cs = 0;
         if(l == 0)
-        cs = ps[r];
+            cs = ps[r];
         else
-        cs = ps[r]-ps[l-1];
+            cs = ps[r]-ps[l-1];
         int ans = -1;
         if(alice)
-        ans = Integer.MIN_VALUE;
+            ans = Integer.MIN_VALUE;
         else
-        ans = Integer.MAX_VALUE;
+            ans = Integer.MAX_VALUE;
         if(alice){
             int left = (cs-stones[l])+solve(stones , ps , l+1 , r , !alice , dp);
             int right = (cs-stones[r])+solve(stones , ps , l , r-1 , !alice , dp);
