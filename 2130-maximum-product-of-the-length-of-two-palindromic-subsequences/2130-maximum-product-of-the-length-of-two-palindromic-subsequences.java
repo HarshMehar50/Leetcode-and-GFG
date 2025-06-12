@@ -1,33 +1,41 @@
 class Solution {
-    boolean palindrome(String s){
-        int l = 0;
-        int r = s.length()-1;
-        while(l <= r){
-            if(s.charAt(l) != s.charAt(r))
-            return false;
-            l++;
-            r--;
+    int solve(String s){
+        int[][] dp = new int[s.length()+1][s.length()+1];
+        String r = "";
+        for(int i = s.length()-1; i >= 0; i--){
+            r += s.charAt(i);
         }
-        return true;
+        for(int j = 0; j < dp[0].length; j++){
+            dp[s.length()][j] = 0;
+        }
+        for(int i = 0; i < dp.length; i++){
+            dp[i][s.length()] = 0;
+        }
+        for(int i = s.length()-1; i >= 0; i--){
+            for(int j = r.length()-1; j >= 0; j--){
+                if(s.charAt(i) == r.charAt(j)){
+                    dp[i][j] = 1+dp[i+1][j+1];
+                }else{
+                    dp[i][j] = Math.max(dp[i][j+1] , dp[i+1][j]);
+                }
+            }
+        }
+        return dp[0][0];
     }
     public int maxProduct(String s) {
-        List<Integer> l = new ArrayList<>();
-        for(int mask = 0; mask < (1<<s.length()); mask++){
-            String ps = "";
+        int ans = 0;
+        for(int mask = 1; mask < (1<<s.length())-1; mask++){
+            String s1 = "";
+            String s2 = "";
             for(int i = 0; i < s.length(); i++){
                 if((mask&(1<<i)) != 0)
-                ps += s.charAt(i);
+                s1 += s.charAt(i);
+                else
+                s2 += s.charAt(i);
             }
-            if(palindrome(ps))
-            l.add(mask);
-        }
-        Collections.sort(l);
-        int ans = 0;
-        for(int i = 0; i < l.size()-1; i++){
-            for(int j = i+1; j < l.size(); j++){
-                if((l.get(i)&l.get(j)) == 0)
-                ans = Math.max(ans , Integer.bitCount(l.get(i))*Integer.bitCount(l.get(j)));
-            }
+            int pl1 = solve(s1);
+            int pl2 = solve(s2);
+            ans = Math.max(ans , pl1*pl2);
         }
         return ans;
     }
