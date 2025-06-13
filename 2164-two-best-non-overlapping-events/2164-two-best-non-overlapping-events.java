@@ -5,9 +5,9 @@ class Solution {
         while(s < e){
             int m = s+(e-s)/2;
             if(a[m] >= t)
-            e = m;
+                e = m;
             else
-            s = m+1;
+                s = m+1;
         }
         return s;
     }
@@ -28,9 +28,9 @@ class Solution {
         for(int i = dp.length-2; i >= 0; i--){
             int index = ceil(start , events[i][1]+1 , i+1);
             if(index >= events.length)
-            dp[i] = events[i][2];
+                dp[i] = events[i][2];
             else
-            dp[i] = events[i][2]+s[index];
+                dp[i] = events[i][2]+s[index];
             ans = Math.max(dp[i] , ans);
         }
         return ans;
