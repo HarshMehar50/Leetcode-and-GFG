@@ -495,6 +495,7 @@
 | [1983-maximum-population-year](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1983-maximum-population-year) |
 | [1985-maximum-subarray-min-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1985-maximum-subarray-min-product) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -686,6 +687,7 @@
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1952-minimum-sideway-jumps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1952-minimum-sideway-jumps) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2118-maximum-earnings-from-taxi) |
