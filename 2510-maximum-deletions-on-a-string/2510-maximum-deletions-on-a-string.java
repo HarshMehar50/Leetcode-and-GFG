@@ -1,5 +1,5 @@
 class Solution {
-    public static class Hashing {
+    class Hashing {
         String s;
         int n;
         int primesCount;
@@ -62,8 +62,8 @@ class Solution {
             long result = 1;
             a %= mod;
             while (b > 0) {
-                if ((b & 1) == 1) 
-                result = (result * a) % mod;
+                if ((b & 1) == 1)
+                    result = (result * a) % mod;
                 a = (a * a) % mod;
                 b >>= 1;
             }
@@ -73,16 +73,16 @@ class Solution {
     Hashing h;
     int solve(String s , int i , int[] dp){
         if(i >= s.length())
-        return 0;
+            return 0;
         if(dp[i] != -1)
-        return dp[i];
+            return dp[i];
         int ans = 0;
         for(int j = i; (2*j)-i+1 < s.length(); j++){
             List<Long> l1 = h.substringHash(i , j);
             int l = j-i+1;
             List<Long> l2 = h.substringHash(j+1 , j+l);
             if(l1.equals(l2))
-            ans = Math.max(ans , 1+solve(s , j+1 , dp));
+                ans = Math.max(ans , 1+solve(s , j+1 , dp));
         }
         dp[i] = ans;
         return dp[i];
