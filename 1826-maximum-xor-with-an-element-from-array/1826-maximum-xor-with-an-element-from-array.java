@@ -19,7 +19,7 @@ class Solution {
             for(int i = 31; i >= 0; i--){
                 int bv = (n>>i)&1;
                 if(c.children[bv] == null)
-                c.children[bv] = new TrieNode();
+                    c.children[bv] = new TrieNode();
                 c = c.children[bv];
             }
             c.end = true;
@@ -32,11 +32,11 @@ class Solution {
                 int rbv = bv^1;
                 if(c.children[rbv] != null){
                     if(rbv == 1)
-                    maxxor = maxxor|(1<<i);
+                        maxxor = maxxor|(1<<i);
                     c = c.children[rbv];
                 }else{
                     if(bv == 1)
-                    maxxor = maxxor|(1<<i);
+                        maxxor = maxxor|(1<<i);
                     c = c.children[bv];
                 }
             }
@@ -62,7 +62,7 @@ class Solution {
                 j++;
             }
             if(j != 0)
-            ans[a[i][2]] = trie.search(a[i][0])^a[i][0];
+                ans[a[i][2]] = trie.search(a[i][0])^a[i][0];
         }
         return ans;
     }
