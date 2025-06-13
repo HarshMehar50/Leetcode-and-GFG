@@ -693,6 +693,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2262-solving-questions-with-brainpower) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2510-maximum-deletions-on-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2510-maximum-deletions-on-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -1071,6 +1072,7 @@
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2510-maximum-deletions-on-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2510-maximum-deletions-on-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
@@ -1374,6 +1376,7 @@
 | [1244-distinct-echo-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1244-distinct-echo-substrings) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1508-longest-happy-prefix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1508-longest-happy-prefix) |
+| [2510-maximum-deletions-on-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2510-maximum-deletions-on-a-string) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
@@ -1387,6 +1390,7 @@
 | [1244-distinct-echo-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1244-distinct-echo-substrings) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1508-longest-happy-prefix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1508-longest-happy-prefix) |
+| [2510-maximum-deletions-on-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2510-maximum-deletions-on-a-string) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
@@ -1608,6 +1612,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1508-longest-happy-prefix) |
+| [2510-maximum-deletions-on-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2510-maximum-deletions-on-a-string) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
