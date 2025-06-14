@@ -14,9 +14,7 @@ class Solution {
     }
     public long mostPoints(int[][] questions) {
         long[] dp = new long[questions.length];
-        for(int i = 0; i < dp.length; i++){
-            dp[i] = -1;
-        }
+        Arrays.fill(dp , -1);
         return solve(questions , 0 , dp);
     }
 }
