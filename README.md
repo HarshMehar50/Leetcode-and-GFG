@@ -499,6 +499,7 @@
 | [2022-maximum-alternating-subsequence-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
+| [2051-longest-common-subpath](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2051-longest-common-subpath) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2118-maximum-earnings-from-taxi) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2151-the-time-when-the-network-becomes-idle) |
@@ -740,6 +741,7 @@
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2051-longest-common-subpath](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2051-longest-common-subpath) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2118-maximum-earnings-from-taxi) |
 | [2164-two-best-non-overlapping-events](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -1384,6 +1386,7 @@
 | [1244-distinct-echo-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1244-distinct-echo-substrings) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1508-longest-happy-prefix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1508-longest-happy-prefix) |
+| [2051-longest-common-subpath](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2051-longest-common-subpath) |
 | [2510-maximum-deletions-on-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2510-maximum-deletions-on-a-string) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
@@ -1398,6 +1401,7 @@
 | [1244-distinct-echo-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1244-distinct-echo-substrings) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1508-longest-happy-prefix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1508-longest-happy-prefix) |
+| [2051-longest-common-subpath](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2051-longest-common-subpath) |
 | [2510-maximum-deletions-on-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2510-maximum-deletions-on-a-string) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
@@ -1629,4 +1633,5 @@
 |  |
 | ------- |
 | [1122-longest-duplicate-substring](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1122-longest-duplicate-substring) |
+| [2051-longest-common-subpath](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2051-longest-common-subpath) |
 <!---LeetCode Topics End-->
