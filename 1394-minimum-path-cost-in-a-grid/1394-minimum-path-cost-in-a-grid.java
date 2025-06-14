@@ -1,9 +1,9 @@
 class Solution {
     int solve(int[][] grid , int[][] moveCost , int i , int j , int[][] dp){
         if(i == grid.length-1)
-        return grid[i][j];
+            return grid[i][j];
         if(dp[i][j] != -1)
-        return dp[i][j];
+            return dp[i][j];
         int ans = Integer.MAX_VALUE;
         for(int k = 0; k < grid[0].length; k++){
             int val = moveCost[grid[i][j]][k];
@@ -14,8 +14,8 @@ class Solution {
     }
     public int minPathCost(int[][] grid, int[][] moveCost) {
         int ans = Integer.MAX_VALUE;
+        int[][] dp = new int[grid.length][grid[0].length];
         for(int i = 0; i < grid[0].length; i++){
-            int[][] dp = new int[grid.length][grid[0].length];
             for(int j = 0; j < dp.length; j++){
                 Arrays.fill(dp[j] , -1);
             }
