@@ -47,9 +47,9 @@ class Solution {
     }*/
     boolean DFS(int[][] grid , int i , int j){
         if(i+1 == grid.length && j+1 == grid[0].length)
-        return true;
+            return true;
         if(i >= grid.length || j >= grid[0].length || grid[i][j] == 0)
-        return false;
+            return false;
         grid[i][j] = 0;
         boolean ans = DFS(grid , i+1 , j)||DFS(grid , i , j+1);
         return ans;
@@ -79,7 +79,7 @@ class Solution {
         else
         return false;*/
         if(!DFS(grid , 0 , 0))
-        return true;
+            return true;
         grid[0][0] = 1;
         return !DFS(grid , 0 , 0);
     }
