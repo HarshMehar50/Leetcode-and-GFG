@@ -1,5 +1,4 @@
-class Solution {
-    class Hashing {
+class Solution {class Hashing {
     static final long MOD1 = 1_000_000_007;
     static final long MOD2 = 1_000_000_009;
     static final long BASE = 100_007;
