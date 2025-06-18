@@ -477,6 +477,7 @@
 | [1522-stone-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1522-stone-game-iii) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1582-design-browser-history](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1582-design-browser-history) |
 | [1656-count-good-triplets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1656-count-good-triplets) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -985,6 +986,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1484-linked-list-in-binary-tree) |
+| [1582-design-browser-history](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1582-design-browser-history) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1434,6 +1436,7 @@
 | [0677-map-sum-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0677-map-sum-pairs) |
 | [0937-online-stock-span](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0937-online-stock-span) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1582-design-browser-history](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1582-design-browser-history) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Strongly Connected Component
 |  |
@@ -1516,6 +1519,7 @@
 | [0937-online-stock-span](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0943-sum-of-subarray-minimums) |
 | [1017-odd-even-jump](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1017-odd-even-jump) |
+| [1582-design-browser-history](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1582-design-browser-history) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1985-maximum-subarray-min-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1985-maximum-subarray-min-product) |
 | [2227-sum-of-subarray-ranges](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2227-sum-of-subarray-ranges) |
@@ -1600,6 +1604,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0937-online-stock-span) |
+| [1582-design-browser-history](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1582-design-browser-history) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1639,6 +1644,7 @@
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1582-design-browser-history](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1582-design-browser-history) |
 ## String Matching
 |  |
 | ------- |
