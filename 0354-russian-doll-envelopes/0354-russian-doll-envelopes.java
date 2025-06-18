@@ -20,7 +20,7 @@ class Solution {
         ans.add(a[0]);
         for(int i = 1; i < a.length; i++){
             if(a[i] > ans.get(ans.size()-1))
-            ans.add(a[i]);
+                ans.add(a[i]);
             else{
                 int index = ceil(ans, a[i]);
                 ans.remove(index);
