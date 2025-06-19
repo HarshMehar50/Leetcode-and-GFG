@@ -24,7 +24,7 @@ class Solution {
             for(int i = 0; i < l; i++){
                 String s = q.poll();
                 if(s.equals(target))
-                return n;
+                    return n;
                 int index = s.indexOf('0');
                 if(index+1 < 6 && index%3 != 2){
                     String t = swap(s , index , index+1);
