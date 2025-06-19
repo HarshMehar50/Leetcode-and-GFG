@@ -1,26 +1,26 @@
 class Solution {
     boolean solve(int[] stones , HashMap<Integer , Integer> map , int ci , int pj , int[][] dp){
         if(stones[1] > 1)
-        return false;
+            return false;
         if(ci == stones.length-1)
-        return true;
+            return true;
         if(dp[ci][pj] != -1)
-        return dp[ci][pj] == 1;
+            return dp[ci][pj] == 1;
         boolean ans = false;
         for(int i = pj-1; i <= pj+1; i++){
             if(i > 0){
                 if(map.containsKey(stones[ci]+i))
-                ans = ans || solve(stones , map , map.get(stones[ci]+i) , i , dp);
+                    ans = ans || solve(stones , map , map.get(stones[ci]+i) , i , dp);
             }
         }
         if(ans)
-        dp[ci][pj] = 1;
+            dp[ci][pj] = 1;
         else
-        dp[ci][pj] = 0;
+            dp[ci][pj] = 0;
         if(dp[ci][pj] == 1)
-        return true;
+            return true;
         else
-        return false;
+            return false;
     }
     public boolean canCross(int[] stones) {
         /*if(stones[1] > 1)
@@ -33,7 +33,7 @@ class Solution {
         }
         visited[0] = true;
         visited[1] = true;
-        jumps.get(0).add(1); 
+        jumps.get(0).add(1);
         q.offer(new int[]{1 , 1});
         while(!q.isEmpty()){
             int ci = q.peek()[0];
