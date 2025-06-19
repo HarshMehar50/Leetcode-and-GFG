@@ -10,20 +10,20 @@ class Solution {
         }
         return ans;
     }
-    int solveOptTab1(int[] nums, int k){
+    /*int solveOptTab1(int[] nums, int k){
         int[] dp = new int[nums.length+1];
         for(int i = nums.length-1; i >= 0; i--){
             for(int j = i-1; j >= -1; j--){
                 int include = 0;
                 if(j == -1 || (Math.abs(k-nums[j]%2) == nums[i]%2 && j != -1))
-                include = 1+dp[i+1];
+                    include = 1+dp[i+1];
                 int exclude = dp[j+1];
                 dp[j+1] = Math.max(include , exclude);
             }
         }
         return dp[0];
     }
-    /*int solveOptTab(int[] nums , int k){
+    int solveOptTab(int[] nums , int k){
         int[] current = new int[nums.length+1];
         int[] next = new int[nums.length+1];
         for(int i = nums.length-1; i >= 0; i--){
@@ -38,8 +38,8 @@ class Solution {
             next = current;
         }
         return next[0];
-    }*/
-   /* int solveOpt(int[] nums , int k , int c , int p , int[][] dp){
+    }
+    int solveOpt(int[] nums , int k , int c , int p , int[][] dp){
         if(c == nums.length){
             return 0;
         }
@@ -88,21 +88,22 @@ class Solution {
         /*int[][] dp0 = new int[nums.length][nums.length+1];
         for(int i = 0; i < dp0.length; i++){
             Arrays.fill(dp0[i] , -1);
-        }
+        }*/
         //int solve0 = solve(nums , 0 , -1 , 0 , dp0);
-        int[][] dp1 = new int[nums.length][nums.length+1];
+        /*int[][] dp1 = new int[nums.length][nums.length+1];
         for(int i = 0; i < dp1.length; i++){
             Arrays.fill(dp1[i] , -1);
         }*/
-       // int solve1 = solve(nums , 0 , -1 , 1 , dp1);
-        /*return Math.max(solve0 , solve1);*/
+        //int solve1 = solve(nums , 0 , -1 , 1 , dp1);
+        //return Math.max(solve0 , solve1);*/
         //int s0 = solveTabSpace(nums , 0);
         //int s1 = solveTabSpace(nums , 1);
-        //int s0 = solveOpt(nums , 0 , 0 , -1 , dp0);
-       // int s1 = solveOpt(nums , 1 , 0 , -1 , dp1);
-        //return Math.max(s0 , s1);
-       /* int s0 = solveOptTab1(nums , 0);
-        int s1 = solveOptTab1(nums , 1);*/
+        /*int s0 = solveOpt(nums , 0 , 0 , -1 , dp0);
+        int s1 = solveOpt(nums , 1 , 0 , -1 , dp1);
+        return Math.max(s0 , s1);*/
+        /*int s0 = solveOptTab1(nums , 0);
+        int s1 = solveOptTab1(nums , 1);
+        return Math.max(s0 , s1);*/
         return solveGen(nums);
     }
 }
