@@ -51,6 +51,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3815-sum-of-largest-prime-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Tree
@@ -845,6 +846,7 @@
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3567-convert-date-to-binary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3567-convert-date-to-binary) |
+| [3815-sum-of-largest-prime-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 ## Union Find
 |  |
@@ -1052,6 +1054,7 @@
 | [2728-sum-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2728-sum-in-a-matrix) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3430-count-days-without-meetings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3430-count-days-without-meetings) |
+| [3815-sum-of-largest-prime-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3815-sum-of-largest-prime-substrings) |
 ## String
 |  |
 | ------- |
@@ -1107,6 +1110,7 @@
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3567-convert-date-to-binary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3567-convert-date-to-binary) |
+| [3815-sum-of-largest-prime-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3815-sum-of-largest-prime-substrings) |
 ## Recursion
 |  |
 | ------- |
@@ -1589,6 +1593,7 @@
 | [0204-count-primes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0204-count-primes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2610-closest-prime-numbers-in-range) |
 | [3373-maximum-prime-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3373-maximum-prime-difference) |
+| [3815-sum-of-largest-prime-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3815-sum-of-largest-prime-substrings) |
 ## Eulerian Circuit
 |  |
 | ------- |
