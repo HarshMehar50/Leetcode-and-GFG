@@ -1,9 +1,9 @@
 class Solution {
     boolean solve(int[] arr , int i , int p , HashMap<Pair<Integer , Integer> , Boolean> dp){
         if(i == arr.length-1)
-        return true;
+            return true;
         if(dp.containsKey(new Pair<>(i , p%2)))
-        return dp.get(new Pair<>(i , p%2));
+            return dp.get(new Pair<>(i , p%2));
         boolean ans = false;
         if(p%2 == 1){
             int index1 = -1;
@@ -15,7 +15,7 @@ class Solution {
                 }
             }
             if(index1 != -1)
-            ans = ans||solve(arr , index1 , p+1 , dp);
+                ans = ans||solve(arr , index1 , p+1 , dp);
         }else{
             int index2 = -1;
             int d = Integer.MAX_VALUE;
@@ -26,7 +26,7 @@ class Solution {
                 }
             }
             if(index2 != -1)
-            ans = ans||solve(arr , index2 , p+1 , dp);
+                ans = ans||solve(arr , index2 , p+1 , dp);
         }
         dp.put(new Pair<>(i , p%2) , ans);
         return dp.get(new Pair<>(i , p%2));
@@ -41,15 +41,15 @@ class Solution {
             Integer odd = map.ceilingKey(arr[i]);
             Integer even = map.floorKey(arr[i]);
             if(odd != null)
-            dp[i][1] = dp[map.get(odd)][0];
+                dp[i][1] = dp[map.get(odd)][0];
             if(even != null)
-            dp[i][0] = dp[map.get(even)][1];
+                dp[i][0] = dp[map.get(even)][1];
             map.put(arr[i] , i);
         }
         int ans = 0;
         for(int i = 0; i < dp.length; i++){
             if(dp[i][1])
-            ans++;
+                ans++;
         }
         return ans;
     }
