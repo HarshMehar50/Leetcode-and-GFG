@@ -5,9 +5,9 @@ class Solution {
         while(s < e){
             int m = s+(e-s)/2;
             if(a[m] >= t)
-            e = m;
+                e = m;
             else
-            s = m+1;
+                s = m+1;
         }
         return s;
     }
@@ -33,12 +33,12 @@ class Solution {
                 sm[i] = Math.max(a[i][2] , sm[i+1]);
             }else{
                 dp[i] = sm[index]+a[i][2];
-                sm[i] = Math.max(dp[i] , sm[i+1]); 
+                sm[i] = Math.max(dp[i] , sm[i+1]);
             }
         }
         return sm[0];
     }
-    /*int solve(int[][] a , int c , int p , int[][] dp){
+    int solve(int[][] a , int c , int p , int[][] dp){
         if(c == a.length)
         return 0;
         if(dp[c][p+1] != -1)
@@ -50,7 +50,7 @@ class Solution {
         int ans = Math.max(include , exclude);
         dp[c][p+1] = ans;
         return dp[c][p+1];
-    }*/
+    }
     public int jobScheduling(int[] startTime, int[] endTime, int[] profit) {
         /*int[][] a = new int[startTime.length][3];
         for(int i = 0; i < startTime.length; i++){
