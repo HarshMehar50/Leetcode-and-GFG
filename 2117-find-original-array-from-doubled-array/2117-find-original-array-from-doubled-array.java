@@ -2,12 +2,12 @@ class Solution {
     public int[] findOriginalArray(int[] changed) {
         if(changed.length%2 != 0)
         return new int[]{};
-        int s = 0;
+        /*int s = 0;
         for(int i = 0; i < changed.length; i++){
             s += changed[i];
         }
         if(s%3 != 0)
-        return new int[]{};
+        return new int[]{};*/
         HashMap<Integer , Integer> map = new HashMap<>();
         for(int i = 0; i < changed.length; i++){
             map.put(changed[i] , map.getOrDefault(changed[i] , 0)+1);
