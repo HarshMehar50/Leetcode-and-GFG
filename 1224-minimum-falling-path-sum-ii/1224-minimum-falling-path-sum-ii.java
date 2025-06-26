@@ -1,11 +1,11 @@
 class Solution {
     int solve(int[][] grid , int i , int j , int[][] dp){
         if(i == grid.length-1)
-        return grid[i][j];
+            return grid[i][j];
         if(i >= grid.length || j >= grid[0].length)
-        return Integer.MAX_VALUE;
+            return Integer.MAX_VALUE;
         if(dp[i][j] != Integer.MAX_VALUE)
-        return dp[i][j];
+            return dp[i][j];
         int ans = Integer.MAX_VALUE;
         for(int k = 0; k < grid[0].length; k++){
             if(k == j) continue;
@@ -31,7 +31,10 @@ class Solution {
             Arrays.fill(dp[i] , Integer.MAX_VALUE);
         }
         for(int i = 0; i < grid[0].length; i++){
-        ans = Math.min(ans , solve(grid , 0 , i , dp));
+            if(dp[0][i] != Integer.MAX_VALUE)
+                ans = Math.max(ans , dp[0][i]);
+            else
+                ans = Math.min(ans , solve(grid , 0 , i , dp));
         }
         return ans;
     }
