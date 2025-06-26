@@ -1,9 +1,9 @@
 class Solution {
     int solve(int[] nums , int k , int op1 , int op2 , int i , int[][][] dp){
         if(i >= nums.length)
-        return 0;
+            return 0;
         if(dp[i][op1][op2] != -1)
-        return dp[i][op1][op2];
+            return dp[i][op1][op2];
         int includeop1 = Integer.MIN_VALUE;
         int includeop2 = Integer.MIN_VALUE;
         int includeop1op2 = Integer.MIN_VALUE;
