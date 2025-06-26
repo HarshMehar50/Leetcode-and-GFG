@@ -13,8 +13,7 @@
  *     }
  * }
  */
-class Solution {
-    int ceil(TreeNode root , int x){
+class Solution {int ceil(TreeNode root , int x){
         int c = -1;
         TreeNode temp = root;
         while(temp != null){
