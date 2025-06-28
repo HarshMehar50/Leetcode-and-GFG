@@ -23,9 +23,11 @@ class Solution {
         }
         for(int i = 25; i >= 0; i--){
             if(f[i] > 0){
+                int l = c.length();
                 c.append((char)('a'+i));
                 f[i]--;
-                if(BackTrack(s , c , f , k , ml));
+                if(BackTrack(s , c , f , k , ml))
+                return true;
                 c = c.deleteCharAt(c.length()-1);
                 f[i]++;
             }
@@ -37,18 +39,12 @@ class Solution {
         for(int i = 0; i < s.length(); i++){
             f[(int)(s.charAt(i)-'a')]++;
         }
-        boolean[] use = new boolean[26];
         for(int i = 0; i < 26; i++){
-            if(f[i] >= k)
-            use[i] = true;
-        }
-        int[] rf = new int[26];
-        for(int i = 0; i < 26; i++){
-            rf[i] = f[i]/k;
+            f[i] = f[i]/k;
         }
         int ml = s.length()/k;
         for(int i = ml; i >= 1; i--){
-            int[] t = rf.clone();
+            int[] t = f.clone();
             StringBuilder c = new StringBuilder();
             if(BackTrack(s , c , t , k , i))
             return ans; 
