@@ -12,7 +12,7 @@ class Solution {
         }
         Collections.sort(l , (x , y)->Integer.compare(x[1] , y[1]));
         int[] ans = new int[k];
-        for(int i = 0; i < k; i++){
+        for(int i = 0; i < l.size(); i++){
             ans[i] = l.get(i)[0];
         }
         return ans;
