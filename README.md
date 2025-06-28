@@ -823,6 +823,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1952-minimum-sideway-jumps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1952-minimum-sideway-jumps) |
 | [2117-find-original-array-from-doubled-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2117-find-original-array-from-doubled-array) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2379-maximum-total-importance-of-roads](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 | [2509-minimize-xor](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2509-minimize-xor) |
@@ -1144,6 +1145,7 @@
 | [1871-palindrome-partitioning-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1871-palindrome-partitioning-iv) |
 | [2044-number-of-wonderful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2044-number-of-wonderful-substrings) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2510-maximum-deletions-on-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2510-maximum-deletions-on-a-string) |
@@ -1261,6 +1263,7 @@
 | [1022-unique-paths-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1022-unique-paths-iii) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Bit Manipulation
@@ -1628,6 +1631,7 @@
 | [1947-number-of-different-subsequences-gcds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1947-number-of-different-subsequences-gcds) |
 | [1983-maximum-population-year](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1983-maximum-population-year) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2448-count-number-of-bad-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1646,6 +1650,7 @@
 | [1656-count-good-triplets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1656-count-good-triplets) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2873-prime-pairs-with-target-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2873-prime-pairs-with-target-sum) |
 | [3849-equal-sum-grid-partition-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3849-equal-sum-grid-partition-i) |
