@@ -55,6 +55,7 @@
 | [2696-the-number-of-beautiful-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3197-maximum-strong-pair-xor-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -583,6 +584,7 @@
 | [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3197-maximum-strong-pair-xor-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -1320,6 +1322,7 @@
 | [2621-find-xor-beauty-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2621-find-xor-beauty-of-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3192-maximum-xor-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3192-maximum-xor-product) |
+| [3197-maximum-strong-pair-xor-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3394-minimum-array-end](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3394-minimum-array-end) |
@@ -1477,6 +1480,7 @@
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3197-maximum-strong-pair-xor-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Rolling Hash
 |  |
@@ -1634,6 +1638,7 @@
 | [1244-distinct-echo-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1244-distinct-echo-substrings) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3197-maximum-strong-pair-xor-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bucket Sort
 |  |
