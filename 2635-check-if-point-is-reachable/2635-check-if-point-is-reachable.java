@@ -7,8 +7,7 @@ class Solution {
     public boolean isReachable(int targetX, int targetY) {
         if((targetX&(targetX-1)) == 0 || (targetY&(targetY-1)) == 0 || targetX == 1 || targetY == 1)
         return true;
-        //System.out.println(gcd(targetX , targetY));
-        int g = gcd(targetX , targetY);
+        int g = gcd(targetX , targetY); 
         if(g == 1 || (g&(g-1)) == 0)
         return true;
         return false;
