@@ -468,6 +468,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1017-odd-even-jump](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1017-odd-even-jump) |
+| [1018-largest-perimeter-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1018-largest-perimeter-triangle) |
 | [1022-unique-paths-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1022-unique-paths-iii) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1025-minimum-cost-for-tickets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1025-minimum-cost-for-tickets) |
@@ -825,6 +826,7 @@
 | [0770-couples-holding-hands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0770-couples-holding-hands) |
 | [0797-rabbits-in-forest](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0797-rabbits-in-forest) |
 | [0891-score-after-flipping-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0891-score-after-flipping-matrix) |
+| [1018-largest-perimeter-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1018-largest-perimeter-triangle) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -874,6 +876,7 @@
 | [0989-largest-component-size-by-common-factor](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0989-largest-component-size-by-common-factor) |
 | [1013-fibonacci-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1018-largest-perimeter-triangle) |
 | [1223-graph-connectivity-with-threshold](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1223-graph-connectivity-with-threshold) |
 | [1236-n-th-tribonacci-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1240-stone-game-ii) |
@@ -1091,6 +1094,7 @@
 | [0721-accounts-merge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1290-make-array-strictly-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1352-maximum-profit-in-job-scheduling) |
