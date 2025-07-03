@@ -8,11 +8,11 @@ class Solution {
                 ans += nums[i]^k;
                 c++;
             }else
-            ans += nums[i];
+                ans += nums[i];
             minxor = Math.min(minxor , Math.abs(nums[i]-(nums[i]^k)));
         }
         if(c%2 == 1)
-        ans = ans-minxor;
+            ans = ans-minxor;
         return ans;
     }
 }
