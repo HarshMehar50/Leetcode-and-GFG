@@ -475,6 +475,7 @@
 | [1022-unique-paths-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1022-unique-paths-iii) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1025-minimum-cost-for-tickets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1025-minimum-cost-for-tickets) |
+| [1046-max-consecutive-ones-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1087-longest-arithmetic-subsequence) |
@@ -793,6 +794,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0907-koko-eating-bananas) |
 | [0910-nth-magical-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0910-nth-magical-number) |
+| [1046-max-consecutive-ones-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1087-longest-arithmetic-subsequence) |
 | [1122-longest-duplicate-substring](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1122-longest-duplicate-substring) |
 | [1290-make-array-strictly-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1290-make-array-strictly-increasing) |
@@ -1489,6 +1491,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1046-max-consecutive-ones-iii) |
 | [1122-longest-duplicate-substring](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1122-longest-duplicate-substring) |
 | [1286-constrained-subsequence-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1286-constrained-subsequence-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1584,6 +1587,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1435-xor-queries-of-a-subarray) |
