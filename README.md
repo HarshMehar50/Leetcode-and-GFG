@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0127-word-ladder) |
@@ -1139,6 +1140,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0044-wildcard-matching) |
@@ -1479,6 +1481,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0239-sliding-window-maximum) |
