@@ -18,17 +18,17 @@ class Solution {
         while(s < e){
             int m = s+(e-s)/2;
             if(l.get(m)[0] <= t)
-            s = m+1;
+                s = m+1;
             else
-            e = m;
+                e = m;
         }
         return s;
     }
     int solve(List<int[]> l , int i , int[] dp){
         if(i >= l.size())
-        return 0;
+            return 0;
         if(dp[i] != -1)
-        return dp[i];
+            return dp[i];
         int index = ceil(l , l.get(i)[1]);
         int include = 1+solve(l , index , dp);
         int exclude = solve(l , i+1 , dp);
@@ -38,24 +38,24 @@ class Solution {
     }
     public int maxPalindromes(String s, int k) {
         if(k == 1)
-        return s.length();
+            return s.length();
         boolean[][] dp = new boolean[s.length()][s.length()];
         for(int l = 1; l <= s.length(); l++){
             for(int i = 0; i+l-1 < s.length(); i++){
                 int j = i+l-1;
                 if(i == j)
-                dp[i][j] = true;
+                    dp[i][j] = true;
                 else if(i+1 == j && s.charAt(i) == s.charAt(j))
-                dp[i][j] = true;
+                    dp[i][j] = true;
                 else
-                dp[i][j] = dp[i+1][j-1]&&(s.charAt(i) == s.charAt(j));
+                    dp[i][j] = dp[i+1][j-1]&&(s.charAt(i) == s.charAt(j));
             }
         }
         List<int[]> l = new ArrayList<>();
         for(int i = 0; i < s.length(); i++){
             for(int j = 0; j < s.length(); j++){
                 if(j-i+1 >= k && dp[i][j])
-                l.add(new int[]{i , j});
+                    l.add(new int[]{i , j});
             }
         }
         Collections.sort(l , (x , y)->Integer.compare(x[0] , y[0]));
