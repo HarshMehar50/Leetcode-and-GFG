@@ -24,11 +24,11 @@ class Solution {
         return solve(s1 , s2 , 0 , 0);*/
     int solve(String s , int i , int j , int[][] dp){
         if(i >= j)
-        return 0;
+            return 0;
         if(dp[i][j] != -1)
-        return dp[i][j];
+            return dp[i][j];
         if(s.charAt(i) == s.charAt(j))
-        return solve(s , i+1 , j-1 , dp);
+            return solve(s , i+1 , j-1 , dp);
         else{
             int c1 = 1+solve(s , i , j-1 , dp);
             int c2 = 1+solve(s , i+1 , j , dp);
