@@ -123,6 +123,7 @@
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
+| [3900-find-weighted-median-node-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3900-find-weighted-median-node-in-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -215,6 +216,7 @@
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
+| [3900-find-weighted-median-node-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3900-find-weighted-median-node-in-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -627,6 +629,7 @@
 | [3849-equal-sum-grid-partition-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3868-find-maximum-area-of-a-triangle) |
+| [3900-find-weighted-median-node-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3900-find-weighted-median-node-in-tree) |
 | [3903-inverse-coin-change](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3903-inverse-coin-change) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Dynamic Programming
@@ -778,6 +781,7 @@
 | [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
+| [3900-find-weighted-median-node-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3900-find-weighted-median-node-in-tree) |
 | [3903-inverse-coin-change](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3903-inverse-coin-change) |
 ## Binary Search
 |  |
@@ -822,6 +826,7 @@
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3900-find-weighted-median-node-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3900-find-weighted-median-node-in-tree) |
 ## Greedy
 |  |
 | ------- |
