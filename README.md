@@ -55,6 +55,7 @@
 | [2455-node-with-highest-edge-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2455-node-with-highest-edge-score) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -577,6 +578,7 @@
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2597-cycle-length-queries-in-a-tree) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2621-find-xor-beauty-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2621-find-xor-beauty-of-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -919,6 +921,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2610-closest-prime-numbers-in-range) |
 | [2621-find-xor-beauty-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2621-find-xor-beauty-of-array) |
 | [2635-check-if-point-is-reachable](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2635-check-if-point-is-reachable) |
@@ -1735,6 +1738,7 @@
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2610-closest-prime-numbers-in-range) |
 | [2635-check-if-point-is-reachable](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2635-check-if-point-is-reachable) |
 | [2827-greatest-common-divisor-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2827-greatest-common-divisor-traversal) |
