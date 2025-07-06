@@ -922,6 +922,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2610-closest-prime-numbers-in-range) |
 | [2621-find-xor-beauty-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2621-find-xor-beauty-of-array) |
@@ -1590,6 +1591,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2551-apply-operations-to-an-array) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2662-check-knight-tour-configuration](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2662-check-knight-tour-configuration) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2728-sum-in-a-matrix) |
@@ -1740,6 +1742,7 @@
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2610-closest-prime-numbers-in-range) |
 | [2635-check-if-point-is-reachable](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2635-check-if-point-is-reachable) |
