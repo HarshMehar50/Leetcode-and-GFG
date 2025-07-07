@@ -888,6 +888,7 @@
 | [0343-integer-break](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0368-largest-divisible-subset) |
+| [0372-super-pow](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0390-elimination-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0396-rotate-function) |
@@ -1278,6 +1279,7 @@
 | [0191-number-of-1-bits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0372-super-pow) |
 | [0948-sort-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
