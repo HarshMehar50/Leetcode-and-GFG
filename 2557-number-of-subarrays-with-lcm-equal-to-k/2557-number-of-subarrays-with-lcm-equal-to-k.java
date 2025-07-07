@@ -1,7 +1,7 @@
 class Solution {
     int gcd(int a , int b){
         if(b == 0)
-        return Math.abs(a);
+            return Math.abs(a);
         return gcd(b , a%b);
     }
     public int subarrayLCM(int[] nums, int k) {
@@ -11,9 +11,9 @@ class Solution {
             for(int j = i; j < nums.length; j++){
                 l = (l*nums[j])/gcd(l , nums[j]);
                 if(l > k)
-                break;
+                    break;
                 if(l == k)
-                ans++;
+                    ans++;
             }
         }
         return ans;
