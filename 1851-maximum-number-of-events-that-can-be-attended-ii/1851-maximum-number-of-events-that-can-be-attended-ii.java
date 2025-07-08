@@ -5,17 +5,17 @@ class Solution {
         while(s < e){
             int m = s+(e-s)/2;
             if(events[m][0] <= t)
-            s = m+1;
+                s = m+1;
             else
-            e = m;
+                e = m;
         }
         return s;
     }
     int solve(int[][] events , int i , int k , int[][] dp){
         if(i >= events.length || k <= 0)
-        return 0;
+            return 0;
         if(dp[i][k] != -1)
-        return dp[i][k];
+            return dp[i][k];
         int index = ceil(events , events[i][1]);
         int include = events[i][2]+solve(events , index , k-1 , dp);
         int exclude = solve(events , i+1 , k , dp);
@@ -23,7 +23,7 @@ class Solution {
         dp[i][k] = ans;
         return dp[i][k];
     }
-    /*int solve(int[][] events , int c , int p , int k , int[][] dp){
+    int solve(int[][] events , int c , int p , int k , int[][] dp){
         if(c == events.length || k == 0)
         return 0;
         if(dp[p+1][k] != -1)
@@ -35,7 +35,7 @@ class Solution {
         int ans = Math.max(include , exclude);
         dp[p+1][k] = Math.max(include , exclude);
         return dp[p+1][k];
-    }*/
+    }
     public int maxValue(int[][] events, int k) {
         int[][] dp = new int[events.length][k+1];
         for(int i = 0; i < dp.length; i++){
