@@ -14,9 +14,9 @@ class Solution {
     }*/
     int solve(int[] nums1 , int[] nums2 , int i , int j , int[][] dp){
         if(i >= nums1.length || j >= nums2.length)
-        return -1000000000;
+            return -1000000000;
         if(dp[i][j] != -1000000000)
-        return dp[i][j];
+            return dp[i][j];
         int same = solve(nums1 , nums2 , i+1 , j+1 , dp)+(nums1[i]*nums2[j]);
         int inc1 = solve(nums1 , nums2 , i+1 , j , dp);
         int inc2 = solve(nums1 , nums2 , i , j+1 , dp);
