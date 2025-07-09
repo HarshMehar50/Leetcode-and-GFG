@@ -1,21 +1,21 @@
 class Solution {
     int solve(int n , int[] cuts , int l , int r , int[][] dp){
         if(l > r)
-        return 0;
+            return 0;
         if(dp[l][r] != -1)
-        return dp[l][r];
+            return dp[l][r];
         int ans = Integer.MAX_VALUE;
         for(int i = l; i <= r; i++){
             int left = 0;
             int right = 0;
             if(l-1 < 0)
-            left = 0;
+                left = 0;
             else
-            left = cuts[l-1];
+                left = cuts[l-1];
             if(r+1 >= cuts.length)
-            right = n;
+                right = n;
             else
-            right = cuts[r+1];
+                right = cuts[r+1];
             ans = Math.min(ans , right-left+solve(n , cuts , l , i-1 , dp)+solve(n , cuts , i+1 , r , dp));
         }
         dp[l][r] = ans;
