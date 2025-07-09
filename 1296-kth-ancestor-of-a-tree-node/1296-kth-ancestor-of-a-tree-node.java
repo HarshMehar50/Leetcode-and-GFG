@@ -5,11 +5,11 @@ class TreeAncestor {
         ancestors[node][0] = parent;
         for(int i = 1; i < ancestors[0].length; i++){
             if(ancestors[node][i-1] != -1)
-            ancestors[node][i] = ancestors[ancestors[node][i-1]][i-1];
+                ancestors[node][i] = ancestors[ancestors[node][i-1]][i-1];
         }
         for(Integer x : adj.get(node)){
             if(x != parent)
-            DFS(x , node);
+                DFS(x , node);
         }
     }
     public TreeAncestor(int n, int[] parent) {
@@ -26,6 +26,7 @@ class TreeAncestor {
         }
         DFS(0 , -1);
     }
+    
     public int getKthAncestor(int node, int k) {
         for(int i = 0; i < ancestors[0].length; i++){
             if((k&(1<<i)) > 0){
