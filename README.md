@@ -637,6 +637,7 @@
 | [3900-find-weighted-median-node-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3900-find-weighted-median-node-in-tree) |
 | [3903-inverse-coin-change](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3903-inverse-coin-change) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3907-count-prime-gap-balanced-subarrays) |
+| [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -789,6 +790,7 @@
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3900-find-weighted-median-node-in-tree) |
 | [3903-inverse-coin-change](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3903-inverse-coin-change) |
+| [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -1433,6 +1435,7 @@
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3849-equal-sum-grid-partition-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3850-equal-sum-grid-partition-ii) |
+| [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
