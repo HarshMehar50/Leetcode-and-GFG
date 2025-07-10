@@ -884,6 +884,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0096-unique-binary-search-trees) |
@@ -1236,6 +1237,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0231-power-of-two) |
