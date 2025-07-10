@@ -128,6 +128,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0113-path-sum-ii) |
@@ -383,6 +384,7 @@
 | [0074-search-a-2d-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0090-subsets-ii) |
@@ -1177,6 +1179,7 @@
 | [0044-wildcard-matching](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0127-word-ladder) |
@@ -1323,6 +1326,7 @@
 | [0052-n-queens-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0131-palindrome-partitioning) |
@@ -1397,6 +1401,7 @@
 | [0063-unique-paths-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0174-dungeon-game) |
