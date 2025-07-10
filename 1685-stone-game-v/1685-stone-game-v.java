@@ -1,19 +1,19 @@
 class Solution {
     int solve(int[] stoneValue , int[] ps , int l , int r , int[][] dp){
         if(l == r || l >= r)
-        return 0;
+            return 0;
         if(dp[l][r] != -1)
-        return dp[l][r];
+            return dp[l][r];
         int ans = 0;
         for(int i = l+1; i <= r; i++){
             int ls = ps[i]-ps[l];
             int rs = ps[r+1]-ps[i];
             if(ls > rs)
-            ans = Math.max(ans , rs+solve(stoneValue , ps , i , r , dp));
+                ans = Math.max(ans , rs+solve(stoneValue , ps , i , r , dp));
             else if(rs > ls)
-            ans = Math.max(ans , ls+solve(stoneValue , ps , l , i-1 , dp));
+                ans = Math.max(ans , ls+solve(stoneValue , ps , l , i-1 , dp));
             else
-            ans = Math.max(ans , Math.max(ls+solve(stoneValue , ps , i , r , dp) , rs+solve(stoneValue , ps , l , i-1 , dp)));
+                ans = Math.max(ans , Math.max(ls+solve(stoneValue , ps , i , r , dp) , rs+solve(stoneValue , ps , l , i-1 , dp)));
         }
         dp[l][r] = ans;
         return dp[l][r];
