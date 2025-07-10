@@ -27,7 +27,7 @@ class Solution {
         visited[node] = true;
         for(Integer x : adj.get(node)){
             if(!visited[x])
-            DFSC(adj , visited , x);
+                DFSC(adj , visited , x);
         }
     }
     boolean valid(int n , HashMap<Integer , List<Integer>> adj){
@@ -40,33 +40,33 @@ class Solution {
             }
         }
         if(c == 1)
-        return true;
+            return true;
         else
-        return false;
+            return false;
     }
     public int[] countSubgraphsForEachDiameter(int n, int[][] edges) {
         int[] ans = new int[n-1];
         HashMap<Integer , List<Integer>> adj = new HashMap<>();
         for(int mask = 1; mask < (1<<edges.length); mask++){
             if(Integer.bitCount(mask) == 1)
-            ans[0]++;
+                ans[0]++;
             else{
-            for(int i = 1; i <= n; i++){
-                adj.put(i , new ArrayList<>());
-            }
-            for(int i = 0; i < edges.length; i++){
-                if((mask&(1<<i)) != 0){
-                    adj.get(edges[i][0]).add(edges[i][1]);
-                    adj.get(edges[i][1]).add(edges[i][0]);
+                for(int i = 1; i <= n; i++){
+                    adj.put(i , new ArrayList<>());
                 }
-            }
-            adj.entrySet().removeIf(entry -> entry.getValue().isEmpty());
-            int d = 0;
-            if(valid(n , adj))
-            d = daimeter(n , adj);
-            if(d-1 >= 0 && d-1 < n-1)
-            ans[d-1]++;
-            adj.clear();
+                for(int i = 0; i < edges.length; i++){
+                    if((mask&(1<<i)) != 0){
+                        adj.get(edges[i][0]).add(edges[i][1]);
+                        adj.get(edges[i][1]).add(edges[i][0]);
+                    }
+                }
+                adj.entrySet().removeIf(entry -> entry.getValue().isEmpty());
+                int d = 0;
+                if(valid(n , adj))
+                    d = daimeter(n , adj);
+                if(d-1 >= 0 && d-1 < n-1)
+                    ans[d-1]++;
+                adj.clear();
             }
         }
         return ans;
