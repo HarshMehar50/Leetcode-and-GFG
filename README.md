@@ -842,6 +842,7 @@
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3900-find-weighted-median-node-in-tree) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Greedy
 |  |
 | ------- |
@@ -996,6 +997,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Graph
 |  |
 | ------- |
@@ -1073,6 +1075,7 @@
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -1173,6 +1176,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3430-count-days-without-meetings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3430-count-days-without-meetings) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3815-sum-of-largest-prime-substrings) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3908-minimum-time-for-k-connected-components) |
 ## String
 |  |
 | ------- |
