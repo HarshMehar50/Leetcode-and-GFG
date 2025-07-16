@@ -12,6 +12,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -1100,6 +1101,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0206-reverse-linked-list) |
@@ -1600,6 +1602,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0295-find-median-from-data-stream) |
@@ -1857,6 +1860,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1582-design-browser-history) |
 ## String Matching
