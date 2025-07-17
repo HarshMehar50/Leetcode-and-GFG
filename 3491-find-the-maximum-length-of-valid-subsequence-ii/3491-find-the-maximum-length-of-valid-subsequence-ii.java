@@ -9,7 +9,7 @@ class Solution {
             int cr = ans.get(ans.size()-1)%k;
             int rr = r-cr;
             if(nums[i]%k == rr)
-                ans.add(nums[i]);
+            ans.add(nums[i]);
         }
         return ans.size();
     }
@@ -30,7 +30,7 @@ class Solution {
         }
         int include = 0;
         if(p == -1 || (Math.abs(r-nums[p]%k) == nums[c]%k && p != -1))
-            include = 1+solve(nums , k , r , c+1 , c);
+        include = 1+solve(nums , k , r , c+1 , c);
         int exclude = solve(nums , k , r , c+1 , p);
         int ans = Math.max(include , exclude);
         return ans;
@@ -42,7 +42,7 @@ class Solution {
             for(int j = i-1; j >= -1; j--){
                 int include = 0;
                 if(j == -1 || ((nums[i]+nums[j])%k == r && j != -1))
-                    include = 1+next[i+1];
+                include = 1+next[i+1];
                 int exclude = next[j+1];
                 current[j+1] = Math.max(include , exclude);
             }
@@ -57,8 +57,7 @@ class Solution {
         int ans = Integer.MIN_VALUE;
         for(int i = 0; i < k; i++){
             ans = Math.max(solveBinary(nums , k , i) , ans);
-        }
-        return ans;*/
+        }*/
         return solveTab(nums , k);
     }
 }
