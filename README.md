@@ -844,6 +844,7 @@
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3900-find-weighted-median-node-in-tree) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Greedy
 |  |
@@ -887,6 +888,7 @@
 | [3738-make-array-non-decreasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3738-make-array-non-decreasing) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3868-find-maximum-area-of-a-triangle) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Math
 |  |
 | ------- |
@@ -999,6 +1001,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Graph
 |  |
@@ -1077,6 +1080,7 @@
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3908-minimum-time-for-k-connected-components) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Minimum Spanning Tree
@@ -1084,6 +1088,7 @@
 | ------- |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1706-min-cost-to-connect-all-points) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Linked List
 |  |
 | ------- |
