@@ -51,6 +51,7 @@
 | [2118-maximum-earnings-from-taxi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2118-maximum-earnings-from-taxi) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2444-longest-ideal-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2444-longest-ideal-subsequence) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2455-node-with-highest-edge-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2455-node-with-highest-edge-score) |
@@ -786,6 +787,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2444-longest-ideal-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2444-longest-ideal-subsequence) |
 | [2510-maximum-deletions-on-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2510-maximum-deletions-on-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
@@ -1244,6 +1246,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2444-longest-ideal-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2444-longest-ideal-subsequence) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2510-maximum-deletions-on-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2510-maximum-deletions-on-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
