@@ -38,6 +38,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1087-longest-arithmetic-subsequence) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -1229,6 +1230,7 @@
 | [0721-accounts-merge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0753-open-the-lock) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0962-flip-string-to-monotone-increasing) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1122-longest-duplicate-substring](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1122-longest-duplicate-substring) |
 | [1170-shortest-common-supersequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1170-shortest-common-supersequence) |
 | [1244-distinct-echo-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1244-distinct-echo-substrings) |
@@ -1402,6 +1404,7 @@
 | [1022-unique-paths-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1022-unique-paths-iii) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1435-xor-queries-of-a-subarray) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
@@ -1580,6 +1583,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0966-binary-subarrays-with-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1046-max-consecutive-ones-iii) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1122-longest-duplicate-substring](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1122-longest-duplicate-substring) |
 | [1286-constrained-subsequence-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1286-constrained-subsequence-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
