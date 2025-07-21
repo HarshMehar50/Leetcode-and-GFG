@@ -79,6 +79,7 @@ class Solution {
         }
         if(l.size() <= 2)
         return l.size();
+        // BRUTE FORCE
         /*for(int i = 0; i < l.size(); i++){
             grid[l.get(i)[0]][l.get(i)[1]] = 0;
             int comp = components(grid);
