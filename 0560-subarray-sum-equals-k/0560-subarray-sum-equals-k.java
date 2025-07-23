@@ -22,7 +22,7 @@ class Solution {
             }
         }*/
         int ans = 0;
-        for(int l = 1; l <= nums.length; l++){
+        /*for(int l = 1; l <= nums.length; l++){
             for(int i = 0; i+l-1 < nums.length; i++){
                 int ss = 0;
                 if(i == 0)
@@ -32,6 +32,14 @@ class Solution {
                 if(ss == k)
                 ans++;
             }
+        }*/
+        HashMap<Integer , Integer> map = new HashMap<>();
+        int s = 0;
+        map.put(0 , 1);
+        for(int i = 0; i < nums.length; i++){
+            s += nums[i];
+            ans += map.getOrDefault(s-k , 0);
+            map.put(s , map.getOrDefault(s , 0)+1);
         }
         return ans;
     }
