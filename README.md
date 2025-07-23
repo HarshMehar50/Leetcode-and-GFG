@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0127-word-ladder) |
@@ -390,6 +391,7 @@
 | [0055-jump-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0078-subsets) |
@@ -1449,6 +1451,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0085-maximal-rectangle) |
