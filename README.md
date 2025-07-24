@@ -1156,6 +1156,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1484-linked-list-in-binary-tree) |
 | [1582-design-browser-history](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1582-design-browser-history) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1345,6 +1346,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0908-middle-of-the-linked-list) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2551-apply-operations-to-an-array) |
