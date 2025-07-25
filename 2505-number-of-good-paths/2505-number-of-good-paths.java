@@ -77,11 +77,12 @@ class Solution {
                 }
             }*/
             Set<Integer> set = new HashSet<>();
+            HashMap<Integer , Integer> cmap = new HashMap<>();
             for(Integer y : group.get(x)){
-                set.add(ds.findParent(y));
+                cmap.put(ds.findParent(y) , cmap.getOrDefault(ds.findParent(y) , 0)+1);
             }
-            for(Integer y : set){
-                ans += (ds.size[y]*(ds.size[y]-1))/2;
+            for(Integer y : cmap.keySet()){
+                ans += cmap.get(y)*(cmap.get(y)-1)/2;
             }
         }
         /*boolean[] active = new boolean[vals.length];
@@ -93,7 +94,6 @@ class Solution {
                 if(active[edges[i][0]] && active[edges[i][1]])
                 ds.unionSetRank(edges[i][0] , edges[i][1]);
             }
-            System.out.println(Arrays.toString(ds.parent));
             for(int i = 0; i < group.get(x).size()-1; i++){
                 for(int j = i+1; j < group.get(x).size(); j++){
                     if(ds.findParent(group.get(x).get(i)) == ds.findParent(group.get(x).get(j)))
