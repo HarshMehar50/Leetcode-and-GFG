@@ -679,6 +679,7 @@
 | [3903-inverse-coin-change](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3903-inverse-coin-change) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
+| [3936-split-array-by-prime-indices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3936-split-array-by-prime-indices) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1004,6 +1005,7 @@
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3907-count-prime-gap-balanced-subarrays) |
+| [3936-split-array-by-prime-indices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3936-split-array-by-prime-indices) |
 ## Union Find
 |  |
 | ------- |
@@ -1886,6 +1888,7 @@
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3907-count-prime-gap-balanced-subarrays) |
+| [3936-split-array-by-prime-indices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3936-split-array-by-prime-indices) |
 ## Eulerian Circuit
 |  |
 | ------- |
