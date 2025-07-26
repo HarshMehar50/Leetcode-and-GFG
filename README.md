@@ -997,6 +997,7 @@
 | [2635-check-if-point-is-reachable](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2635-check-if-point-is-reachable) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2827-greatest-common-divisor-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2827-greatest-common-divisor-traversal) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2873-prime-pairs-with-target-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2873-prime-pairs-with-target-sum) |
 | [3192-maximum-xor-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3192-maximum-xor-product) |
 | [3373-maximum-prime-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3373-maximum-prime-difference) |
@@ -1177,6 +1178,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1484-linked-list-in-binary-tree) |
 | [1582-design-browser-history](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1799,6 +1801,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1985-maximum-subarray-min-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1985-maximum-subarray-min-product) |
 | [2227-sum-of-subarray-ranges](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2227-sum-of-subarray-ranges) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3447-clear-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3447-clear-digits) |
 | [3738-make-array-non-decreasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3738-make-array-non-decreasing) |
 ## Monotonic Stack
