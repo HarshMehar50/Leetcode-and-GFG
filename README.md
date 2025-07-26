@@ -679,6 +679,7 @@
 | [3849-equal-sum-grid-partition-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3868-find-maximum-area-of-a-triangle) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3900-find-weighted-median-node-in-tree) |
 | [3903-inverse-coin-change](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3903-inverse-coin-change) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3907-count-prime-gap-balanced-subarrays) |
@@ -842,6 +843,7 @@
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3900-find-weighted-median-node-in-tree) |
 | [3903-inverse-coin-change](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3903-inverse-coin-change) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
