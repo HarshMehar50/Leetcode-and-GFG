@@ -87,6 +87,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -142,6 +143,7 @@
 | ------- |
 | [0079-word-search](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0098-validate-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -356,6 +358,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
