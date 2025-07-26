@@ -490,6 +490,7 @@
 | [0797-rabbits-in-forest](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0797-rabbits-in-forest) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0854-making-a-large-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
+| [0890-lemonade-change](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0891-score-after-flipping-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0895-shortest-path-to-get-all-keys) |
@@ -903,6 +904,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0770-couples-holding-hands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0770-couples-holding-hands) |
 | [0797-rabbits-in-forest](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0797-rabbits-in-forest) |
+| [0890-lemonade-change](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0891-score-after-flipping-matrix) |
 | [1018-largest-perimeter-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1018-largest-perimeter-triangle) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1251-longest-chunked-palindrome-decomposition) |
