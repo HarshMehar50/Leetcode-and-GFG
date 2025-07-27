@@ -2,7 +2,6 @@ class Solution {
     public long maximumMedianSum(int[] nums) {
         Arrays.sort(nums);
         long ans = 0;
-        boolean[] visited = new boolean[nums.length];
         int c = 0;
         while(c != nums.length/3){
             ans += nums[nums.length-(2*(c+1))];
