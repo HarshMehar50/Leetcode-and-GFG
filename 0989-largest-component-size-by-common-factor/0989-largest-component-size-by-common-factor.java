@@ -22,7 +22,7 @@ class Solution {
             int up = findParent(u);
             int vp = findParent(v);
             if(up == vp)
-            return;
+                return;
             if(rank[up] < rank[vp]){
                 parent[up] = vp;
             }else if(rank[vp] < rank[up]){
@@ -36,7 +36,7 @@ class Solution {
             int up = findParent(u);
             int vp = findParent(v);
             if(up == vp)
-            return;
+                return;
             if(size[up] < size[vp]){
                 parent[up] = vp;
                 size[vp] = size[vp]+size[up];
@@ -48,7 +48,7 @@ class Solution {
     }
     int gcd(int a , int b){
         if(b == 0)
-        return Math.abs(a);
+            return Math.abs(a);
         return gcd(b , a%b);
     }
     public int largestComponentSize(int[] nums) {
@@ -72,7 +72,7 @@ class Solution {
             for(int j = i; j <= max; j += i){
                 if(present[j]){
                     if(!map.containsKey(i))
-                    map.put(i , new ArrayList<>());
+                        map.put(i , new ArrayList<>());
                     map.get(i).add(j);
                 }
             }
