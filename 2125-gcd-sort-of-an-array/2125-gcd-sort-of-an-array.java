@@ -60,7 +60,7 @@ class Solution {
             List<Integer> l = new ArrayList<>();
             for(int i = gcd; i <= max; i += gcd){
                 if(present[i])
-                l.add(i);
+                    l.add(i);
             }
             for(int i = 0; i < l.size()-1; i++){
                 ds.unionSetSize(l.get(i) , l.get(i+1));
@@ -102,7 +102,7 @@ class Solution {
         Arrays.sort(t);
         for(int i = 0; i < nums.length; i++){
             if(ds.findParent(nums[i]) != ds.findParent(t[i]))
-            return false;
+                return false;
         }
         return true;
     }
