@@ -594,6 +594,7 @@
 | [2125-gcd-sort-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2125-gcd-sort-of-an-array) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2164-two-best-non-overlapping-events](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2164-two-best-non-overlapping-events) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2183-minimum-operations-to-convert-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2183-minimum-operations-to-convert-number) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1451,6 +1452,7 @@
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
@@ -1487,6 +1489,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [2044-number-of-wonderful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2044-number-of-wonderful-substrings) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2509-minimize-xor](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2509-minimize-xor) |
@@ -1880,6 +1883,7 @@
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2531-create-components-with-same-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2531-create-components-with-same-value) |
 | [2873-prime-pairs-with-target-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2873-prime-pairs-with-target-sum) |
