@@ -1,7 +1,7 @@
 class Solution {
     int gcd(int a , int b){
         if(b == 0)
-        return Math.abs(a);
+            return Math.abs(a);
         return gcd(b , a%b);
     }
     public int minOperations(int[] nums, int[] numsDivide) {
@@ -12,7 +12,7 @@ class Solution {
             g1 = g;
         }
         if(g == 0)
-        g = g1;
+            g = g1;
         Arrays.sort(nums);
         int ans = -1;
         for(int i = 0; i < nums.length; i++){
