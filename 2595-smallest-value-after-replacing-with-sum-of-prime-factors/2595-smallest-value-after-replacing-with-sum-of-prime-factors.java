@@ -14,7 +14,7 @@ class Solution {
     }
     public int smallestValue(int n) {
         if(n == 4 || n == 1)
-        return n;
+            return n;
         boolean[] p = new boolean[n+1];
         int[] spf = new int[n+1];
         Arrays.fill(p , true);
