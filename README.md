@@ -12,6 +12,7 @@
 | [0127-word-ladder](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0146-lru-cache) |
@@ -432,6 +433,7 @@
 | [0136-single-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0164-maximum-gap) |
@@ -722,6 +724,7 @@
 | [0131-palindrome-partitioning](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0198-house-robber) |
@@ -1285,6 +1288,7 @@
 | [0131-palindrome-partitioning](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0214-shortest-palindrome) |
 | [0392-is-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0392-is-subsequence) |
@@ -1448,6 +1452,7 @@
 | [0090-subsets-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0473-matchsticks-to-square) |
@@ -1794,6 +1799,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -1846,6 +1852,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0676-implement-magic-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0676-implement-magic-dictionary) |
