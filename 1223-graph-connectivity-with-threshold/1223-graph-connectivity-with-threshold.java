@@ -22,7 +22,7 @@ class Solution {
             int up = findParent(u);
             int vp = findParent(v);
             if(up == vp)
-            return;
+                return;
             if(rank[up] < rank[vp]){
                 parent[up] = vp;
             }else if(rank[vp] < rank[up]){
@@ -36,7 +36,7 @@ class Solution {
             int up = findParent(u);
             int vp = findParent(v);
             if(up == vp)
-            return;
+                return;
             if(size[up] < size[vp]){
                 parent[up] = vp;
                 size[vp] = size[vp]+size[up];
@@ -60,9 +60,9 @@ class Solution {
         }
         for(int i = 0; i < queries.length; i++){
             if(ds.findParent(queries[i][0]) == ds.findParent(queries[i][1]))
-            ans.add(true);
+                ans.add(true);
             else
-            ans.add(false);
+                ans.add(false);
         }
         return ans;
     }
