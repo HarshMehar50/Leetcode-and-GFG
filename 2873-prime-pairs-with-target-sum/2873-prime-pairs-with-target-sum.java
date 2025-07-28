@@ -7,9 +7,9 @@ class Solution {
         for(int i = 2; i <= n; i++){
             if(p[i]){
                 if((long)((long)i*(long)i) <= (long)n){
-                for(int j = i*i; j <= n; j += i){
-                    p[j] = false;
-                }
+                    for(int j = i*i; j <= n; j += i){
+                        p[j] = false;
+                    }
                 }
             }
         }
@@ -23,7 +23,7 @@ class Solution {
                 List<Integer> inner = new ArrayList<>();
                 inner.add(Math.min(i , n-i));
                 inner.add(Math.max(i , n-i));
-                if(!ans.contains(inner))
+                //if(!ans.contains(inner))
                 ans.add(inner);
             }
         }
