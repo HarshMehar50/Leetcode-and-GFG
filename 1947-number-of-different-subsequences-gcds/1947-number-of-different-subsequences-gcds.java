@@ -1,7 +1,7 @@
 class Solution {
     int gcd(int a, int b) {
         if(b == 0)
-        return Math.abs(a);
+            return Math.abs(a);
         return gcd(b , a%b);
     }
     public int countDifferentSubsequenceGCDs(int[] nums) {
@@ -23,7 +23,7 @@ class Solution {
             ans--;
         }
         return ans;*/
-        
+
         int max = 0;
         for(int i = 0; i < nums.length; i++){
             max = Math.max(nums[i] , max);
@@ -38,9 +38,9 @@ class Solution {
             for(int j =i; j <= max; j += i){
                 if(present[j]){
                     if(gcd == 0)
-                    gcd = j;
+                        gcd = j;
                     else
-                    gcd = gcd(gcd , j);
+                        gcd = gcd(gcd , j);
                     if(gcd == i){
                         ans++;
                         break;
