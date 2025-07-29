@@ -16,6 +16,7 @@
 | [0141-linked-list-cycle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -438,6 +439,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0198-house-robber) |
@@ -1221,6 +1223,7 @@
 | [0075-sort-colors](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0347-top-k-frequent-elements) |
@@ -1412,6 +1415,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0347-top-k-frequent-elements) |
@@ -1878,6 +1882,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0451-sort-characters-by-frequency) |
 | [1396-count-servers-that-communicate](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1396-count-servers-that-communicate) |
