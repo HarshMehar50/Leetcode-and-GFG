@@ -162,6 +162,7 @@
 | [0200-number-of-islands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -1290,6 +1291,7 @@
 | [0139-word-break](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0214-shortest-palindrome](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0214-shortest-palindrome) |
 | [0392-is-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0402-remove-k-digits) |
@@ -1724,6 +1726,7 @@
 | [0146-lru-cache](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0295-find-median-from-data-stream) |
 | [0676-implement-magic-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0677-map-sum-pairs) |
@@ -1854,6 +1857,7 @@
 | [0139-word-break](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0676-implement-magic-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0677-map-sum-pairs) |
