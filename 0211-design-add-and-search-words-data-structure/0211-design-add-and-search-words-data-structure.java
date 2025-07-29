@@ -20,33 +20,35 @@ class WordDictionary {
             node.wordCount++;
         }
         
-        boolean solve(String word , TrieNode node , int i , HashMap<String , Boolean> dp){
+        boolean solve(String word , TrieNode node , int i){
             if(i >= word.length()){
                 if(node.wordCount > 0)
                 return true;
                 else
                 return false;
             }
-            String key = i+" "+System.identityHashCode(node);
-            if(dp.containsKey(key))
-            return dp.get(key);
             boolean ans = false;
             for(int j = 0; j < 26; j++){
                 if(word.charAt(i) != '.'){
                     if(node.children[j] != null && j == (int)(word.charAt(i)-'a'))
-                    ans = ans||solve(word , node.children[j] , i+1 , dp);
+                    ans = ans||solve(word , node.children[j] , i+1);
                 }else{
                     if(node.children[j] != null)
-                    ans = ans||solve(word , node.children[j] , i+1 , dp);
+                    ans = ans||solve(word , node.children[j] , i+1);
                 }
             }
-            dp.put(key , ans);
-            return dp.get(key);
+            return ans;
         }
         public boolean search(String word) {
+            /*TrieNode node = root;
+            for (char ch : word.toCharArray()) {
+                int idx = ch - 'a';
+                if (node.children[idx] == null) return false;
+                node = node.children[idx];
+            }
+            return node.wordCount > 0;*/
             TrieNode node = root;
-            HashMap<String , Boolean> dp = new HashMap<>();
-            return solve(word , node , 0 , dp);
+            return solve(word , node , 0);
         }
     }
 
