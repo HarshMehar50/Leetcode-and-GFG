@@ -59,14 +59,14 @@ class Solution {
                 }
             }
         }*/
-        if(nums[0] == 1)
-        return false;
+        if(nums[0] == 1 && nums.length != 1)
+            return false;
         for(int i = 2; i <= max; i++){
             List<Integer> l = new ArrayList<>();
             for(int j = i; j <= max; j += i){
                 int bs = Arrays.binarySearch(nums , j);
                 if(bs < nums.length && bs >= 0)
-                l.add(j);
+                    l.add(j);
             }
             for(int j = 0; j < l.size()-1; j++){
                 ds.unionSetRank(l.get(j) , l.get(j+1));
@@ -77,8 +77,8 @@ class Solution {
             set.add(ds.findParent(nums[i]));
         }
         if(set.size() == 1)
-        return true;
+            return true;
         else
-        return false;
+            return false;
     }
 }
