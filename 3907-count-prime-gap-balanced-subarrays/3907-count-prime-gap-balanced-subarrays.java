@@ -14,8 +14,8 @@ class Solution {
     }
     public int primeSubarray(int[] nums, int k) {
         int max = 0;
-        for(int i = 0; i < nums.length; i++){
-            max = Math.max(nums[i] , max);
+        for (int i = 0; i < nums.length; i++) {
+            max = Math.max(nums[i], max);
         }
         boolean[] prime = seive(max);
         /*List<int[]> list = new ArrayList<>();
@@ -66,26 +66,26 @@ class Solution {
         return ans;*/
         int l = 0;
         int ans = 0;
-        TreeMap<Integer , Integer> f = new TreeMap<>();
+        TreeMap<Integer, Integer> f = new TreeMap<>();
         Deque<int[]> dq = new LinkedList<>();
-        for(int r = 0; r < nums.length; r++){
-            if(prime[nums[r]]){
-                f.put(nums[r] , f.getOrDefault(nums[r] , 0)+1);
-                dq.add(new int[]{nums[r] , r});
+        for (int r = 0; r < nums.length; r++) {
+            if (prime[nums[r]]) {
+                f.put(nums[r], f.getOrDefault(nums[r], 0) + 1);
+                dq.add(new int[]{nums[r], r});
             }
-            while(f.size() > 0 && f.lastKey()-f.firstKey() > k){
-                if(prime[nums[l]]){
-                    f.put(nums[l] , f.get(nums[l])-1);
-                    if(f.get(nums[l]) == 0)
-                    f.remove(nums[l]);
+            while (f.size() > 0 && f.lastKey() - f.firstKey() > k) {
+                if (prime[nums[l]]) {
+                    f.put(nums[l], f.get(nums[l]) - 1);
+                    if (f.get(nums[l]) == 0)
+                        f.remove(nums[l]);
                     dq.poll();
                 }
                 l++;
             }
-            if(dq.size() >= 2){
+            if (dq.size() >= 2) {
                 int[] fp = dq.pollLast();
                 int sp = dq.peekLast()[1];
-                ans += sp-l+1;
+                ans += sp - l + 1;
                 dq.add(fp);
             }
         }
