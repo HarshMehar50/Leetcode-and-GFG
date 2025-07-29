@@ -18,6 +18,7 @@
 | [0146-lru-cache](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0433-minimum-genetic-mutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0433-minimum-genetic-mutation) |
@@ -449,6 +450,7 @@
 | [0213-house-robber-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0260-single-number-iii) |
@@ -1225,6 +1227,7 @@
 | [0164-maximum-gap](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0354-russian-doll-envelopes) |
@@ -1883,6 +1886,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0451-sort-characters-by-frequency) |
 | [1396-count-servers-that-communicate](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1396-count-servers-that-communicate) |
