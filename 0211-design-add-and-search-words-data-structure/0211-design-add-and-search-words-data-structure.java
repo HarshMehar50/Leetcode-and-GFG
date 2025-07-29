@@ -27,17 +27,18 @@ class WordDictionary {
                 else
                 return false;
             }
-            boolean ans = false;
             for(int j = 0; j < 26; j++){
                 if(word.charAt(i) != '.'){
                     if(node.children[j] != null && j == (int)(word.charAt(i)-'a'))
-                    ans = ans||solve(word , node.children[j] , i+1);
+                    if(solve(word , node.children[j] , i+1))
+                    return true;
                 }else{
                     if(node.children[j] != null)
-                    ans = ans||solve(word , node.children[j] , i+1);
+                    if(solve(word , node.children[j] , i+1))
+                    return true;
                 }
             }
-            return ans;
+            return false;
         }
         public boolean search(String word) {
             /*TrieNode node = root;
