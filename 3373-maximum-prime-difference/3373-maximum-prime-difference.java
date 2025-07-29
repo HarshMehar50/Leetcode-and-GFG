@@ -19,6 +19,7 @@ class Solution {
         int fi = 0;
         int li = 0;
         boolean[] prime = seive(max);
+        prime[1] = false;
         for(int i = 0; i < nums.length; i++){
             if(prime[nums[i]]){
                 fi = i;
