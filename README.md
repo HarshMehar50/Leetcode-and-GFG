@@ -625,6 +625,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2505-number-of-good-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2505-number-of-good-paths) |
 | [2531-create-components-with-same-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2531-create-components-with-same-value) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -1513,6 +1514,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2621-find-xor-beauty-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2621-find-xor-beauty-of-array) |
@@ -1968,6 +1970,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Geometry
 |  |
