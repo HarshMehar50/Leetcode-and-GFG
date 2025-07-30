@@ -4,6 +4,7 @@ class Solution {
         for(int i = 0; i < nums.length; i++){
             max = Math.max(max , nums[i]);
         }
+        // BRUTE
         /*TreeMap<Integer , Integer> f = new TreeMap<>();
         int l = 0;
         int ans = 0;
@@ -19,6 +20,8 @@ class Solution {
             ans = Math.max(ans , r-l+1);
         } 
         return ans;*/
+
+        // OPTIMAL
         int ans = 1;
         int c = 0;
         for(int i = 0; i < nums.length; i++){
