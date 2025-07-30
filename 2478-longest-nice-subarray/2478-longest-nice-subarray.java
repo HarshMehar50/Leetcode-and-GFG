@@ -7,7 +7,7 @@ class Solution {
         return true;
     }
     public int longestNiceSubarray(int[] nums) {
-        int[] a = new int[31];
+        /*int[] a = new int[31];
         int l = 0;
         int ans = 0;
         for(int r = 0; r < nums.length; r++){
@@ -23,6 +23,18 @@ class Solution {
                 l++;
             }
             if(check(a))
+            ans = Math.max(ans , r-l+1);
+        }
+        return ans;*/
+        int l = 0;
+        int ans = 0;
+        int ca = 0;
+        for(int r = 0; r < nums.length; r++){
+            while((ca&nums[r]) != 0){
+                ca = ca^nums[l];
+                l++;
+            }
+            ca = ca|nums[r];
             ans = Math.max(ans , r-l+1);
         }
         return ans;
