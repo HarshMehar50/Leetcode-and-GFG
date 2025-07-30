@@ -4,7 +4,7 @@ class Solution {
         for(int i = 0; i < nums.length; i++){
             max = Math.max(max , nums[i]);
         }
-        TreeMap<Integer , Integer> f = new TreeMap<>();
+        /*TreeMap<Integer , Integer> f = new TreeMap<>();
         int l = 0;
         int ans = 0;
         for(int r = 0; r < nums.length; r++){
@@ -18,6 +18,18 @@ class Solution {
             if(f.size() == 1 && f.firstKey() == max)
             ans = Math.max(ans , r-l+1);
         } 
+        return ans;*/
+        int ans = 1;
+        int c = 0;
+        for(int i = 0; i < nums.length; i++){
+            if(nums[i] == max)
+            c++;
+            else{
+                ans = Math.max(ans , c);
+                c = 0;
+            }
+        }
+        ans = Math.max(ans , c);
         return ans;
     }
 }
