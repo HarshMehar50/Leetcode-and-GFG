@@ -24,6 +24,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0480-sliding-window-median) |
+| [0523-continuous-subarray-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0567-permutation-in-string) |
@@ -480,6 +481,7 @@
 | [0480-sliding-window-median](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0494-target-sum) |
+| [0523-continuous-subarray-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
@@ -990,6 +992,7 @@
 | [0396-rotate-function](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0396-rotate-function) |
 | [0477-total-hamming-distance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0797-rabbits-in-forest) |
 | [0804-rotated-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0804-rotated-digits) |
@@ -1802,6 +1805,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0724-find-pivot-index) |
