@@ -25,6 +25,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0480-sliding-window-median) |
 | [0523-continuous-subarray-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0567-permutation-in-string) |
@@ -482,6 +483,7 @@
 | [0486-predict-the-winner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
@@ -1809,6 +1811,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0724-find-pivot-index) |
