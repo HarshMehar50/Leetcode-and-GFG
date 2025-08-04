@@ -41,6 +41,7 @@
 | [0797-rabbits-in-forest](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0989-largest-component-size-by-common-factor) |
@@ -530,6 +531,7 @@
 | [0907-koko-eating-bananas](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0909-stone-game) |
 | [0911-profitable-schemes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0911-profitable-schemes) |
+| [0940-fruit-into-baskets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0948-sort-an-array) |
@@ -1724,6 +1726,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0940-fruit-into-baskets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0966-binary-subarrays-with-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1046-max-consecutive-ones-iii) |
