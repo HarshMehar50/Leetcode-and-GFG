@@ -22,7 +22,7 @@ class Solution {
             int up = findParent(u);
             int vp = findParent(v);
             if(up == vp)
-            return;
+                return;
             if(rank[up] < rank[vp]){
                 parent[up] = vp;
             }else if(rank[vp] < rank[up]){
@@ -36,7 +36,7 @@ class Solution {
             int up = findParent(u);
             int vp = findParent(v);
             if(up == vp)
-            return;
+                return;
             if(size[up] < size[vp]){
                 parent[up] = vp;
                 size[vp] = size[vp]+size[up];
@@ -52,9 +52,9 @@ class Solution {
         for(int i = 0; i < accounts.size(); i++){
             for(int j = 1; j < accounts.get(i).size(); j++){
                 if(!map.containsKey(accounts.get(i).get(j)))
-                map.put(accounts.get(i).get(j) , i);
+                    map.put(accounts.get(i).get(j) , i);
                 else
-                ds.unionSetSize(i , map.get(accounts.get(i).get(j)));
+                    ds.unionSetSize(i , map.get(accounts.get(i).get(j)));
             }
         }
         List<String>[] merge = new ArrayList[accounts.size()];
