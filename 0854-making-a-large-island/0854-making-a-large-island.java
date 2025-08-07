@@ -14,14 +14,14 @@ class Solution {
         }
         int findParent(int node){
             if(node == parent[node])
-            return node;
+                return node;
             return parent[node] = findParent(parent[node]);
         }
         void unionRank(int u , int v){
             int pu = findParent(u);
             int pv = findParent(v);
             if(pu == pv)
-            return;
+                return;
             if(rank[pu] < rank[pv]){
                 parent[pu] = pv;
             }else if(rank[pv] < rank[pu]){
@@ -34,8 +34,8 @@ class Solution {
         void unionSize(int u , int v){
             int pu = findParent(u);
             int pv = findParent(v);
-            if(pu == pv) 
-            return;
+            if(pu == pv)
+                return;
             if(size[pu] < size[pv]){
                 parent[pu] = pv;
                 size[pv] = size[pv]+size[pu];
@@ -56,7 +56,7 @@ class Solution {
                     int nr = i+dR[k];
                     int nc = j+dC[k];
                     if(nr < grid.length && nr >= 0 && nc < grid[0].length && nc >= 0 && grid[nr][nc] == 1)
-                    ds.unionSize(i*grid.length + j , nr*grid.length + nc);
+                        ds.unionSize(i*grid.length + j , nr*grid.length + nc);
                 }
             }
         }
@@ -69,11 +69,11 @@ class Solution {
                     int nr = i+dR[k];
                     int nc = j+dC[k];
                     if(nr < grid.length && nr >= 0 && nc < grid[0].length && nc >= 0 && grid[nr][nc] == 1)
-                    comp.add(ds.findParent(nr*grid.length + nc));
+                        comp.add(ds.findParent(nr*grid.length + nc));
                 }
                 int sizeTotal = 0;
                 for(Integer x : comp){
-                 sizeTotal += ds.size[x];
+                    sizeTotal += ds.size[x];
                 }
                 max = Math.max(max , sizeTotal+1);
             }
