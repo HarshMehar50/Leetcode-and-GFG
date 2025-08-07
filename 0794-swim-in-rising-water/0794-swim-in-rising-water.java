@@ -4,18 +4,18 @@ class Solution {
         int[][] visited = new int[grid.length][grid[0].length];
         int[] dR = {1 , 0 , -1 , 0};
         int[] dC = {0 , 1 , 0 , -1};
-        q.offer(new int[]{0 , 0 , 0});
+        q.offer(new int[]{0 , 0 , grid[0][0]});
         for(int i = 0; i < visited.length; i++){
             Arrays.fill(visited[i] , Integer.MAX_VALUE);
         }
-        visited[0][0] = 0;
+        visited[0][0] = grid[0][0];
         while(!q.isEmpty()){
             int r = q.peek()[0];
             int c = q.peek()[1];
             int t = q.peek()[2];
             q.poll();
             if(r == grid.length-1 && c == grid[0].length-1)
-            return t;
+                return Math.max(t , grid[r][c]);
             for(int i = 0; i < 4; i++){
                 int nr = r+dR[i];
                 int nc = c+dC[i];
