@@ -46,37 +46,6 @@ class Solution {
             }
             return node.si;
         }
-
-        public boolean startsWith(String prefix) {
-            TrieNode node = root;
-            for (char ch : prefix.toCharArray()) {
-                int idx = ch - 'a';
-                if (node.children[idx] == null) return false;
-                node = node.children[idx];
-            }
-            return true;
-        }
-
-        public int countWordsEqualTo(String word) {
-            TrieNode node = root;
-            for (char ch : word.toCharArray()) {
-                int idx = ch - 'a';
-                if (node.children[idx] == null) return 0;
-                node = node.children[idx];
-            }
-            return node.wordCount;
-        }
-
-        public int countWordsStartingWith(String prefix) {
-            TrieNode node = root;
-            for (char ch : prefix.toCharArray()) {
-                int idx = ch - 'a';
-                if (node.children[idx] == null) return -1;
-                node = node.children[idx];
-            }
-            return node.prefixCount;
-        }
-
         
     }
 
