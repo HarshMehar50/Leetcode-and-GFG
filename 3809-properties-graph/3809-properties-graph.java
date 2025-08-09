@@ -63,9 +63,9 @@ class Solution {
                 set.addAll(sa[i]);
                 set.addAll(sa[j]);
                 if(set.size() <= sa[i].size()+sa[j].size()-k)
-                ds.unionSetRank(i , j);
+                    ds.unionSetRank(i , j);
             }
-        } 
+        }
         Set<Integer> set = new HashSet<>();
         for(int i = 0; i < properties.length; i++){
             set.add(ds.findParent(i));
