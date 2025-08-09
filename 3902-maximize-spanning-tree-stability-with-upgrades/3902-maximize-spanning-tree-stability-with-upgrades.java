@@ -91,10 +91,10 @@ class Solution {
                 ds.unionSetRank(edges[i][0] , edges[i][1]);
                 mark[i] = true;
             }
-        } 
+        }
         for(int i = 0; i < edges.length; i++){
             if(edges[i][3] == 1 && !mark[i])
-            return false;
+                return false;
         }
         for(int i = 0; i < edges.length; i++){
             if(edges[i][3] == 0 && ds.findParent(edges[i][0]) != ds.findParent(edges[i][1])){
@@ -115,9 +115,9 @@ class Solution {
             set.add(ds.findParent(i));
         }
         if(set.size() == 1)
-        return true;
+            return true;
         else
-        return false;
+            return false;
     }
     public int maxStability(int n, int[][] edges, int k) {
         int s = 0;
@@ -134,7 +134,7 @@ class Solution {
                 ans = m;
                 s = m+1;
             }else
-            e = m-1;
+                e = m-1;
         }
         return ans;
     }
