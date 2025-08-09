@@ -17,7 +17,7 @@ class Solution {
                 int nc = c+dC[i];
                 if(nr < grid.length && nr >= 0 && nc < grid[0].length && nc >= 0 && grid[nr][nc] == val){
                     if(visited[nr][nc] && !(nr == pr && nc == pc))
-                    return true;
+                        return true;
                     if(!visited[nr][nc]){
                         q.offer(new int[]{nr , nc , r , c});
                         visited[nr][nc] = true;
@@ -33,7 +33,7 @@ class Solution {
             for(int j = 0; j < grid[0].length; j++){
                 if(!visited[i][j]){
                     if(BFS(grid , i , j , visited))
-                    return true;
+                        return true;
                 }
             }
         }
