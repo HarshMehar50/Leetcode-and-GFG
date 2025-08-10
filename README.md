@@ -657,6 +657,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2294-minimum-time-to-complete-trips) |
 | [2342-minimum-average-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2342-minimum-average-difference) |
 | [2350-find-closest-number-to-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2350-find-closest-number-to-zero) |
@@ -963,6 +964,7 @@
 | [2118-maximum-earnings-from-taxi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2118-maximum-earnings-from-taxi) |
 | [2164-two-best-non-overlapping-events](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2294-minimum-time-to-complete-trips) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -1514,12 +1516,14 @@
 | [0372-super-pow](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0372-super-pow) |
 | [0948-sort-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1014-k-closest-points-to-origin) |
+| [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0948-sort-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -1869,6 +1873,7 @@
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
@@ -1876,6 +1881,7 @@
 | [0307-range-sum-query-mutable](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1294-range-frequency-queries](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1294-range-frequency-queries) |
+| [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Simulation
 |  |
@@ -2137,6 +2143,7 @@
 |  |
 | ------- |
 | [1017-odd-even-jump](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1017-odd-even-jump) |
+| [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 | [3863-power-grid-maintenance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3863-power-grid-maintenance) |
 ## Binary Search Tree
 |  |
