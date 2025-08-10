@@ -224,6 +224,7 @@
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1300-critical-connections-in-a-network](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1380-number-of-closed-islands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1428-jump-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1428-jump-game-iii) |
@@ -330,6 +331,7 @@
 | [1254-deepest-leaves-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1254-deepest-leaves-sum) |
 | [1275-validate-binary-tree-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1275-validate-binary-tree-nodes) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1380-number-of-closed-islands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1428-jump-game-iii) |
@@ -586,6 +588,7 @@
 | [1352-maximum-profit-in-job-scheduling](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
+| [1380-number-of-closed-islands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1380-number-of-closed-islands) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1396-count-servers-that-communicate) |
@@ -1118,6 +1121,7 @@
 | [1073-number-of-enclaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
 | [1223-graph-connectivity-with-threshold](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1223-graph-connectivity-with-threshold) |
 | [1275-validate-binary-tree-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1275-validate-binary-tree-nodes) |
+| [1380-number-of-closed-islands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1657,6 +1661,7 @@
 | [1073-number-of-enclaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1380-number-of-closed-islands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1380-number-of-closed-islands) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
