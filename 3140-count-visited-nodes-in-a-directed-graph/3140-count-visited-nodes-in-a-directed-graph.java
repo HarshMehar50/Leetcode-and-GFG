@@ -16,7 +16,7 @@ class Solution {
         }
     }
     public int[] countVisitedNodes(List<Integer> edges) {
-        HashMap<Integer , List<Integer>> adj = new HashMap<>();
+       HashMap<Integer , List<Integer>> adj = new HashMap<>();
         HashMap<Integer , List<Integer>> transpose = new HashMap<>();
         for(int i = 0; i < edges.size(); i++){
             adj.put(i , new ArrayList<>());
