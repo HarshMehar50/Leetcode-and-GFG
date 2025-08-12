@@ -1,7 +1,7 @@
 class Solution {
     int BFS(List<List<Integer>> forest , int sr , int sc , int dr , int dc){
         if(sr == dr && sc == dc)
-        return 0;
+            return 0;
         Queue<int[]> q = new LinkedList<>();
         boolean[][] visited = new boolean[forest.size()][forest.get(0).size()];
         int[] dR = {1 , 0 , -1 , 0};
@@ -14,7 +14,7 @@ class Solution {
             int d = q.peek()[2];
             q.poll();
             if(r == dr && c == dc)
-            return d;
+                return d;
             for(int i = 0; i < 4; i++){
                 int nr = r+dR[i];
                 int nc = c+dC[i];
@@ -68,7 +68,7 @@ class Solution {
         for(int i = 0; i < forest.size(); i++){
             for(int j = 0; j < forest.get(i).size(); j++){
                 if(forest.get(i).get(j) > 1)
-                l.add(new int[]{forest.get(i).get(j) , i , j});
+                    l.add(new int[]{forest.get(i).get(j) , i , j});
             }
         }
         Collections.sort(l , (x , y)->Integer.compare(x[0] , y[0]));
@@ -78,7 +78,7 @@ class Solution {
         for(int[] a : l){
             int d = BFS(forest , sr , sc , a[1] , a[2]);
             if(d == -1)
-            return -1;
+                return -1;
             ans += d;
             sr = a[1];
             sc = a[2];
