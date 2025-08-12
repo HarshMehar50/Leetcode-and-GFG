@@ -28,7 +28,7 @@ class Solution {
             }
         }
         return 0;*/
-         Set<String> wordSet = new HashSet<>(wordList);
+        Set<String> wordSet = new HashSet<>(wordList);
         if (!wordSet.contains(endWord)) {
             return 0;
         }
@@ -53,7 +53,7 @@ class Solution {
                 char[] wordArray = word.toCharArray();
                 for (int i = 0; i < wordArray.length; i++) {
                     char old = wordArray[i];
-                     for (char ch = 'a'; ch <= 'z'; ch++) {
+                    for (char ch = 'a'; ch <= 'z'; ch++) {
                         wordArray[i] = ch;
                         String newWord = new String(wordArray);
 
