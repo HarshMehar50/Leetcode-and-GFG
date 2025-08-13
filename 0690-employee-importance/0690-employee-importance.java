@@ -16,7 +16,7 @@ class Solution {
         int index = 0;
         for(int i = 0; i < employees.size(); i++){
             if(employees.get(i).id == id)
-            index = i;
+                index = i;
         }
         Queue<Employee> q = new LinkedList<>();
         q.offer(employees.get(index));
