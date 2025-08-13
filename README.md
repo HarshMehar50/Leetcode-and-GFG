@@ -30,6 +30,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0648-replace-words](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0676-implement-magic-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0677-map-sum-pairs) |
@@ -520,6 +521,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0646-maximum-length-of-pair-chain) |
+| [0648-replace-words](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0648-replace-words) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0690-employee-importance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0690-employee-importance) |
@@ -1403,6 +1405,7 @@
 | [0567-permutation-in-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0647-palindromic-substrings) |
+| [0648-replace-words](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0678-valid-parenthesis-string) |
@@ -2023,6 +2026,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0648-replace-words](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0720-longest-word-in-dictionary) |
