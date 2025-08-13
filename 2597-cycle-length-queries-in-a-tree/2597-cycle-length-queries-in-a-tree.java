@@ -3,7 +3,7 @@ class Solution {
         ancestors[node][0] = parent;
         for(int i = 1; i < ancestors[0].length; i++){
             if(ancestors[node][i-1] != -1)
-            ancestors[node][i] = ancestors[ancestors[node][i-1]][i-1]; 
+            ancestors[node][i] = ancestors[ancestors[node][i-1]][i-1];
         }
         for(Integer x : adj.get(node)){
             if(x != parent){
@@ -84,15 +84,15 @@ class Solution {
         return u>>1;
     }*/
     int LCA(int u, int v) {
-    while (u != v) {
-        if (u > v) {
-            u = u / 2;
-        } else {
-            v = v / 2;
+        while (u != v) {
+            if (u > v) {
+                u = u / 2;
+            } else {
+                v = v / 2;
+            }
         }
+        return u;
     }
-    return u;
-}
     public int[] cycleLengthQueries(int n, int[][] queries) {
         /*HashMap<Integer , List<Integer>> adj = new HashMap<>();
         for(int i = 1; i <= (1<<n)-1; i++){
