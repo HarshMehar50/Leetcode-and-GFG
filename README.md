@@ -37,6 +37,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0740-delete-and-earn) |
+| [0746-prefix-and-suffix-search](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0746-prefix-and-suffix-search) |
 | [0753-open-the-lock](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0753-open-the-lock) |
 | [0797-rabbits-in-forest](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -534,6 +535,7 @@
 | [0735-asteroid-collision](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0740-delete-and-earn) |
+| [0746-prefix-and-suffix-search](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0746-prefix-and-suffix-search) |
 | [0747-min-cost-climbing-stairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0753-open-the-lock) |
 | [0787-sliding-puzzle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0787-sliding-puzzle) |
@@ -1407,6 +1409,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
+| [0746-prefix-and-suffix-search](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0746-prefix-and-suffix-search) |
 | [0753-open-the-lock](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0753-open-the-lock) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
@@ -1868,6 +1871,7 @@
 | [0307-range-sum-query-mutable](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0307-range-sum-query-mutable) |
 | [0676-implement-magic-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0677-map-sum-pairs) |
+| [0746-prefix-and-suffix-search](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0746-prefix-and-suffix-search) |
 | [0937-online-stock-span](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0937-online-stock-span) |
 | [1294-range-frequency-queries](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1294-range-frequency-queries) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -2022,6 +2026,7 @@
 | [0676-implement-magic-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0720-longest-word-in-dictionary) |
+| [0746-prefix-and-suffix-search](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0746-prefix-and-suffix-search) |
 | [1244-distinct-echo-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1244-distinct-echo-substrings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1826-maximum-xor-with-an-element-from-array) |
