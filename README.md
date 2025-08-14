@@ -143,6 +143,7 @@
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1731-even-odd-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1731-even-odd-tree) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -243,6 +244,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [2201-valid-arrangement-of-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2201-valid-arrangement-of-pairs) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -668,6 +670,7 @@
 | [2294-minimum-time-to-complete-trips](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2294-minimum-time-to-complete-trips) |
 | [2342-minimum-average-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2342-minimum-average-difference) |
 | [2350-find-closest-number-to-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2350-find-closest-number-to-zero) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -1220,6 +1223,7 @@
 | [2201-valid-arrangement-of-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -1309,6 +1313,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2176-parallel-courses-iii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2439-longest-cycle-in-a-graph) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
@@ -1435,6 +1440,7 @@
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2444-longest-ideal-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2444-longest-ideal-subsequence) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
