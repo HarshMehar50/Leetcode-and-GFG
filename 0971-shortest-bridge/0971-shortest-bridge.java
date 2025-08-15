@@ -8,7 +8,7 @@ class Solution {
             int nr = r+dR[i];
             int nc = c+dC[i];
             if(nr < grid.length && nr >= 0 && nc < grid[0].length && nc >= 0 && !visited[nr][nc] && grid[nr][nc] == 1)
-            DFS(nr , nc , visited , grid , l);
+                DFS(nr , nc , visited , grid , l);
         }
     }
     public int shortestBridge(int[][] grid) {
