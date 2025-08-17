@@ -361,6 +361,7 @@
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2183-minimum-operations-to-convert-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2183-minimum-operations-to-convert-number) |
+| [2344-escape-the-spreading-fire](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2344-escape-the-spreading-fire) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -675,6 +676,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2294-minimum-time-to-complete-trips) |
 | [2342-minimum-average-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2342-minimum-average-difference) |
+| [2344-escape-the-spreading-fire](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2344-escape-the-spreading-fire) |
 | [2350-find-closest-number-to-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2350-find-closest-number-to-zero) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -987,6 +989,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2294-minimum-time-to-complete-trips) |
+| [2344-escape-the-spreading-fire](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2344-escape-the-spreading-fire) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1714,6 +1717,7 @@
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2344-escape-the-spreading-fire](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2344-escape-the-spreading-fire) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2588-maximum-number-of-points-from-grid-queries) |
