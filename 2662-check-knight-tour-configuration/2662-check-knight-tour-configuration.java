@@ -5,7 +5,7 @@ class Solution {
         int[] dR = {-2 , -2 , -1 , -1 , 1 , 1 , 2 , 2};
         int[] dC = {-1 , 1 , -2 , 2 , -2 , 2 , -1 , 1};
         if(grid[0][0] != 0)
-        return false;
+            return false;
         q.offer(new int[]{grid[0][0] , 0 , 0});
         visited[0][0] = true;
         while(!q.isEmpty()){
@@ -14,17 +14,17 @@ class Solution {
             int c = q.peek()[2];
             q.poll();
             if(val == grid.length*grid.length-1)
-            return true;
+                return true;
             for(int i = 0; i < 8; i++){
                 int nv = val+1;
                 int nr = r+dR[i];
                 int nc = c+dC[i];
                 if(nr < grid.length && nr >=  0 && nc < grid.length && nc >=  0)
-                if(grid[nr][nc] == nv && !visited[nr][nc]){
-                    q.offer(new int[]{nv , nr, nc});
-                    visited[nr][nc] = true;
-                    break;
-                }
+                    if(grid[nr][nc] == nv && !visited[nr][nc]){
+                        q.offer(new int[]{nv , nr, nc});
+                        visited[nr][nc] = true;
+                        break;
+                    }
             }
         }
         return false;
