@@ -26,23 +26,26 @@ class Solution {
             mind[i][j] = d[l.get(j)[0]][l.get(j)[1]];
         }
     }
-    int solve(int[][] mind , int i , int mask , int n , boolean alice){
+    int solve(int[][] mind , int i , int mask , int n , boolean alice , int[][] dp){
         if(mask == 0)
-        return 0;
+            return 0;
+        if(dp[i][mask] != -1)
+            return dp[i][mask];
         int ans = 0;
         if(alice)
-        ans = -1;
+            ans = -1;
         else
-        ans = Integer.MAX_VALUE;
+            ans = Integer.MAX_VALUE;
         for(int j = 1; j < n; j++){
             if((mask&(1<<(j-1))) != 0){
                 if(alice)
-                ans = Math.max(ans , mind[i][j]+solve(mind , j , mask^(1<<(j-1)) , n , !alice));
+                    ans = Math.max(ans , mind[i][j]+solve(mind , j , mask^(1<<(j-1)) , n , !alice , dp));
                 else
-                ans = Math.min(ans , mind[i][j]+solve(mind , j , mask^(1<<(j-1)) , n , !alice));
+                    ans = Math.min(ans , mind[i][j]+solve(mind , j , mask^(1<<(j-1)) , n , !alice , dp));
             }
         }
-        return ans;
+        dp[i][mask] = ans;
+        return dp[i][mask];
     }
     public int maxMoves(int kx, int ky, int[][] positions) {
         List<int[]> l = new ArrayList<>();
@@ -54,6 +57,10 @@ class Solution {
         for(int i = 0; i < l.size(); i++){
             BFS(l.get(i)[0] , l.get(i)[1] , i , mind , l);
         }
-        return solve(mind , 0 , (1<<positions.length)-1 , l.size() , true);
+        int[][] dp = new int[51][(1<<positions.length)];
+        for(int i = 0; i < dp.length; i++){
+            Arrays.fill(dp[i] , -1);
+        }
+        return solve(mind , 0 , (1<<positions.length)-1 , l.size() , true , dp);
     }
 }
