@@ -841,6 +841,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0583-delete-operation-for-two-strings) |
+| [0629-k-inverse-pairs-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0629-k-inverse-pairs-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0673-number-of-longest-increasing-subsequence) |
