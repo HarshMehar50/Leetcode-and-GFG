@@ -36,11 +36,11 @@ class Solution {
                         visited[adj.get(n).get(i)] = true;
                 }
             }
-            adj.get(n).clear();
-            /*if(index != adj.get(n).get(adj.get(n).size()-1) && !visited[adj.get(n).get(adj.get(n).size()-1)]){
+           /* if(index != adj.get(n).get(adj.get(n).size()-1) && !visited[adj.get(n).get(adj.get(n).size()-1)]){
                 q.offer(new int[]{adj.get(n).get(adj.get(n).size()-1) , arr[adj.get(n).get(adj.get(n).size()-1)] , c+1});
                 visited[adj.get(n).get(adj.get(n).size()-1)] = true;
             }*/
+            adj.get(n).clear();
         }
         return -1;
     }
