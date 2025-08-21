@@ -487,6 +487,7 @@
 | [0213-house-robber-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0239-sliding-window-maximum) |
@@ -813,6 +814,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -1689,6 +1691,7 @@
 | [0174-dungeon-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
