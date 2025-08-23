@@ -759,6 +759,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3643-zero-array-transformation-ii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3654-minimum-array-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3654-minimum-array-sum) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
@@ -1004,6 +1005,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3643-zero-array-transformation-ii) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3881-minimize-maximum-component-cost](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3881-minimize-maximum-component-cost) |
@@ -1993,6 +1995,7 @@
 | [2730-maximum-or](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2730-maximum-or) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3639-zero-array-transformation-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3643-zero-array-transformation-ii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3850-equal-sum-grid-partition-ii) |
