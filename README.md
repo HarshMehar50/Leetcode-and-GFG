@@ -228,6 +228,7 @@
 | [1275-validate-binary-tree-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1275-validate-binary-tree-nodes) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1300-critical-connections-in-a-network](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1300-critical-connections-in-a-network) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1396-count-servers-that-communicate) |
@@ -340,6 +341,7 @@
 | [1254-deepest-leaves-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1254-deepest-leaves-sum) |
 | [1275-validate-binary-tree-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1275-validate-binary-tree-nodes) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1380-number-of-closed-islands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -1227,6 +1229,7 @@
 | [1229-shortest-path-with-alternating-colors](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1275-validate-binary-tree-nodes) |
 | [1300-critical-connections-in-a-network](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1300-critical-connections-in-a-network) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1325-path-with-maximum-probability](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -1336,6 +1339,7 @@
 | [0310-minimum-height-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0820-find-eventual-safe-states) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1558-course-schedule-iv) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
