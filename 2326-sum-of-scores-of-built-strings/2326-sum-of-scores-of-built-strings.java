@@ -7,10 +7,10 @@ class Solution {
     class Trie {
         TrieNode root = new TrieNode();
 
-        public void insert(String word) {
+        public void insert(String word , int s , int e) {
             TrieNode node = root;
-            for (char ch : word.toCharArray()) {
-                int idx = ch - 'a';
+            for (int i = s; i <= e; i++) {
+                int idx = word.charAt(i) - 'a';
                 if (node.children[idx] == null) {
                     node.children[idx] = new TrieNode();
                 }
