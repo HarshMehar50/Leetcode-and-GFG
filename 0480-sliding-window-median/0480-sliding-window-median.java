@@ -63,15 +63,15 @@ class Solution {
         TreeSet<int[]> ts2 = new TreeSet<>((x , y)->(x[0] != y[0])?Integer.compare(x[0] , y[0]):Integer.compare(x[1] , y[1]));
         for(int i = 0; i < nums.length; i++){
             if(ts1.isEmpty() || nums[i] <= ts1.first()[0])
-            ts1.add(new int[]{nums[i] , i});
+                ts1.add(new int[]{nums[i] , i});
             else
-            ts2.add(new int[]{nums[i] , i});
+                ts2.add(new int[]{nums[i] , i});
             if(i >= k){
                 int[] r = new int[]{nums[i-k] , i-k};
                 if(ts1.contains(r))
-                ts1.remove(r);
+                    ts1.remove(r);
                 else
-                ts2.remove(r);
+                    ts2.remove(r);
             }
             while(ts1.size() > ts2.size()+1){
                 ts2.add(ts1.pollFirst());
@@ -80,13 +80,13 @@ class Solution {
                 ts1.add(ts2.pollFirst());
             }
             if(i >= k-1){
-            if(k%2 == 1)
-            ans.add((double)ts1.first()[0]);
-            else
-            ans.add((double)(ts1.first()[0]+ts2.first()[0])/2);
+                if(k%2 == 1)
+                    ans.add((double)ts1.first()[0]);
+                else
+                    ans.add((double)((double)ts1.first()[0]+(double)ts2.first()[0])/2);
             }
         }
-        double[] fans = new double[ans.size()]; 
+        double[] fans = new double[ans.size()];
         for(int i = 0; i < ans.size(); i++){
             fans[i] = ans.get(i);
         }
