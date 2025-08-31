@@ -1,6 +1,6 @@
 class Solution {
     public int maxSubarrayLength(int[] nums, int k) {
-        HashMap<Integer , Integer> f = new HashMap<>();
+        /*HashMap<Integer , Integer> f = new HashMap<>();
         int l = 0;
         int max = 0;
         int ans = 0;
@@ -21,6 +21,19 @@ class Solution {
                 l++;
             }
             if(max <= k)
+            ans = Math.max(ans , r-l+1);
+        }
+        return ans;*/
+        HashMap<Integer , Integer> f = new HashMap<>();
+        int l = 0;
+        int ans = 0;
+        for(int r = 0; r < nums.length; r++){
+            f.put(nums[r] , f.getOrDefault(nums[r] , 0)+1);
+            while(l <= r && f.get(nums[r]) > k){
+                f.put(nums[l] , f.get(nums[l])-1);
+                l++;
+            }
+            if(f.get(nums[r]) <= k)
             ans = Math.max(ans , r-l+1);
         }
         return ans;
