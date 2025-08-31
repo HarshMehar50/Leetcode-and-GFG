@@ -83,6 +83,7 @@
 | [2696-the-number-of-beautiful-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2832-find-the-longest-equal-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2832-find-the-longest-equal-subarray) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -734,6 +735,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2827-greatest-common-divisor-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2827-greatest-common-divisor-traversal) |
+| [2832-find-the-longest-equal-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2832-find-the-longest-equal-subarray) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2873-prime-pairs-with-target-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2873-prime-pairs-with-target-sum) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -1019,6 +1021,7 @@
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2690-house-robber-iv) |
+| [2832-find-the-longest-equal-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2832-find-the-longest-equal-subarray) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
@@ -1884,6 +1887,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2832-find-the-longest-equal-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2832-find-the-longest-equal-subarray) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
