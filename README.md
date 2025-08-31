@@ -85,6 +85,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2832-find-the-longest-equal-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2832-find-the-longest-equal-subarray) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [2954-maximum-sum-of-almost-unique-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -739,6 +740,7 @@
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2873-prime-pairs-with-target-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2873-prime-pairs-with-target-sum) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [2954-maximum-sum-of-almost-unique-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -1888,6 +1890,7 @@
 | [2478-longest-nice-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2832-find-the-longest-equal-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2832-find-the-longest-equal-subarray) |
+| [2954-maximum-sum-of-almost-unique-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
