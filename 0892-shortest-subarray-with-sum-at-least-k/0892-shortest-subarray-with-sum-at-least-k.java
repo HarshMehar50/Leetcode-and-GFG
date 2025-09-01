@@ -32,8 +32,8 @@ class Solution {
             dq.offerLast(i);
         }
         if(ans != nums.length+1)
-        return ans;
+            return ans;
         else
-        return -1;
+            return -1;
     }
 }
