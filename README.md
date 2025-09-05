@@ -1696,6 +1696,7 @@
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2730-maximum-or](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2730-maximum-or) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3192-maximum-xor-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3192-maximum-xor-product) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -2166,6 +2167,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2531-create-components-with-same-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2531-create-components-with-same-value) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2873-prime-pairs-with-target-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2873-prime-pairs-with-target-sum) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3849-equal-sum-grid-partition-i) |
@@ -2219,6 +2221,7 @@
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Geometry
 |  |
 | ------- |
