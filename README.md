@@ -502,6 +502,7 @@
 | [0238-product-of-array-except-self](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0300-longest-increasing-subsequence) |
@@ -1382,6 +1383,7 @@
 | [0169-majority-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0354-russian-doll-envelopes) |
@@ -2221,6 +2223,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0948-sort-an-array) |
 ## Data Stream
 |  |
