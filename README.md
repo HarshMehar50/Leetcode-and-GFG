@@ -19,6 +19,7 @@
 | [0169-majority-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0229-majority-element-ii) |
+| [0336-palindrome-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0433-minimum-genetic-mutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0433-minimum-genetic-mutation) |
@@ -512,6 +513,7 @@
 | [0322-coin-change](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0334-increasing-triplet-subsequence) |
+| [0336-palindrome-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0368-largest-divisible-subset) |
@@ -1456,6 +1458,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0214-shortest-palindrome) |
+| [0336-palindrome-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0336-palindrome-pairs) |
 | [0392-is-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0433-minimum-genetic-mutation) |
@@ -2115,6 +2118,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0336-palindrome-pairs) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0676-implement-magic-dictionary) |
