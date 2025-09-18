@@ -94,6 +94,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3678-design-task-manager](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3678-design-task-manager) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3809-properties-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3809-properties-graph) |
@@ -1853,6 +1854,7 @@
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3678-design-task-manager](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3863-power-grid-maintenance) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Shortest Path
@@ -1982,6 +1984,7 @@
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1582-design-browser-history](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1582-design-browser-history) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [3678-design-task-manager](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3678-design-task-manager) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -2288,6 +2291,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2868-continuous-subarrays) |
+| [3678-design-task-manager](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3863-power-grid-maintenance) |
 ## Binary Search Tree
 |  |
