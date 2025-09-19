@@ -72,6 +72,7 @@
 | [2118-maximum-earnings-from-taxi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2118-maximum-earnings-from-taxi) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2429-design-a-food-rating-system](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2429-design-a-food-rating-system) |
 | [2444-longest-ideal-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2444-longest-ideal-subsequence) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2448-count-number-of-bad-pairs) |
@@ -708,6 +709,7 @@
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2429-design-a-food-rating-system](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2448-count-number-of-bad-pairs) |
@@ -1512,6 +1514,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2429-design-a-food-rating-system](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2429-design-a-food-rating-system) |
 | [2444-longest-ideal-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2444-longest-ideal-subsequence) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2510-maximum-deletions-on-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2510-maximum-deletions-on-a-string) |
@@ -1843,6 +1846,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2429-design-a-food-rating-system](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2429-design-a-food-rating-system) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
@@ -1987,6 +1991,7 @@
 | [1294-range-frequency-queries](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1294-range-frequency-queries) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1582-design-browser-history](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1582-design-browser-history) |
+| [2429-design-a-food-rating-system](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2429-design-a-food-rating-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3678-design-task-manager](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3797-design-spreadsheet) |
@@ -2295,6 +2300,7 @@
 | [1017-odd-even-jump](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1017-odd-even-jump) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2429-design-a-food-rating-system) |
 | [2868-continuous-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2868-continuous-subarrays) |
 | [3678-design-task-manager](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3863-power-grid-maintenance) |
