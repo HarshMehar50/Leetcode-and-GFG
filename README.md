@@ -97,6 +97,7 @@
 | [3678-design-task-manager](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3678-design-task-manager) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3809-properties-graph) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -796,6 +797,7 @@
 | [3738-make-array-non-decreasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3738-make-array-non-decreasing) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+| [3797-design-spreadsheet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3809-properties-graph) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
@@ -1535,6 +1537,7 @@
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
+| [3797-design-spreadsheet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3797-design-spreadsheet) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Recursion
@@ -1798,6 +1801,7 @@
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3797-design-spreadsheet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3797-design-spreadsheet) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3850-equal-sum-grid-partition-ii) |
@@ -1985,6 +1989,7 @@
 | [1582-design-browser-history](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1582-design-browser-history) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3678-design-task-manager](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3797-design-spreadsheet) |
 ## Strongly Connected Component
 |  |
 | ------- |
