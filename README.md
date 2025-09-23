@@ -1176,6 +1176,7 @@
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3567-convert-date-to-binary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3567-convert-date-to-binary) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3815-sum-of-largest-prime-substrings) |
@@ -1319,6 +1320,7 @@
 | [3561-remove-methods-from-project](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3561-remove-methods-from-project) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3809-properties-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3809-properties-graph) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
@@ -1862,6 +1864,7 @@
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3678-design-task-manager](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3863-power-grid-maintenance) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
@@ -1888,6 +1891,7 @@
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Sliding Window
@@ -2233,6 +2237,7 @@
 | [2873-prime-pairs-with-target-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2873-prime-pairs-with-target-sum) |
 | [3373-maximum-prime-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3373-maximum-prime-difference) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3907-count-prime-gap-balanced-subarrays) |
