@@ -764,6 +764,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
@@ -1313,6 +1314,7 @@
 | [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3189-find-champion-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3189-find-champion-ii) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
@@ -1525,6 +1527,7 @@
 | [2550-words-within-two-edits-of-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
@@ -1888,6 +1891,7 @@
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2803-modify-graph-edge-weights) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
