@@ -19,6 +19,7 @@
 | [0169-majority-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -853,6 +854,7 @@
 | [0198-house-robber](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0221-maximal-square) |
+| [0264-ugly-number-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -1114,6 +1116,7 @@
 | [0096-unique-binary-search-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0342-power-of-four) |
@@ -1822,6 +1825,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
