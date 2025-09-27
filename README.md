@@ -571,6 +571,7 @@
 | [0794-swim-in-rising-water](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0797-rabbits-in-forest) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
+| [0830-largest-triangle-area](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0891-score-after-flipping-matrix) |
@@ -1136,6 +1137,7 @@
 | [0633-sum-of-square-numbers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0797-rabbits-in-forest) |
 | [0804-rotated-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0804-rotated-digits) |
+| [0830-largest-triangle-area](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0909-stone-game) |
 | [0910-nth-magical-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0910-nth-magical-number) |
 | [0989-largest-component-size-by-common-factor](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0989-largest-component-size-by-common-factor) |
@@ -2287,6 +2289,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1014-k-closest-points-to-origin) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3868-find-maximum-area-of-a-triangle) |
