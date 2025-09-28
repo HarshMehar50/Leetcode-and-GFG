@@ -43,6 +43,7 @@
 | [0746-prefix-and-suffix-search](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0746-prefix-and-suffix-search) |
 | [0753-open-the-lock](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0753-open-the-lock) |
 | [0797-rabbits-in-forest](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0797-rabbits-in-forest) |
+| [0869-similar-string-groups](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0869-similar-string-groups) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0940-fruit-into-baskets) |
@@ -227,6 +228,7 @@
 | [0820-find-eventual-safe-states](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
 | [0863-sum-of-distances-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0863-sum-of-distances-in-tree) |
+| [0869-similar-string-groups](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0960-minimize-malware-spread](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0960-minimize-malware-spread) |
@@ -337,6 +339,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
+| [0869-similar-string-groups](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0871-keys-and-rooms) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -576,6 +579,7 @@
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0830-largest-triangle-area](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
+| [0869-similar-string-groups](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0869-similar-string-groups) |
 | [0890-lemonade-change](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0891-score-after-flipping-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1215,6 +1219,7 @@
 | [0794-swim-in-rising-water](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
+| [0869-similar-string-groups](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0869-similar-string-groups) |
 | [0960-minimize-malware-spread](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0964-minimize-malware-spread-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -1514,6 +1519,7 @@
 | [0721-accounts-merge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
 | [0746-prefix-and-suffix-search](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0746-prefix-and-suffix-search) |
 | [0753-open-the-lock](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0753-open-the-lock) |
+| [0869-similar-string-groups](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0869-similar-string-groups) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1122-longest-duplicate-substring](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1122-longest-duplicate-substring) |
