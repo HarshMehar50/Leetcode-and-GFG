@@ -712,6 +712,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2294-minimum-time-to-complete-trips) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2342-minimum-average-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2342-minimum-average-difference) |
 | [2344-escape-the-spreading-fire](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2344-escape-the-spreading-fire) |
 | [2350-find-closest-number-to-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2350-find-closest-number-to-zero) |
@@ -1176,6 +1177,7 @@
 | [2050-count-good-numbers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2050-count-good-numbers) |
 | [2125-gcd-sort-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2125-gcd-sort-of-an-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2448-count-number-of-bad-pairs) |
@@ -2063,6 +2065,7 @@
 | [0735-asteroid-collision](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0735-asteroid-collision) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2551-apply-operations-to-an-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2662-check-knight-tour-configuration](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2662-check-knight-tour-configuration) |
@@ -2075,6 +2078,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Prefix Sum
