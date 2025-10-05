@@ -627,6 +627,7 @@
 | [1073-number-of-enclaves](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1087-longest-arithmetic-subsequence) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1097-stream-of-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1097-stream-of-characters) |
 | [1105-uncrossed-lines](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1127-last-stone-weight) |
@@ -1563,6 +1564,7 @@
 | [0869-similar-string-groups](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0869-similar-string-groups) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
+| [1097-stream-of-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1097-stream-of-characters) |
 | [1122-longest-duplicate-substring](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1122-longest-duplicate-substring) |
 | [1170-shortest-common-supersequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1170-shortest-common-supersequence) |
 | [1244-distinct-echo-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1244-distinct-echo-substrings) |
@@ -2068,6 +2070,7 @@
 | [0677-map-sum-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0677-map-sum-pairs) |
 | [0746-prefix-and-suffix-search](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0746-prefix-and-suffix-search) |
 | [0937-online-stock-span](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0937-online-stock-span) |
+| [1097-stream-of-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1097-stream-of-characters) |
 | [1294-range-frequency-queries](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1294-range-frequency-queries) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1582-design-browser-history](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1582-design-browser-history) |
@@ -2240,6 +2243,7 @@
 | [0677-map-sum-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0720-longest-word-in-dictionary) |
 | [0746-prefix-and-suffix-search](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0746-prefix-and-suffix-search) |
+| [1097-stream-of-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1097-stream-of-characters) |
 | [1244-distinct-echo-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1244-distinct-echo-substrings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -2346,6 +2350,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0937-online-stock-span) |
+| [1097-stream-of-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1097-stream-of-characters) |
 | [1582-design-browser-history](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1582-design-browser-history) |
 ## Brainteaser
 |  |
