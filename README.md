@@ -285,6 +285,7 @@
 | [2662-check-knight-tour-configuration](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2662-check-knight-tour-configuration) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2793-count-the-number-of-complete-components) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3386-find-edges-in-shortest-paths) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3561-remove-methods-from-project](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3561-remove-methods-from-project) |
@@ -407,6 +408,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3386-find-edges-in-shortest-paths) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -1007,6 +1009,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1357,6 +1360,7 @@
 | [2793-count-the-number-of-complete-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2793-count-the-number-of-complete-components) |
 | [2803-modify-graph-edge-weights](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2803-modify-graph-edge-weights) |
 | [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3189-find-champion-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3235-minimum-cost-to-convert-string-i) |
