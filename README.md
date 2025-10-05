@@ -546,6 +546,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -904,6 +905,7 @@
 | [0396-rotate-function](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0473-matchsticks-to-square) |
@@ -1043,6 +1045,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0713-subarray-product-less-than-k) |
@@ -1107,6 +1110,7 @@
 | [0376-wiggle-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0678-valid-parenthesis-string) |
@@ -2117,6 +2121,7 @@
 | [0238-product-of-array-except-self](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
