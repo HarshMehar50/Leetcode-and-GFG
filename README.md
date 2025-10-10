@@ -162,6 +162,7 @@
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1731-even-odd-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1731-even-odd-tree) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
+| [1875-tree-of-coprimes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1875-tree-of-coprimes) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -270,6 +271,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
+| [1875-tree-of-coprimes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1875-tree-of-coprimes) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2201-valid-arrangement-of-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2201-valid-arrangement-of-pairs) |
@@ -700,6 +702,7 @@
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1875-tree-of-coprimes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1875-tree-of-coprimes) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1940-maximum-xor-for-each-query](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1940-maximum-xor-for-each-query) |
@@ -1218,6 +1221,7 @@
 | [1685-stone-game-v](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1685-stone-game-v) |
 | [1788-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1788-stone-game-vi) |
 | [1808-stone-game-vii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1808-stone-game-vii) |
+| [1875-tree-of-coprimes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1875-tree-of-coprimes) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1947-number-of-different-subsequences-gcds) |
@@ -2340,6 +2344,7 @@
 | [0989-largest-component-size-by-common-factor](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0989-largest-component-size-by-common-factor) |
 | [1223-graph-connectivity-with-threshold](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1223-graph-connectivity-with-threshold) |
 | [1585-the-kth-factor-of-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1585-the-kth-factor-of-n) |
+| [1875-tree-of-coprimes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1875-tree-of-coprimes) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1947-number-of-different-subsequences-gcds) |
 | [2125-gcd-sort-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2125-gcd-sort-of-an-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2307-replace-non-coprime-numbers-in-array) |
