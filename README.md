@@ -687,6 +687,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1656-count-good-triplets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1656-count-good-triplets) |
+| [1659-get-the-maximum-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1659-get-the-maximum-score) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1680-count-all-possible-routes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1680-count-all-possible-routes) |
@@ -1001,6 +1002,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1659-get-the-maximum-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1659-get-the-maximum-score) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1680-count-all-possible-routes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1680-count-all-possible-routes) |
 | [1685-stone-game-v](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1685-stone-game-v) |
@@ -1155,6 +1157,7 @@
 | [1388-greatest-sum-divisible-by-three](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1489-pizza-with-3n-slices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1503-reducing-dishes) |
+| [1659-get-the-maximum-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1659-get-the-maximum-score) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1788-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1788-stone-game-vi) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1698,6 +1701,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0908-middle-of-the-linked-list) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1659-get-the-maximum-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1659-get-the-maximum-score) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
