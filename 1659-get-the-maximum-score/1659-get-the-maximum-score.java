@@ -1,0 +1,48 @@
+class Solution {
+    final int mod = 1000000007;
+    public long solve(int[] nums1 , int[] nums2 , HashMap<Integer , Integer> map1 , HashMap<Integer , Integer> map2 , int i , int g , long[][] dp){
+        if(g == 1 && i >= nums1.length)
+        return 0;
+        if(g == 0 && i >= nums2.length)
+        return 0;
+        if(dp[i][g] != -1)
+        return dp[i][g];
+        long same = 0;
+        long change = 0;
+        long ans = 0;
+        if(g == 1){
+            same = nums1[i]+solve(nums1 , nums2 , map1 , map2 , i+1 , 1 , dp);
+            if(map2.containsKey(nums1[i]))
+            change = nums1[i]+solve(nums1 , nums2 , map1 , map2 , map2.get(nums1[i])+1 , 0 , dp);
+            ans = Math.max(same , change);
+            dp[i][g] = ans;
+            return dp[i][g];
+        }else{
+            same = nums2[i]+solve(nums1 , nums2 , map1 , map2 , i+1 , 0 , dp);
+            if(map1.containsKey(nums2[i]))
+            change = nums2[i]+solve(nums1 , nums2 , map1 , map2 , map1.get(nums2[i])+1 , 1 , dp);
+            ans = Math.max(same , change);
+            dp[i][g] = ans;
+            return dp[i][g];
+        }
+    }
+    public int maxSum(int[] nums1, int[] nums2) {
+        HashMap<Integer , Integer> map1 = new HashMap<>();
+        HashMap<Integer , Integer> map2 = new HashMap<>();
+        for(int i = 0; i < nums1.length; i++){
+            map1.put(nums1[i] , i);
+        }
+        for(int i = 0; i < nums2.length; i++){
+            map2.put(nums2[i] , i);
+        }
+        long[][] dp1 = new long[Math.max(nums1.length , nums2.length)][2];
+        long[][] dp2 = new long[Math.max(nums1.length , nums2.length)][2];
+        for(long[] x : dp1){
+            Arrays.fill(x , -1);
+        }
+        for(long[] x : dp2){
+            Arrays.fill(x , -1);
+        }
+        return (int)Math.max(solve(nums1 , nums2 , map1 , map2 , 0 , 1 , dp1)%mod , solve(nums1 , nums2 , map1 , map2 , 0 , 0 , dp2)%mod);
+    }
+}
