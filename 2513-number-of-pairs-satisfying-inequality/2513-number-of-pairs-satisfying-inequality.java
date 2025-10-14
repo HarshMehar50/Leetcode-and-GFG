@@ -34,7 +34,7 @@ class Solution {
             a[i] = nums1[i]-nums2[i];
             max = Math.max(max , a[i]+20000);
         }
-        SegmentTree st = new SegmentTree(max);
+        SegmentTree st = new SegmentTree(max+1);
         st.update(1 , 0 , max , a[a.length-1]+20000 , 1);
         long ans = 0;
         for(int i = a.length-2; i >= 0; i--){
