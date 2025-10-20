@@ -730,6 +730,7 @@
 | [2117-find-original-array-from-doubled-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2117-find-original-array-from-doubled-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2118-maximum-earnings-from-taxi) |
 | [2125-gcd-sort-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2125-gcd-sort-of-an-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2164-two-best-non-overlapping-events](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1629,6 +1630,7 @@
 | [1871-palindrome-partitioning-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1871-palindrome-partitioning-iv) |
 | [2044-number-of-wonderful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2044-number-of-wonderful-substrings) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2326-sum-of-scores-of-built-strings) |
@@ -2172,6 +2174,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0735-asteroid-collision) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2551-apply-operations-to-an-array) |
