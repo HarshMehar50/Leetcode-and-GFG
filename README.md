@@ -711,6 +711,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1875-tree-of-coprimes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1875-tree-of-coprimes) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [1907-count-pairs-with-xor-in-a-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1907-count-pairs-with-xor-in-a-range) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1940-maximum-xor-for-each-query](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1947-number-of-different-subsequences-gcds) |
@@ -1844,6 +1845,7 @@
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1907-count-pairs-with-xor-in-a-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1907-count-pairs-with-xor-in-a-range) |
 | [1940-maximum-xor-for-each-query](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [2044-number-of-wonderful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2044-number-of-wonderful-substrings) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -2319,6 +2321,7 @@
 | [1244-distinct-echo-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1244-distinct-echo-substrings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1907-count-pairs-with-xor-in-a-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1907-count-pairs-with-xor-in-a-range) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2755-extra-characters-in-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2755-extra-characters-in-a-string) |
