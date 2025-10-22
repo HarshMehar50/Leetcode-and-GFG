@@ -184,6 +184,7 @@
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3829-shortest-path-in-a-weighted-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3829-shortest-path-in-a-weighted-tree) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3900-find-weighted-median-node-in-tree) |
 ## Depth-First Search
@@ -307,6 +308,7 @@
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3809-properties-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3809-properties-graph) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [3829-shortest-path-in-a-weighted-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3829-shortest-path-in-a-weighted-tree) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3863-power-grid-maintenance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3863-power-grid-maintenance) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3900-find-weighted-median-node-in-tree) |
@@ -867,6 +869,7 @@
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3827-implement-router](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3827-implement-router) |
+| [3829-shortest-path-in-a-weighted-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3829-shortest-path-in-a-weighted-tree) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
@@ -2159,6 +2162,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3829-shortest-path-in-a-weighted-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3829-shortest-path-in-a-weighted-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -2171,6 +2175,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3829-shortest-path-in-a-weighted-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3829-shortest-path-in-a-weighted-tree) |
 ## Simulation
 |  |
 | ------- |
