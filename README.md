@@ -243,6 +243,7 @@
 | [0863-sum-of-distances-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0863-sum-of-distances-in-tree) |
 | [0869-similar-string-groups](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0881-loud-and-rich) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0960-minimize-malware-spread) |
@@ -611,6 +612,7 @@
 | [0830-largest-triangle-area](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0869-similar-string-groups) |
+| [0881-loud-and-rich](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0891-score-after-flipping-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1369,6 +1371,7 @@
 | [0863-sum-of-distances-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0863-sum-of-distances-in-tree) |
 | [0871-keys-and-rooms](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0871-keys-and-rooms) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0881-loud-and-rich](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0881-loud-and-rich) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [0922-possible-bipartition](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0960-minimize-malware-spread) |
@@ -1490,6 +1493,7 @@
 | [0310-minimum-height-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0881-loud-and-rich) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1558-course-schedule-iv) |
