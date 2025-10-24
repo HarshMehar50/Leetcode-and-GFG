@@ -244,6 +244,7 @@
 | [0869-similar-string-groups](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0922-possible-bipartition](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0964-minimize-malware-spread-ii) |
 | [0971-shortest-bridge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0971-shortest-bridge) |
@@ -365,6 +366,7 @@
 | [0877-shortest-path-visiting-all-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0895-shortest-path-to-get-all-keys) |
+| [0922-possible-bipartition](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0964-minimize-malware-spread-ii) |
@@ -1304,6 +1306,7 @@
 | [0801-is-graph-bipartite](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0869-similar-string-groups) |
+| [0922-possible-bipartition](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0964-minimize-malware-spread-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -1367,6 +1370,7 @@
 | [0871-keys-and-rooms](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0871-keys-and-rooms) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0918-reachable-nodes-in-subdivided-graph) |
+| [0922-possible-bipartition](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0964-minimize-malware-spread-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
