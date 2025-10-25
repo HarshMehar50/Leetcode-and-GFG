@@ -23,6 +23,7 @@
 | [0264-ugly-number-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0347-top-k-frequent-elements) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0433-minimum-genetic-mutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0451-sort-characters-by-frequency) |
@@ -1090,6 +1091,7 @@
 | [0287-find-the-duplicate-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0410-split-array-largest-sum) |
@@ -1298,6 +1300,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0200-number-of-islands) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0547-number-of-provinces](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0685-redundant-connection-ii) |
@@ -2145,6 +2148,7 @@
 | [0303-range-sum-query-immutable](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0307-range-sum-query-mutable) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0676-implement-magic-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0677-map-sum-pairs) |
 | [0746-prefix-and-suffix-search](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0746-prefix-and-suffix-search) |
@@ -2449,6 +2453,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0295-find-median-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0937-online-stock-span](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0937-online-stock-span) |
 | [1097-stream-of-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1097-stream-of-characters) |
 | [1582-design-browser-history](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1582-design-browser-history) |
@@ -2495,6 +2500,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1017-odd-even-jump](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1017-odd-even-jump) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1772-create-sorted-array-through-instructions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1772-create-sorted-array-through-instructions) |
