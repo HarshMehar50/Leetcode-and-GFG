@@ -506,6 +506,7 @@
 | [0051-n-queens](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
@@ -1522,6 +1523,7 @@
 | ------- |
 | [0015-3sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0164-maximum-gap) |
