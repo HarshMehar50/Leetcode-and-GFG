@@ -27,6 +27,7 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0433-minimum-genetic-mutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0480-sliding-window-median) |
 | [0523-continuous-subarray-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0523-continuous-subarray-sum) |
@@ -1624,6 +1625,7 @@
 | [0392-is-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0474-ones-and-zeroes) |
@@ -2074,6 +2076,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0413-arithmetic-slices) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
