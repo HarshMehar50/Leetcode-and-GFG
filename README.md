@@ -721,6 +721,7 @@
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [1772-create-sorted-array-through-instructions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1772-create-sorted-array-through-instructions) |
 | [1788-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1788-stone-game-vi) |
+| [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1808-stone-game-vii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1808-stone-game-vii) |
 | [1814-jump-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1814-jump-game-vi) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -1197,6 +1198,7 @@
 | [1659-get-the-maximum-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1659-get-the-maximum-score) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1788-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1788-stone-game-vi) |
+| [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1952-minimum-sideway-jumps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1952-minimum-sideway-jumps) |
 | [2117-find-original-array-from-doubled-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2117-find-original-array-from-doubled-array) |
@@ -2106,6 +2108,7 @@
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1622-max-value-of-equation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1622-max-value-of-equation) |
+| [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2478-longest-nice-subarray) |
@@ -2266,6 +2269,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1694-make-sum-divisible-by-p) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1940-maximum-xor-for-each-query](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [1983-maximum-population-year](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1983-maximum-population-year) |
 | [1985-maximum-subarray-min-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1985-maximum-subarray-min-product) |
