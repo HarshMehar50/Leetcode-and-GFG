@@ -1305,6 +1305,7 @@
 | [3567-convert-date-to-binary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3567-convert-date-to-binary) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3815-sum-of-largest-prime-substrings) |
@@ -1912,6 +1913,7 @@
 | [3394-minimum-array-end](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3394-minimum-array-end) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 ## Bitmask
 |  |
