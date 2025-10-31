@@ -106,6 +106,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3678-design-task-manager](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3678-design-task-manager) |
@@ -866,6 +867,7 @@
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -1303,6 +1305,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3462-vowels-game-in-a-string) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3567-convert-date-to-binary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3567-convert-date-to-binary) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3676-smallest-number-with-all-set-bits) |
