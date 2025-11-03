@@ -1,5 +1,5 @@
 class Solution {
-    int solve(String colors , int[] neededTime , int c , int p , int[][] dp){
+    /*int solve(String colors , int[] neededTime , int c , int p , int[][] dp){
         if(c >= colors.length())
         return 0;
         if(dp[c][p+1] != -1)
@@ -11,7 +11,7 @@ class Solution {
         int ans = Math.min(include , exclude);
         dp[c][p+1] = ans;
         return dp[c][p+1];
-    }
+    }*/
     public int minCost(String colors, int[] neededTime) {
         /*int[][] dp = new int[colors.length()][colors.length()+1];
         for(int[] a : dp){
