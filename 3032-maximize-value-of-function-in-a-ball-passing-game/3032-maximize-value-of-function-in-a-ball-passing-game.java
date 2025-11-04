@@ -23,7 +23,7 @@ class Solution {
             long sum = i;
             int node = i;
             for(int j = 0; j < ancestors[0].length; j++){
-                if(((k>>j)&1) == 1 && node != -1){
+                if((k&(1L<<j)) > 0 && node != -1){
                     sum += s[node][j];
                     node = ancestors[node][j];
                 }
