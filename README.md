@@ -852,6 +852,7 @@
 | [3314-most-frequent-prime](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3314-most-frequent-prime) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3350-distribute-elements-into-two-arrays-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3373-maximum-prime-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3373-maximum-prime-difference) |
 | [3376-longest-common-suffix-queries](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3376-longest-common-suffix-queries) |
@@ -2224,6 +2225,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3350-distribute-elements-into-two-arrays-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 | [3829-shortest-path-in-a-weighted-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3829-shortest-path-in-a-weighted-tree) |
 ## Segment Tree
 |  |
@@ -2238,6 +2240,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3350-distribute-elements-into-two-arrays-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 | [3829-shortest-path-in-a-weighted-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3829-shortest-path-in-a-weighted-tree) |
 ## Simulation
 |  |
@@ -2252,6 +2255,7 @@
 | [2662-check-knight-tour-configuration](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2662-check-knight-tour-configuration) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2728-sum-in-a-matrix) |
+| [3350-distribute-elements-into-two-arrays-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3447-clear-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3447-clear-digits) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
