@@ -873,6 +873,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3518-maximum-multiplication-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3518-maximum-multiplication-score) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
@@ -1320,6 +1321,7 @@
 | [3373-maximum-prime-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3373-maximum-prime-difference) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3462-vowels-game-in-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3567-convert-date-to-binary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
