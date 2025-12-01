@@ -58,6 +58,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0989-largest-component-size-by-common-factor) |
+| [0997-find-the-town-judge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0997-find-the-town-judge) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -650,6 +651,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0971-shortest-bridge) |
 | [0989-largest-component-size-by-common-factor](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0989-largest-component-size-by-common-factor) |
+| [0997-find-the-town-judge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0997-find-the-town-judge) |
 | [1014-k-closest-points-to-origin](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1017-odd-even-jump](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1017-odd-even-jump) |
@@ -1424,6 +1426,7 @@
 | [0960-minimize-malware-spread](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0964-minimize-malware-spread-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0997-find-the-town-judge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0997-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1275-validate-binary-tree-nodes) |
 | [1300-critical-connections-in-a-network](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1300-critical-connections-in-a-network) |
