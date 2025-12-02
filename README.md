@@ -113,6 +113,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3603-check-if-dfs-strings-are-palindromes) |
+| [3623-count-number-of-trapezoids-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3623-count-number-of-trapezoids-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3678-design-task-manager](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3678-design-task-manager) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
@@ -889,6 +890,7 @@
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3623-count-number-of-trapezoids-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3639-zero-array-transformation-i) |
@@ -1330,6 +1332,7 @@
 | [3567-convert-date-to-binary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3623-count-number-of-trapezoids-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3623-count-number-of-trapezoids-i) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
@@ -2546,6 +2549,7 @@
 | [0830-largest-triangle-area](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1014-k-closest-points-to-origin) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [3623-count-number-of-trapezoids-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3623-count-number-of-trapezoids-i) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3868-find-maximum-area-of-a-triangle) |
 ## Queue
 |  |
