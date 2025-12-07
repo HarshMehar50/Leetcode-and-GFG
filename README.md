@@ -1297,6 +1297,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1522-stone-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1522-stone-game-iii) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1585-the-kth-factor-of-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1585-the-kth-factor-of-n) |
 | [1617-stone-game-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1617-stone-game-iv) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
