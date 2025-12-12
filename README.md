@@ -907,6 +907,7 @@
 | [3738-make-array-non-decreasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3738-make-array-non-decreasing) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+| [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3797-design-spreadsheet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3809-properties-graph) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -2183,6 +2184,7 @@
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Rolling Hash
@@ -2280,6 +2282,7 @@
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3350-distribute-elements-into-two-arrays-ii) |
+| [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3829-shortest-path-in-a-weighted-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3829-shortest-path-in-a-weighted-tree) |
 ## Simulation
 |  |
