@@ -854,6 +854,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3187-peaks-in-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3187-peaks-in-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -2270,6 +2271,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3187-peaks-in-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3187-peaks-in-array) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 | [3829-shortest-path-in-a-weighted-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3829-shortest-path-in-a-weighted-tree) |
 ## Segment Tree
@@ -2285,6 +2287,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3187-peaks-in-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3187-peaks-in-array) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
