@@ -1,5 +1,5 @@
 class Solution {
-    /*class DisjointSet{
+    class DisjointSet{
         int[] parent;
         int[] rank;
         int[] size;
@@ -45,8 +45,11 @@ class Solution {
                 size[up] = size[up]+size[vp];
             }
         }
-    }*/
-    class DisjointSet {
+        void reset(int x) {
+            parent[x] = x;
+        }
+    }
+    /*class DisjointSet {
         int[] parent, rank;
 
         DisjointSet(int n) {
@@ -75,7 +78,7 @@ class Solution {
         void reset(int x) {
             parent[x] = x;
         }
-    }
+    }*/
     public List<Integer> findAllPeople(int n, int[][] meetings, int firstPerson) {
         Arrays.sort(meetings , (x , y)->Integer.compare(x[2] , y[2]));
         /*TreeMap<Integer , List<int[]>> map = new TreeMap<>();
@@ -116,20 +119,20 @@ class Solution {
         List<Integer> ans = new ArrayList<>(set);
         return ans;*/
         DisjointSet ds = new DisjointSet(n);
-        ds.union(0, firstPerson);
+        ds.unionSetRank(0, firstPerson);
 
         int i = 0;
         while (i < meetings.length) {
             int time = meetings[i][2];
             List<Integer> people = new ArrayList<>();
             while (i < meetings.length && meetings[i][2] == time) {
-                ds.union(meetings[i][0], meetings[i][1]);
+                ds.unionSetRank(meetings[i][0], meetings[i][1]);
                 people.add(meetings[i][0]);
                 people.add(meetings[i][1]);
                 i++;
             }
             for (int p : people) {
-                if (ds.find(p) != ds.find(0)) {
+                if (ds.findParent(p) != ds.findParent(0)) {
                     ds.reset(p);
                 }
             }
@@ -137,7 +140,7 @@ class Solution {
 
         List<Integer> ans = new ArrayList<>();
         for (int j = 0; j < n; j++) {
-            if (ds.find(j) == ds.find(0)) {
+            if (ds.findParent(j) == ds.findParent(0)) {
                 ans.add(j);
             }
         }
