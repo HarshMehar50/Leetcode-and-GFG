@@ -648,6 +648,7 @@
 | [0911-profitable-schemes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0911-profitable-schemes) |
 | [0940-fruit-into-baskets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0943-sum-of-subarray-minimums) |
+| [0944-delete-columns-to-make-sorted](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0948-sort-an-array) |
 | [0960-minimize-malware-spread](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0960-minimize-malware-spread) |
@@ -1702,6 +1703,7 @@
 | [0784-letter-case-permutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0784-letter-case-permutation) |
 | [0808-number-of-matching-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0808-number-of-matching-subsequences) |
 | [0869-similar-string-groups](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0869-similar-string-groups) |
+| [0944-delete-columns-to-make-sorted](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0944-delete-columns-to-make-sorted) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1097-stream-of-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1097-stream-of-characters) |
