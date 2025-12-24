@@ -119,6 +119,7 @@
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3797-design-spreadsheet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3809-properties-graph) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3815-sum-of-largest-prime-substrings) |
@@ -916,6 +917,7 @@
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3797-design-spreadsheet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3809-properties-graph) |
@@ -1985,6 +1987,7 @@
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 ## Bitmask
 |  |
@@ -2384,6 +2387,7 @@
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3850-equal-sum-grid-partition-ii) |
