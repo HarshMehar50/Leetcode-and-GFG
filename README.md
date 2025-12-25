@@ -888,6 +888,7 @@
 | [3430-count-days-without-meetings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -1663,6 +1664,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3430-count-days-without-meetings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3873-subsequence-sum-after-capping-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3873-subsequence-sum-after-capping-elements) |
 | [3881-minimize-maximum-component-cost](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3881-minimize-maximum-component-cost) |
@@ -2126,6 +2128,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
