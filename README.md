@@ -680,6 +680,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1219-path-with-maximum-gold](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1219-path-with-maximum-gold) |
 | [1223-graph-connectivity-with-threshold](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1223-graph-connectivity-with-threshold) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1224-minimum-falling-path-sum-ii) |
@@ -1047,6 +1048,7 @@
 | [1105-uncrossed-lines](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1170-shortest-common-supersequence) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1240-stone-game-ii) |
