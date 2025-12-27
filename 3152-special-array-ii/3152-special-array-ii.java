@@ -42,7 +42,6 @@ class Solution {
         for(int[] a : l){
             map.put(a[0] , a[1]);
         }
-        System.out.println(map);
         for(int i = 0; i < ans.length; i++){
             int s = map.floorKey(queries[i][0]);
             int e = map.get(s);
