@@ -7,9 +7,10 @@ class Solution {
     class Trie {
         TrieNode root = new TrieNode();
 
-        public void insert(String word) {
+        public void insert(StringBuilder word) {
             TrieNode node = root;
-            for (char ch : word.toCharArray()) {
+            for (int i = 0; i < word.length(); i++) {
+                char ch = word.charAt(i);
                 int idx = ch - 'a';
                 if (node.children[idx] == null) {
                     node.children[idx] = new TrieNode();
@@ -20,9 +21,10 @@ class Solution {
             node.wordCount++;
         }
 
-        public boolean search(String word) {
+        public boolean search(StringBuilder word) {
             TrieNode node = root;
-            for (char ch : word.toCharArray()) {
+            for (int i = 0; i < word.length(); i++) {
+                char ch = word.charAt(i);
                 int idx = ch - 'a';
                 if (node.children[idx] == null) return false;
                 node = node.children[idx];
@@ -36,8 +38,8 @@ class Solution {
         List<String> ans = new ArrayList<>();
         for(int i = 0; i < s.length(); i++){
             sb.append(s.charAt(i));
-            if(!trie.search(sb.toString())){
-                trie.insert(sb.toString());
+            if(!trie.search(sb)){
+                trie.insert(sb);
                 ans.add(sb.toString());
                 sb = new StringBuilder();
             }
