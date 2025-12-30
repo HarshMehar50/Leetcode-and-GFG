@@ -892,6 +892,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3429-special-array-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -2412,6 +2413,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3639-zero-array-transformation-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3639-zero-array-transformation-i) |
