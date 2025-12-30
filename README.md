@@ -103,6 +103,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2832-find-the-longest-equal-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2832-find-the-longest-equal-subarray) |
+| [2845-count-of-interesting-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2845-count-of-interesting-subarrays) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -856,6 +857,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2827-greatest-common-divisor-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2827-greatest-common-divisor-traversal) |
 | [2832-find-the-longest-equal-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2832-find-the-longest-equal-subarray) |
+| [2845-count-of-interesting-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2845-count-of-interesting-subarrays) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2868-continuous-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2868-continuous-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2873-prime-pairs-with-target-sum) |
@@ -2413,6 +2415,7 @@
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2730-maximum-or](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2730-maximum-or) |
+| [2845-count-of-interesting-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2845-count-of-interesting-subarrays) |
 | [3152-special-array-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3152-special-array-ii) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
