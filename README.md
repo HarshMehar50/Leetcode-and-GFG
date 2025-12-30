@@ -1060,6 +1060,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1170-shortest-common-supersequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1220-count-vowels-permutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1220-count-vowels-permutation) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1240-stone-game-ii) |
