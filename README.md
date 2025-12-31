@@ -296,6 +296,7 @@
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1875-tree-of-coprimes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1875-tree-of-coprimes) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2092-find-all-people-with-secret) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2121-find-if-path-exists-in-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2121-find-if-path-exists-in-graph) |
@@ -422,6 +423,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1731-even-odd-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1731-even-odd-tree) |
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2092-find-all-people-with-secret](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2092-find-all-people-with-secret) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -765,6 +767,7 @@
 | [1952-minimum-sideway-jumps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1952-minimum-sideway-jumps) |
 | [1962-single-threaded-cpu](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1962-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1983-maximum-population-year](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1983-maximum-population-year) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1985-maximum-subarray-min-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1985-maximum-subarray-min-product) |
@@ -1196,6 +1199,7 @@
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [1772-create-sorted-array-through-instructions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1772-create-sorted-array-through-instructions) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2051-longest-common-subpath](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2051-longest-common-subpath) |
@@ -1424,6 +1428,7 @@
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2092-find-all-people-with-secret) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2121-find-if-path-exists-in-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2121-find-if-path-exists-in-graph) |
@@ -2071,6 +2076,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2344-escape-the-spreading-fire](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2344-escape-the-spreading-fire) |
