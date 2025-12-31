@@ -1433,6 +1433,7 @@
 | [2101-last-day-where-you-can-still-cross](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2121-find-if-path-exists-in-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2121-find-if-path-exists-in-graph) |
 | [2125-gcd-sort-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2125-gcd-sort-of-an-array) |
+| [2157-groups-of-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2157-groups-of-strings) |
 | [2198-process-restricted-friend-requests](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2198-process-restricted-friend-requests) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -1766,6 +1767,7 @@
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2157-groups-of-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2157-groups-of-strings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -1994,6 +1996,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [2044-number-of-wonderful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2044-number-of-wonderful-substrings) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2157-groups-of-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2157-groups-of-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2323-minimum-bit-flips-to-convert-number) |
