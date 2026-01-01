@@ -801,6 +801,7 @@
 | [2294-minimum-time-to-complete-trips](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2294-minimum-time-to-complete-trips) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2342-minimum-average-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2342-minimum-average-difference) |
 | [2344-escape-the-spreading-fire](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2344-escape-the-spreading-fire) |
 | [2350-find-closest-number-to-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2350-find-closest-number-to-zero) |
@@ -1435,6 +1436,7 @@
 | [2125-gcd-sort-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2125-gcd-sort-of-an-array) |
 | [2157-groups-of-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2157-groups-of-strings) |
 | [2198-process-restricted-friend-requests](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2198-process-restricted-friend-requests) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2505-number-of-good-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2505-number-of-good-paths) |
@@ -2483,6 +2485,7 @@
 | [1985-maximum-subarray-min-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1985-maximum-subarray-min-product) |
 | [2227-sum-of-subarray-ranges](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3447-clear-digits) |
@@ -2500,6 +2503,7 @@
 | [1017-odd-even-jump](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1017-odd-even-jump) |
 | [1985-maximum-subarray-min-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1985-maximum-subarray-min-product) |
 | [2227-sum-of-subarray-ranges](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2227-sum-of-subarray-ranges) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3738-make-array-non-decreasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3738-make-array-non-decreasing) |
 ## Trie
