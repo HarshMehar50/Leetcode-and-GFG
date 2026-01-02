@@ -54,6 +54,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0940-fruit-into-baskets) |
 | [0960-minimize-malware-spread](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0960-minimize-malware-spread) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0964-minimize-malware-spread-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0964-minimize-malware-spread-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -659,6 +660,7 @@
 | [0945-snakes-and-ladders](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0948-sort-an-array) |
 | [0960-minimize-malware-spread](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0960-minimize-malware-spread) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0964-minimize-malware-spread-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0964-minimize-malware-spread-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0967-minimum-falling-path-sum) |
