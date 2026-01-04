@@ -98,19 +98,17 @@ class Solution {
                 sb.setCharAt(j , 'A');
                 
                 if(j-1 >= 0){
-                    if(sb.charAt(j-1) == sb.charAt(j)){
+                    if(sb.charAt(j-1) == sb.charAt(j))
                         st.update(j , 1);
-                    }else{
+                    else
                         st.update(j , 0);
-                    }
                 }
 
                 if(j+1 < sb.length()){
-                    if(sb.charAt(j) == sb.charAt(j+1)){
+                    if(sb.charAt(j) == sb.charAt(j+1))
                         st.update(j+1 , 1);
-                    }else{
+                    else
                         st.update(j+1 , 0);
-                    }
                 }
             }
         }
