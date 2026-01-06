@@ -427,6 +427,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1731-even-odd-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1731-even-odd-tree) |
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2059-minimum-operations-to-convert-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2059-minimum-operations-to-convert-number) |
@@ -769,6 +770,7 @@
 | [1875-tree-of-coprimes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1875-tree-of-coprimes) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1907-count-pairs-with-xor-in-a-range) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1940-maximum-xor-for-each-query](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1947-number-of-different-subsequences-gcds) |
@@ -2099,6 +2101,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2101-last-day-where-you-can-still-cross) |
