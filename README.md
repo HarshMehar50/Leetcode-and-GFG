@@ -652,6 +652,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0808-number-of-matching-subsequences) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0830-largest-triangle-area](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0830-largest-triangle-area) |
+| [0845-longest-mountain-in-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0845-longest-mountain-in-array) |
 | [0854-making-a-large-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0869-similar-string-groups) |
 | [0881-loud-and-rich](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0881-loud-and-rich) |
@@ -1065,6 +1066,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0808-number-of-matching-subsequences) |
 | [0815-champagne-tower](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0815-champagne-tower) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
+| [0845-longest-mountain-in-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0845-longest-mountain-in-array) |
 | [0863-sum-of-distances-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0863-sum-of-distances-in-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1883,6 +1885,7 @@
 | [0647-palindromic-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0845-longest-mountain-in-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0845-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0908-middle-of-the-linked-list) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -2615,6 +2618,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0204-count-primes) |
+| [0845-longest-mountain-in-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0845-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1656-count-good-triplets) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
