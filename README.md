@@ -837,6 +837,7 @@
 | [2429-design-a-food-rating-system](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2439-minimize-maximum-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2439-minimize-maximum-of-array) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2478-longest-nice-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2478-longest-nice-subarray) |
@@ -1151,6 +1152,7 @@
 | [2397-count-number-of-ways-to-place-houses](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2439-minimize-maximum-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2439-minimize-maximum-of-array) |
 | [2444-longest-ideal-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2444-longest-ideal-subsequence) |
 | [2504-find-all-good-indices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2504-find-all-good-indices) |
 | [2510-maximum-deletions-on-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2510-maximum-deletions-on-a-string) |
@@ -1246,6 +1248,7 @@
 | [2344-escape-the-spreading-fire](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2344-escape-the-spreading-fire) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2439-minimize-maximum-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2439-minimize-maximum-of-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1309,6 +1312,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2379-maximum-total-importance-of-roads](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2439-minimize-maximum-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2439-minimize-maximum-of-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2509-minimize-xor) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -2462,6 +2466,7 @@
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2342-minimum-average-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2342-minimum-average-difference) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2439-minimize-maximum-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2439-minimize-maximum-of-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2488-count-subarrays-with-median-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2488-count-subarrays-with-median-k) |
 | [2504-find-all-good-indices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2504-find-all-good-indices) |
