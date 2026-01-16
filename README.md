@@ -93,6 +93,7 @@
 | [2455-node-with-highest-edge-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2455-node-with-highest-edge-score) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2488-count-subarrays-with-median-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2488-count-subarrays-with-median-k) |
+| [2501-longest-square-streak-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2501-longest-square-streak-in-an-array) |
 | [2505-number-of-good-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2505-number-of-good-paths) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -844,6 +845,7 @@
 | [2488-count-subarrays-with-median-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2488-count-subarrays-with-median-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2501-longest-square-streak-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2501-longest-square-streak-in-an-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2504-find-all-good-indices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2504-find-all-good-indices) |
 | [2505-number-of-good-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2505-number-of-good-paths) |
@@ -1154,6 +1156,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2439-minimize-maximum-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2439-minimize-maximum-of-array) |
 | [2444-longest-ideal-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2444-longest-ideal-subsequence) |
+| [2501-longest-square-streak-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2501-longest-square-streak-in-an-array) |
 | [2504-find-all-good-indices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2504-find-all-good-indices) |
 | [2510-maximum-deletions-on-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2510-maximum-deletions-on-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1249,6 +1252,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2439-minimize-maximum-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2439-minimize-maximum-of-array) |
+| [2501-longest-square-streak-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2501-longest-square-streak-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1716,6 +1720,7 @@
 | [2402-meeting-rooms-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2402-meeting-rooms-iii) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2501-longest-square-streak-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2501-longest-square-streak-in-an-array) |
 | [2505-number-of-good-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2505-number-of-good-paths) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2631-sort-the-students-by-their-kth-score) |
