@@ -732,6 +732,7 @@
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1447-jump-game-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1447-jump-game-iv) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1473-paint-house-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1473-paint-house-iii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1489-pizza-with-3n-slices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1503-reducing-dishes) |
@@ -1115,6 +1116,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1473-paint-house-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1473-paint-house-iii) |
 | [1488-sort-integers-by-the-power-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1488-sort-integers-by-the-power-value) |
 | [1489-pizza-with-3n-slices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1503-reducing-dishes) |
