@@ -704,6 +704,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1219-path-with-maximum-gold](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1219-path-with-maximum-gold) |
 | [1223-graph-connectivity-with-threshold](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1223-graph-connectivity-with-threshold) |
+| [1223-dice-roll-simulation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1223-dice-roll-simulation) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1240-stone-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1240-stone-game-ii) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1255-reverse-subarray-to-maximize-array-value) |
@@ -1093,6 +1094,7 @@
 | [1170-shortest-common-supersequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1170-shortest-common-supersequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1220-count-vowels-permutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1220-count-vowels-permutation) |
+| [1223-dice-roll-simulation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1223-dice-roll-simulation) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1240-stone-game-ii) |
