@@ -20,6 +20,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0264-ugly-number-ii) |
@@ -1341,6 +1342,7 @@
 | [0062-unique-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0264-ugly-number-ii) |
@@ -1887,6 +1889,7 @@
 | [0141-linked-list-cycle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0295-find-median-from-data-stream) |
