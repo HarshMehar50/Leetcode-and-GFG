@@ -916,6 +916,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3314-most-frequent-prime](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3314-most-frequent-prime) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -2081,6 +2082,7 @@
 | [3197-maximum-strong-pair-xor-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3394-minimum-array-end](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3394-minimum-array-end) |
