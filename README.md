@@ -886,6 +886,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2827-greatest-common-divisor-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2827-greatest-common-divisor-traversal) |
 | [2832-find-the-longest-equal-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2832-find-the-longest-equal-subarray) |
 | [2845-count-of-interesting-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2845-count-of-interesting-subarrays) |
@@ -1269,6 +1270,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2690-house-robber-iv) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2832-find-the-longest-equal-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2832-find-the-longest-equal-subarray) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3152-special-array-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3152-special-array-ii) |
@@ -1743,6 +1745,7 @@
 | [2696-the-number-of-beautiful-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2728-sum-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2728-sum-in-a-matrix) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3074-apple-redistribution-into-boxes) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1928,6 +1931,7 @@
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
