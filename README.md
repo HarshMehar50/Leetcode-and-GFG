@@ -1176,6 +1176,7 @@
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2719-count-of-integers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2719-count-of-integers) |
 | [2755-extra-characters-in-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -1426,6 +1427,7 @@
 | [2621-find-xor-beauty-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2621-find-xor-beauty-of-array) |
 | [2635-check-if-point-is-reachable](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2635-check-if-point-is-reachable) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2719-count-of-integers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2719-count-of-integers) |
 | [2827-greatest-common-divisor-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2827-greatest-common-divisor-traversal) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2873-prime-pairs-with-target-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2873-prime-pairs-with-target-sum) |
@@ -1849,6 +1851,7 @@
 | [2510-maximum-deletions-on-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2510-maximum-deletions-on-a-string) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2719-count-of-integers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2719-count-of-integers) |
 | [2755-extra-characters-in-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3235-minimum-cost-to-convert-string-i) |
