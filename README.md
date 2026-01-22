@@ -1026,6 +1026,7 @@
 | [0198-house-robber](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0300-longest-increasing-subsequence) |
@@ -1360,6 +1361,7 @@
 | [0202-happy-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0313-super-ugly-number) |
@@ -1887,6 +1889,7 @@
 | [0203-remove-linked-list-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0390-elimination-game) |
