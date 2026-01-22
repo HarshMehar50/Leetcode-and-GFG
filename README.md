@@ -833,6 +833,7 @@
 | [2350-find-closest-number-to-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2350-find-closest-number-to-zero) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -2493,6 +2494,7 @@
 | [2044-number-of-wonderful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2044-number-of-wonderful-substrings) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2342-minimum-average-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2342-minimum-average-difference) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2439-minimize-maximum-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2439-minimize-maximum-of-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -2777,6 +2779,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1772-create-sorted-array-through-instructions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1772-create-sorted-array-through-instructions) |
 | [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2429-design-a-food-rating-system](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2429-design-a-food-rating-system) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2868-continuous-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2868-continuous-subarrays) |
@@ -2823,6 +2826,7 @@
 |  |
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0990-satisfiability-of-equality-equations) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2382-maximum-segment-sum-after-removals) |
 ## Graph Theory
 |  |
 | ------- |
