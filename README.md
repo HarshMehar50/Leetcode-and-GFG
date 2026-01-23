@@ -1178,6 +1178,7 @@
 | [2696-the-number-of-beautiful-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2719-count-of-integers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2719-count-of-integers) |
 | [2755-extra-characters-in-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2755-extra-characters-in-a-string) |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
