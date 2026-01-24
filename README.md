@@ -1180,6 +1180,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2827-number-of-beautiful-integers-in-the-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3032-maximize-value-of-function-in-a-ball-passing-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3032-maximize-value-of-function-in-a-ball-passing-game) |
@@ -1431,6 +1432,7 @@
 | [2696-the-number-of-beautiful-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2719-count-of-integers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2719-count-of-integers) |
 | [2827-greatest-common-divisor-traversal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2827-greatest-common-divisor-traversal) |
+| [2827-number-of-beautiful-integers-in-the-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2873-prime-pairs-with-target-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2873-prime-pairs-with-target-sum) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3112-count-valid-paths-in-a-tree) |
