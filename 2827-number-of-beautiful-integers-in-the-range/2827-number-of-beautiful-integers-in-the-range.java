@@ -9,28 +9,6 @@ class Solution {
         if(dp[i][t][s1+11][r][start] != -1)
         return dp[i][t][s1+11][r][start];
         int ans = 0;
-        /*if(t == 1){
-            for(int j = 0; j <= 9; j++){
-                if(j%2 == 0)
-                ans += solve(s , k , i+1 , t , s1+1 , ((r*10)+j)%k);
-                else
-                ans += solve(s , k , i+1 , t , s1-1 , ((r*10)+j)%k);
-            }
-        }else{
-            for(int j = 0; j <= s.charAt(i)-'0'; j++){
-                if(j == s.charAt(i)-'0'){
-                    if(j%2 == 0)
-                    ans += solve(s , k , i+1 , t , s1+1 , ((r*10)+j)%k);
-                    else
-                    ans += solve(s , k , i+1 , t , s1-1 , ((r*10)+j)%k);
-                }else{
-                    if(j%2 == 0)
-                    ans += solve(s , k , i+1 , 1 , s1+1 , ((r*10)+j)%k);
-                    else
-                    ans += solve(s , k , i+1 , 1 , s1-1 , ((r*10)+j)%k);
-                }
-            }
-        }*/
         int limit = 9;
         if(t != 1)
         limit = s.charAt(i)-'0';
