@@ -663,6 +663,7 @@
 | [0891-score-after-flipping-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0891-score-after-flipping-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0895-shortest-path-to-get-all-keys) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0909-stone-game) |
@@ -1084,6 +1085,7 @@
 | [0845-longest-mountain-in-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0845-longest-mountain-in-array) |
 | [0863-sum-of-distances-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0863-sum-of-distances-in-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0909-stone-game) |
 | [0911-profitable-schemes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0911-profitable-schemes) |
@@ -1237,6 +1239,7 @@
 | [0794-swim-in-rising-water](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0808-number-of-matching-subsequences) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0907-koko-eating-bananas](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0907-koko-eating-bananas) |
 | [0910-nth-magical-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0910-nth-magical-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1046-max-consecutive-ones-iii) |
@@ -1386,6 +1389,7 @@
 | [0797-rabbits-in-forest](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0797-rabbits-in-forest) |
 | [0804-rotated-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0804-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0830-largest-triangle-area) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0909-stone-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0909-stone-game) |
 | [0910-nth-magical-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0910-nth-magical-number) |
 | [0989-largest-component-size-by-common-factor](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0989-largest-component-size-by-common-factor) |
@@ -1817,6 +1821,7 @@
 | [0784-letter-case-permutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0784-letter-case-permutation) |
 | [0808-number-of-matching-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0808-number-of-matching-subsequences) |
 | [0869-similar-string-groups](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0869-similar-string-groups) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0944-delete-columns-to-make-sorted](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0944-delete-columns-to-make-sorted) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0990-satisfiability-of-equality-equations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0990-satisfiability-of-equality-equations) |
