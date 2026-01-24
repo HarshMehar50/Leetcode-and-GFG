@@ -1,7 +1,9 @@
 class Solution {
-    int solve(String s , int[] digits , int i , int t){
+    int solve(String s , int[] digits , int i , int t , int[][] dp){
         if(i == s.length())
         return 1;
+        if(dp[i][t] != -1)
+        return dp[i][t];
         int ans = 0;
         int limit = digits[digits.length-1];
         if(t == 0)
@@ -10,9 +12,10 @@ class Solution {
             int nt = 0;
             if(digits[j] < limit || t == 1)
             nt = 1;
-            ans += solve(s , digits , i+1 , nt);
+            ans += solve(s , digits , i+1 , nt , dp);
         }
-        return ans;
+        dp[i][t] = ans;
+        return dp[i][t];
     }
     public int atMostNGivenDigitSet(String[] digits, int n) {
         int[] d = new int[digits.length];
@@ -20,8 +23,13 @@ class Solution {
             d[i] = Integer.parseInt(digits[i]);
         }
         Arrays.sort(d);
-        int ans = solve(Integer.toString(n) , d , 0 , 0);
-        for(int i = 1; i < Integer.toString(n).length(); i++){
+        String s = Integer.toString(n);
+        int[][] dp = new int[s.length()][2];
+        for(int[] a : dp){
+            Arrays.fill(a , -1);
+        }
+        int ans = solve(s , d , 0 , 0 , dp);
+        for(int i = 1; i < s.length(); i++){
             ans += Math.pow(digits.length , i);
         }
         return ans;
