@@ -1183,6 +1183,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2801-count-stepping-numbers-in-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2801-count-stepping-numbers-in-range) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
@@ -1865,6 +1866,7 @@
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2719-count-of-integers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2719-count-of-integers) |
 | [2755-extra-characters-in-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2755-extra-characters-in-a-string) |
+| [2801-count-stepping-numbers-in-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2801-count-stepping-numbers-in-range) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
