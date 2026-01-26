@@ -1,19 +1,22 @@
 class Solution {
-    int solve(int num , int k , int s , HashMap<Pair<Integer , Integer> , Integer> dp){
+    int solve(int num , int k , int s , int[][] dp){
         if(num == 0)
         return s;
-        if(dp.containsKey(new Pair<>(num , s)))
-        return dp.get(new Pair<>(num , s));
+        if(dp[num][s] != -1)
+        return dp[num][s];
         int ans = Integer.MAX_VALUE;
         for(int i = k; i <= num; i += 10){
             if(i != 0)
             ans = Math.min(ans , solve(num-i , k , s+1 , dp));
         }
-        dp.put(new Pair<>(num , s) , ans);
-        return dp.get(new Pair<>(num , s));
+        dp[num][s] = ans;
+        return dp[num][s];
     }
     public int minimumNumbers(int num, int k) {
-        HashMap<Pair<Integer , Integer> , Integer> dp = new HashMap<>();
+        int[][] dp = new int[num+1][3001];
+        for(int[] a : dp){
+            Arrays.fill(a , -1);
+        }
         int ans = solve(num , k , 0 , dp);
         if(ans == Integer.MAX_VALUE)
         return -1;
