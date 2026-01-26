@@ -1094,6 +1094,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0943-sum-of-subarray-minimums) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0967-minimum-falling-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0967-minimum-falling-path-sum) |
+| [1012-numbers-with-repeated-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1012-numbers-with-repeated-digits) |
 | [1013-fibonacci-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1013-fibonacci-number) |
 | [1017-odd-even-jump](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1017-odd-even-jump) |
 | [1020-longest-turbulent-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1020-longest-turbulent-subarray) |
@@ -1398,6 +1399,7 @@
 | [0909-stone-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0909-stone-game) |
 | [0910-nth-magical-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0910-nth-magical-number) |
 | [0989-largest-component-size-by-common-factor](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0989-largest-component-size-by-common-factor) |
+| [1012-numbers-with-repeated-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1012-numbers-with-repeated-digits) |
 | [1013-fibonacci-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1018-largest-perimeter-triangle) |
