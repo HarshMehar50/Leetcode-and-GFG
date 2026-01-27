@@ -1376,6 +1376,7 @@
 | [0204-count-primes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0233-number-of-digit-one) |
+| [0258-add-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0313-super-ugly-number) |
@@ -2468,6 +2469,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0735-asteroid-collision) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -2711,6 +2713,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0258-add-digits) |
 | [0989-largest-component-size-by-common-factor](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0989-largest-component-size-by-common-factor) |
 | [1223-graph-connectivity-with-threshold](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1223-graph-connectivity-with-threshold) |
 | [1585-the-kth-factor-of-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1585-the-kth-factor-of-n) |
