@@ -59,7 +59,7 @@ class Solution {
 
     long ans = (long) 1e15;
 
-    // Case 1: no cost if characters already match
+    
     if (source.charAt(i) == target.charAt(i)) {
         ans = Math.min(ans, solve(source, target, d, i + 1, dp));
     }
