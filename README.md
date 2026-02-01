@@ -85,6 +85,7 @@
 | [2044-number-of-wonderful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2044-number-of-wonderful-substrings) |
 | [2117-find-original-array-from-doubled-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2117-find-original-array-from-doubled-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2118-maximum-earnings-from-taxi) |
+| [2121-intervals-between-identical-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2121-intervals-between-identical-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2402-meeting-rooms-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2402-meeting-rooms-iii) |
@@ -812,6 +813,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2117-find-original-array-from-doubled-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2117-find-original-array-from-doubled-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2118-maximum-earnings-from-taxi) |
+| [2121-intervals-between-identical-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2121-intervals-between-identical-elements) |
 | [2125-gcd-sort-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2125-gcd-sort-of-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2151-the-time-when-the-network-becomes-idle) |
@@ -2545,6 +2547,7 @@
 | [1985-maximum-subarray-min-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1985-maximum-subarray-min-product) |
 | [2044-number-of-wonderful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2044-number-of-wonderful-substrings) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2121-intervals-between-identical-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2121-intervals-between-identical-elements) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2342-minimum-average-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2342-minimum-average-difference) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2382-maximum-segment-sum-after-removals) |
