@@ -845,6 +845,7 @@
 | [2382-maximum-segment-sum-after-removals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2402-meeting-rooms-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2402-meeting-rooms-iii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -1294,6 +1295,7 @@
 | [2344-escape-the-spreading-fire](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2344-escape-the-spreading-fire) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2439-minimize-maximum-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2439-minimize-maximum-of-array) |
 | [2501-longest-square-streak-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2501-longest-square-streak-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2513-number-of-pairs-satisfying-inequality) |
@@ -2273,6 +2275,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2379-maximum-total-importance-of-roads) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2402-meeting-rooms-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2402-meeting-rooms-iii) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2429-design-a-food-rating-system](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2429-design-a-food-rating-system) |
@@ -2369,6 +2372,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2478-longest-nice-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2751-sliding-subarray-beauty) |
@@ -2557,6 +2561,7 @@
 | [2342-minimum-average-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2342-minimum-average-difference) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2439-minimize-maximum-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2439-minimize-maximum-of-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2488-count-subarrays-with-median-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2488-count-subarrays-with-median-k) |
@@ -2815,6 +2820,7 @@
 | [1622-max-value-of-equation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1622-max-value-of-equation) |
 | [1814-jump-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1814-jump-game-vi) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2868-continuous-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2868-continuous-subarrays) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3827-implement-router) |
@@ -2829,6 +2835,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1622-max-value-of-equation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1622-max-value-of-equation) |
 | [1814-jump-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1814-jump-game-vi) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2868-continuous-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2868-continuous-subarrays) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
