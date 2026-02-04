@@ -112,6 +112,7 @@
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -918,6 +919,7 @@
 | [3152-special-array-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3152-special-array-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3187-peaks-in-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3187-peaks-in-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -1209,6 +1211,7 @@
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
