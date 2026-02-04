@@ -1189,6 +1189,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2439-minimize-maximum-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2439-minimize-maximum-of-array) |
 | [2444-longest-ideal-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2444-longest-ideal-subsequence) |
+| [2466-count-ways-to-build-good-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2466-count-ways-to-build-good-strings) |
 | [2501-longest-square-streak-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2501-longest-square-streak-in-an-array) |
 | [2504-find-all-good-indices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2504-find-all-good-indices) |
 | [2510-maximum-deletions-on-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2510-maximum-deletions-on-a-string) |
