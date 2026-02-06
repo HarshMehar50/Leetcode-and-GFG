@@ -973,6 +973,7 @@
 | [3623-count-number-of-trapezoids-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3623-count-number-of-trapezoids-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3643-zero-array-transformation-ii) |
@@ -1803,6 +1804,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3478-choose-k-elements-with-maximum-sum) |
+| [3634-minimum-removals-to-balance-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3634-minimum-removals-to-balance-array) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3873-subsequence-sum-after-capping-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3873-subsequence-sum-after-capping-elements) |
 | [3881-minimize-maximum-component-cost](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3881-minimize-maximum-component-cost) |
@@ -2390,6 +2392,7 @@
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3634-minimum-removals-to-balance-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
