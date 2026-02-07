@@ -797,6 +797,7 @@
 | [1947-maximum-compatibility-score-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1947-maximum-compatibility-score-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1952-minimum-sideway-jumps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1952-minimum-sideway-jumps) |
+| [1955-count-number-of-special-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1955-count-number-of-special-subsequences) |
 | [1962-single-threaded-cpu](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1962-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1174,6 +1175,7 @@
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1947-maximum-compatibility-score-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1947-maximum-compatibility-score-sum) |
 | [1952-minimum-sideway-jumps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1952-minimum-sideway-jumps) |
+| [1955-count-number-of-special-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1955-count-number-of-special-subsequences) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
