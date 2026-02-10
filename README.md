@@ -128,6 +128,7 @@
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3678-design-task-manager](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3678-design-task-manager) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
+| [3719-longest-balanced-subarray-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
@@ -987,6 +988,7 @@
 | [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
+| [3719-longest-balanced-subarray-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3719-longest-balanced-subarray-i) |
 | [3738-make-array-non-decreasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3738-make-array-non-decreasing) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -2027,6 +2029,7 @@
 | [1772-create-sorted-array-through-instructions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1772-create-sorted-array-through-instructions) |
 | [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [3719-longest-balanced-subarray-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
@@ -2506,6 +2509,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3187-peaks-in-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3187-peaks-in-array) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3350-distribute-elements-into-two-arrays-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3777-minimum-deletions-to-make-alternating-substring](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3777-minimum-deletions-to-make-alternating-substring) |
@@ -2602,6 +2606,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3643-zero-array-transformation-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
