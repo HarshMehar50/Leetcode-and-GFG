@@ -128,6 +128,7 @@
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3678-design-task-manager](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3678-design-task-manager) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
+| [3713-longest-balanced-substring-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1932,6 +1933,7 @@
 | [3567-convert-date-to-binary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3567-convert-date-to-binary) |
 | [3597-partition-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3597-partition-string) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3603-check-if-dfs-strings-are-palindromes) |
+| [3713-longest-balanced-substring-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3713-longest-balanced-substring-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3777-minimum-deletions-to-make-alternating-substring](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3777-minimum-deletions-to-make-alternating-substring) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
@@ -2735,6 +2737,7 @@
 | [3314-most-frequent-prime](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3314-most-frequent-prime) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3713-longest-balanced-substring-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3713-longest-balanced-substring-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
@@ -2760,6 +2763,7 @@
 | [2873-prime-pairs-with-target-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2873-prime-pairs-with-target-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3314-most-frequent-prime](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3314-most-frequent-prime) |
+| [3713-longest-balanced-substring-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3713-longest-balanced-substring-i) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3850-equal-sum-grid-partition-ii) |
