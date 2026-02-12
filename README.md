@@ -773,6 +773,7 @@
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1680-count-all-possible-routes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1680-count-all-possible-routes) |
 | [1685-stone-game-v](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1685-stone-game-v) |
+| [1686-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1686-stone-game-vi) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1694-make-sum-divisible-by-p) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -1364,6 +1365,7 @@
 | [1503-reducing-dishes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1503-reducing-dishes) |
 | [1659-get-the-maximum-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1659-get-the-maximum-score) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1686-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1686-stone-game-vi) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1788-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1788-stone-game-vi) |
@@ -1450,6 +1452,7 @@
 | [1617-stone-game-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1617-stone-game-iv) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1685-stone-game-v](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1685-stone-game-v) |
+| [1686-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1686-stone-game-vi) |
 | [1788-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1788-stone-game-vi) |
 | [1808-stone-game-vii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1808-stone-game-vii) |
 | [1875-tree-of-coprimes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1875-tree-of-coprimes) |
@@ -1774,6 +1777,7 @@
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1686-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1686-stone-game-vi) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1748-best-team-with-no-conflicts](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1748-best-team-with-no-conflicts) |
 | [1755-closest-subsequence-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1755-closest-subsequence-sum) |
@@ -2058,6 +2062,7 @@
 | [1522-stone-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1685-stone-game-v) |
+| [1686-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1686-stone-game-vi) |
 | [1788-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1788-stone-game-vi) |
 | [1808-stone-game-vii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1808-stone-game-vii) |
 | [3462-vowels-game-in-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3462-vowels-game-in-a-string) |
@@ -2286,6 +2291,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1622-max-value-of-equation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1622-max-value-of-equation) |
+| [1686-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1686-stone-game-vi) |
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [1788-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1788-stone-game-vi) |
 | [1814-jump-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1814-jump-game-vi) |
