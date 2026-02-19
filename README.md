@@ -1868,6 +1868,7 @@
 | [0676-implement-magic-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0678-valid-parenthesis-string) |
+| [0696-count-binary-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
@@ -1995,6 +1996,7 @@
 | [0633-sum-of-square-numbers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0696-count-binary-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0845-longest-mountain-in-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0845-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0908-middle-of-the-linked-list) |
