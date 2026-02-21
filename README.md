@@ -1430,6 +1430,7 @@
 | [0486-predict-the-winner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0633-sum-of-square-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0797-rabbits-in-forest) |
 | [0804-rotated-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0804-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0830-largest-triangle-area) |
@@ -2134,6 +2135,7 @@
 | [0477-total-hamming-distance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0477-total-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0784-letter-case-permutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0784-letter-case-permutation) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0891-score-after-flipping-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0891-score-after-flipping-matrix) |
