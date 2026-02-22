@@ -2137,6 +2137,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0784-letter-case-permutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0784-letter-case-permutation) |
+| [0868-binary-gap](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0868-binary-gap) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0891-score-after-flipping-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0891-score-after-flipping-matrix) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0895-shortest-path-to-get-all-keys) |
