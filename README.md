@@ -1370,6 +1370,7 @@
 | [1659-get-the-maximum-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1659-get-the-maximum-score) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1686-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1686-stone-game-vi) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1788-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1788-stone-game-vi) |
@@ -1898,6 +1899,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1508-longest-happy-prefix) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-palindrome-partitioning-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1871-palindrome-partitioning-iv) |
