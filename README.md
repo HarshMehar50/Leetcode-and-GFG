@@ -1118,6 +1118,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0909-stone-game) |
 | [0911-profitable-schemes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0911-profitable-schemes) |
+| [0920-number-of-music-playlists](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0920-number-of-music-playlists) |
 | [0943-sum-of-subarray-minimums](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0943-sum-of-subarray-minimums) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0967-minimum-falling-path-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0967-minimum-falling-path-sum) |
@@ -1439,6 +1440,7 @@
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0909-stone-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0909-stone-game) |
 | [0910-nth-magical-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0910-nth-magical-number) |
+| [0920-number-of-music-playlists](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0920-number-of-music-playlists) |
 | [0989-largest-component-size-by-common-factor](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0989-largest-component-size-by-common-factor) |
 | [1012-numbers-with-repeated-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1012-numbers-with-repeated-digits) |
 | [1013-fibonacci-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1013-fibonacci-number) |
@@ -2567,6 +2569,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0062-unique-paths) |
+| [0920-number-of-music-playlists](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0920-number-of-music-playlists) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
