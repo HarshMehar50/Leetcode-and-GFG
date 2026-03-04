@@ -757,6 +757,7 @@
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1582-design-browser-history](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1582-design-browser-history) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1590-make-sum-divisible-by-p) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -2245,6 +2246,7 @@
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
