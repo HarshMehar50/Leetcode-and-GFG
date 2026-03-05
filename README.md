@@ -980,6 +980,7 @@
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3623-count-number-of-trapezoids-i) |
+| [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3634-minimum-removals-to-balance-array) |
@@ -2051,6 +2052,7 @@
 | [1772-create-sorted-array-through-instructions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1772-create-sorted-array-through-instructions) |
 | [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -2522,6 +2524,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3187-peaks-in-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3187-peaks-in-array) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3350-distribute-elements-into-two-arrays-ii) |
+| [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 | [3829-shortest-path-in-a-weighted-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3829-shortest-path-in-a-weighted-tree) |
 ## Segment Tree
 |  |
@@ -2538,6 +2541,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3187-peaks-in-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3187-peaks-in-array) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3350-distribute-elements-into-two-arrays-ii) |
+| [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
