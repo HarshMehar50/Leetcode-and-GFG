@@ -101,6 +101,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [2671-frequency-tracker](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2671-frequency-tracker) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -2506,6 +2507,7 @@
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1582-design-browser-history](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1582-design-browser-history) |
 | [2429-design-a-food-rating-system](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2429-design-a-food-rating-system) |
+| [2671-frequency-tracker](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2671-frequency-tracker) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3678-design-task-manager](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3797-design-spreadsheet) |
