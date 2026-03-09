@@ -1,7 +1,9 @@
 class Solution {
-    int solve(String s , int i , int t , int mask , int start){
+    int solve(String s , int i , int t , int mask , int start , int[][][][] dp){
         if(i >= s.length())
         return 1;
+        if(dp[i][t][mask][start] != -1)
+        return dp[i][t][mask][start];
         int ans = 0;
         int limit = 9;
         if(t == 0)
@@ -12,14 +14,23 @@ class Solution {
             if(j < limit || t == 1)
             nt = 1;
             if(start == 0 && j == 0)
-            ans += solve(s , i+1 , nt , mask , 0);
+            ans += solve(s , i+1 , nt , mask , 0 , dp);
             else
-            ans += solve(s , i+1 , nt , mask^(1<<j) , 1);
+            ans += solve(s , i+1 , nt , mask^(1<<j) , 1 , dp);
         }
-        return ans;
+        dp[i][t][mask][start] = ans;
+        return dp[i][t][mask][start];
     }
     public int countSpecialNumbers(int n) {
         String s = Integer.toString(n);
-        return solve(s , 0 , 0 , (1<<10)-1 , 0)-1;
+        int[][][][] dp = new int[s.length()][2][(1<<10)][2];
+        for(int[][][] a : dp){
+            for(int[][] b : a){
+                for(int[] c : b){
+                    Arrays.fill(c , -1);
+                }
+            }
+        }
+        return solve(s , 0 , 0 , (1<<10)-1 , 0 , dp)-1;
     }
 }
