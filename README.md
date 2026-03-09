@@ -1207,6 +1207,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2262-solving-questions-with-brainpower) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2318-number-of-distinct-roll-sequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2318-number-of-distinct-roll-sequences) |
+| [2376-count-special-integers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2376-count-special-integers) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -1483,6 +1484,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2376-count-special-integers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2376-count-special-integers) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2448-count-number-of-bad-pairs) |
