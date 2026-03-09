@@ -1241,6 +1241,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3490-count-beautiful-numbers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3490-count-beautiful-numbers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3518-maximum-multiplication-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3518-maximum-multiplication-score) |
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3519-count-numbers-with-non-decreasing-digits) |
