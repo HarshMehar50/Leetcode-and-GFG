@@ -2160,6 +2160,7 @@
 | [0877-shortest-path-visiting-all-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0891-score-after-flipping-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0891-score-after-flipping-matrix) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0895-shortest-path-to-get-all-keys) |
+| [1009-complement-of-base-10-integer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1009-complement-of-base-10-integer) |
 | [1022-unique-paths-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1022-unique-paths-iii) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
