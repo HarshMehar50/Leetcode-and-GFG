@@ -911,6 +911,7 @@
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2728-sum-in-a-matrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2728-sum-in-a-matrix) |
 | [2730-maximum-or](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2730-maximum-or) |
+| [2741-special-permutations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2741-special-permutations) |
 | [2751-sliding-subarray-beauty](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2751-sliding-subarray-beauty) |
 | [2755-extra-characters-in-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1225,6 +1226,7 @@
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2719-count-of-integers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2719-count-of-integers) |
+| [2741-special-permutations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2741-special-permutations) |
 | [2755-extra-characters-in-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -2197,6 +2199,7 @@
 | [2621-find-xor-beauty-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2621-find-xor-beauty-of-array) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2730-maximum-or](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2730-maximum-or) |
+| [2741-special-permutations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2741-special-permutations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2959-number-of-possible-sets-of-closing-branches) |
@@ -2226,6 +2229,7 @@
 | [1755-closest-subsequence-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1755-closest-subsequence-sum) |
 | [1947-maximum-compatibility-score-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1947-maximum-compatibility-score-sum) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2741-special-permutations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2741-special-permutations) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 ## Matrix
