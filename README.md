@@ -88,6 +88,7 @@
 | [2121-intervals-between-identical-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2121-intervals-between-identical-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2336-smallest-number-in-infinite-set](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2336-smallest-number-in-infinite-set) |
 | [2402-meeting-rooms-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2429-design-a-food-rating-system) |
 | [2444-longest-ideal-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2444-longest-ideal-subsequence) |
@@ -2340,6 +2341,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2054-two-best-non-overlapping-events) |
 | [2164-two-best-non-overlapping-events](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2336-smallest-number-in-infinite-set](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2336-smallest-number-in-infinite-set) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2398-maximum-number-of-robots-within-budget) |
@@ -2520,6 +2522,7 @@
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1582-design-browser-history](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1582-design-browser-history) |
 | [2241-design-an-atm-machine](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2241-design-an-atm-machine) |
+| [2336-smallest-number-in-infinite-set](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2336-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2429-design-a-food-rating-system) |
 | [2671-frequency-tracker](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2671-frequency-tracker) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2678-design-graph-with-shortest-path-calculator) |
@@ -2934,6 +2937,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1772-create-sorted-array-through-instructions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1772-create-sorted-array-through-instructions) |
 | [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2336-smallest-number-in-infinite-set) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2429-design-a-food-rating-system](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2429-design-a-food-rating-system) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2513-number-of-pairs-satisfying-inequality) |
