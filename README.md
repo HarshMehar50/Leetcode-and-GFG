@@ -86,6 +86,7 @@
 | [2117-find-original-array-from-doubled-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2117-find-original-array-from-doubled-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2118-maximum-earnings-from-taxi) |
 | [2121-intervals-between-identical-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2121-intervals-between-identical-elements) |
+| [2166-design-bitset](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2166-design-bitset) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2336-smallest-number-in-infinite-set](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2336-smallest-number-in-infinite-set) |
@@ -834,6 +835,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2164-two-best-non-overlapping-events](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2164-two-best-non-overlapping-events) |
+| [2166-design-bitset](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2166-design-bitset) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2176-parallel-courses-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2176-parallel-courses-iii) |
@@ -1927,6 +1929,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2157-groups-of-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2157-groups-of-strings) |
+| [2166-design-bitset](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2166-design-bitset) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -2521,6 +2524,7 @@
 | [1294-range-frequency-queries](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1294-range-frequency-queries) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1582-design-browser-history](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1582-design-browser-history) |
+| [2166-design-bitset](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2166-design-bitset) |
 | [2241-design-an-atm-machine](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2241-design-an-atm-machine) |
 | [2336-smallest-number-in-infinite-set](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2336-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2429-design-a-food-rating-system) |
