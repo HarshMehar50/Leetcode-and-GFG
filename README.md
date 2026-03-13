@@ -948,6 +948,7 @@
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3264-maximum-points-after-enemy-battles) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -1344,6 +1345,7 @@
 | [3152-special-array-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3152-special-array-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -1411,6 +1413,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3074-apple-redistribution-into-boxes) |
 | [3192-maximum-xor-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3192-maximum-xor-product) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3264-maximum-points-after-enemy-battles) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -1512,6 +1515,7 @@
 | [3112-count-valid-paths-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3192-maximum-xor-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3192-maximum-xor-product) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-most-frequent-prime](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3314-most-frequent-prime) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3373-maximum-prime-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3373-maximum-prime-difference) |
@@ -2367,6 +2371,7 @@
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3462-maximum-sum-with-at-most-k-elements) |
