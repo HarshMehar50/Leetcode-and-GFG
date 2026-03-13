@@ -1006,6 +1006,7 @@
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3719-longest-balanced-subarray-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3719-longest-balanced-subarray-i) |
 | [3738-make-array-non-decreasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3738-make-array-non-decreasing) |
+| [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
@@ -1258,6 +1259,7 @@
 | [3654-minimum-array-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3654-minimum-array-sum) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
