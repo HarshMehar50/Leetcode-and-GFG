@@ -1255,6 +1255,7 @@
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3519-count-numbers-with-non-decreasing-digits) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3654-minimum-array-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3654-minimum-array-sum) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
@@ -1531,6 +1532,7 @@
 | [3567-convert-date-to-binary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3623-count-number-of-trapezoids-i) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -2224,6 +2226,7 @@
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3394-minimum-array-end](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3394-minimum-array-end) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+| [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
@@ -2620,6 +2623,7 @@
 | [2696-the-number-of-beautiful-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 ## Prefix Sum
 |  |
 | ------- |
