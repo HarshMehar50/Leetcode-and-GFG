@@ -1924,6 +1924,7 @@
 | [1321-get-equal-substrings-within-budget](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1321-get-equal-substrings-within-budget) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1403-palindrome-partitioning-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1403-palindrome-partitioning-iii) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1416-restore-the-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1416-restore-the-array) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -2142,6 +2143,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1022-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1219-path-with-maximum-gold) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1947-maximum-compatibility-score-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1947-maximum-compatibility-score-sum) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
