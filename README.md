@@ -969,6 +969,7 @@
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3429-special-array-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3429-special-array-i) |
+| [3429-paint-house-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3429-paint-house-iv) |
 | [3430-count-days-without-meetings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1247,6 +1248,7 @@
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3429-paint-house-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3429-paint-house-iv) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3490-count-beautiful-numbers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3490-count-beautiful-numbers) |
