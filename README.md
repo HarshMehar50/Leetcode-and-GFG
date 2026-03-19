@@ -883,6 +883,7 @@
 | [2504-find-all-good-indices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2504-find-all-good-indices) |
 | [2505-number-of-good-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2505-number-of-good-paths) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2518-number-of-great-partitions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2518-number-of-great-partitions) |
 | [2529-range-product-queries-of-powers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2529-range-product-queries-of-powers) |
 | [2531-create-components-with-same-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2531-create-components-with-same-value) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -1227,6 +1228,7 @@
 | [2501-longest-square-streak-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2501-longest-square-streak-in-an-array) |
 | [2504-find-all-good-indices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2504-find-all-good-indices) |
 | [2510-maximum-deletions-on-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2510-maximum-deletions-on-a-string) |
+| [2518-number-of-great-partitions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2518-number-of-great-partitions) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2585-number-of-ways-to-earn-points](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2585-number-of-ways-to-earn-points) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
