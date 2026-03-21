@@ -485,6 +485,7 @@
 | [3561-remove-methods-from-project](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3561-remove-methods-from-project) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3809-properties-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3809-properties-graph) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -1544,6 +1545,7 @@
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3623-count-number-of-trapezoids-i) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3747-count-distinct-integers-after-removing-zeros) |
@@ -1990,6 +1992,7 @@
 | [3567-convert-date-to-binary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3567-convert-date-to-binary) |
 | [3597-partition-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3597-partition-string) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3603-check-if-dfs-strings-are-palindromes) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3714-longest-balanced-substring-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -2980,6 +2983,7 @@
 | [2429-design-a-food-rating-system](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2429-design-a-food-rating-system) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2868-continuous-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2868-continuous-subarrays) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3678-design-task-manager](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3863-power-grid-maintenance) |
@@ -3025,6 +3029,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0990-satisfiability-of-equality-equations) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2382-maximum-segment-sum-after-removals) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph Theory
 |  |
 | ------- |
