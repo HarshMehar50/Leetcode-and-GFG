@@ -1228,6 +1228,7 @@
 | [2439-minimize-maximum-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2439-minimize-maximum-of-array) |
 | [2444-longest-ideal-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2444-longest-ideal-subsequence) |
 | [2466-count-ways-to-build-good-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2466-count-ways-to-build-good-strings) |
+| [2478-number-of-beautiful-partitions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2478-number-of-beautiful-partitions) |
 | [2501-longest-square-streak-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2501-longest-square-streak-in-an-array) |
 | [2504-find-all-good-indices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2504-find-all-good-indices) |
 | [2510-maximum-deletions-on-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2510-maximum-deletions-on-a-string) |
@@ -1962,6 +1963,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2429-design-a-food-rating-system) |
 | [2444-longest-ideal-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2444-longest-ideal-subsequence) |
+| [2478-number-of-beautiful-partitions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2478-number-of-beautiful-partitions) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2510-maximum-deletions-on-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2510-maximum-deletions-on-a-string) |
@@ -2683,6 +2685,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2439-minimize-maximum-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2439-minimize-maximum-of-array) |
+| [2478-number-of-beautiful-partitions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2478-number-of-beautiful-partitions) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2488-count-subarrays-with-median-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2488-count-subarrays-with-median-k) |
 | [2504-find-all-good-indices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2504-find-all-good-indices) |
