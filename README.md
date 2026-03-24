@@ -87,6 +87,7 @@
 | [2118-maximum-earnings-from-taxi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2118-maximum-earnings-from-taxi) |
 | [2121-intervals-between-identical-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2121-intervals-between-identical-elements) |
 | [2166-design-bitset](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2166-design-bitset) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2336-smallest-number-in-infinite-set](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2336-smallest-number-in-infinite-set) |
@@ -841,6 +842,7 @@
 | [2175-count-nodes-with-the-highest-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2176-parallel-courses-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2176-parallel-courses-iii) |
 | [2183-minimum-operations-to-convert-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2183-minimum-operations-to-convert-number) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2218-maximum-value-of-k-coins-from-piles) |
@@ -1508,6 +1510,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2050-count-good-numbers) |
 | [2125-gcd-sort-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2125-gcd-sort-of-an-array) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -2835,6 +2838,7 @@
 | [1983-maximum-population-year](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1983-maximum-population-year) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -2884,6 +2888,7 @@
 | [1875-tree-of-coprimes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1875-tree-of-coprimes) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1947-number-of-different-subsequences-gcds) |
 | [2125-gcd-sort-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2125-gcd-sort-of-an-array) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
