@@ -928,6 +928,7 @@
 | [2868-continuous-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2868-continuous-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2873-prime-pairs-with-target-sum) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -1246,6 +1247,7 @@
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3032-maximize-value-of-function-in-a-ball-passing-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3032-maximize-value-of-function-in-a-ball-passing-game) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
