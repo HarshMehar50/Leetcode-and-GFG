@@ -989,6 +989,7 @@
 | [3518-maximum-multiplication-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3518-maximum-multiplication-score) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3525-maximum-energy-boost-from-two-drinks) |
+| [3546-equal-sum-grid-partition-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3546-equal-sum-grid-partition-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -2332,6 +2333,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3314-most-frequent-prime](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3314-most-frequent-prime) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3546-equal-sum-grid-partition-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3546-equal-sum-grid-partition-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -2709,6 +2711,7 @@
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3546-equal-sum-grid-partition-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3639-zero-array-transformation-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3643-zero-array-transformation-ii) |
@@ -2872,6 +2875,7 @@
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3314-most-frequent-prime](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3314-most-frequent-prime) |
+| [3546-equal-sum-grid-partition-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3713-longest-balanced-substring-i) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3849-equal-sum-grid-partition-i) |
