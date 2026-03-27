@@ -863,6 +863,7 @@
 | [2344-escape-the-spreading-fire](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2344-escape-the-spreading-fire) |
 | [2350-find-closest-number-to-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2350-find-closest-number-to-zero) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1226,6 +1227,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2262-solving-questions-with-brainpower) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2318-number-of-distinct-roll-sequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2318-number-of-distinct-roll-sequences) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2376-count-special-integers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2376-count-special-integers) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2397-count-number-of-ways-to-place-houses) |
