@@ -898,6 +898,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2573-find-the-string-with-lcp](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2573-find-the-string-with-lcp) |
 | [2585-number-of-ways-to-earn-points](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2585-number-of-ways-to-earn-points) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2597-cycle-length-queries-in-a-tree) |
@@ -1242,6 +1243,7 @@
 | [2510-maximum-deletions-on-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2510-maximum-deletions-on-a-string) |
 | [2518-number-of-great-partitions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2518-number-of-great-partitions) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2573-find-the-string-with-lcp](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2573-find-the-string-with-lcp) |
 | [2585-number-of-ways-to-earn-points](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2585-number-of-ways-to-earn-points) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -1432,6 +1434,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2509-minimize-xor) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2573-find-the-string-with-lcp](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2573-find-the-string-with-lcp) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2730-maximum-or](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2730-maximum-or) |
 | [3074-apple-redistribution-into-boxes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3074-apple-redistribution-into-boxes) |
@@ -1979,6 +1982,7 @@
 | [2510-maximum-deletions-on-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2510-maximum-deletions-on-a-string) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2573-find-the-string-with-lcp](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2573-find-the-string-with-lcp) |
 | [2719-count-of-integers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2719-count-of-integers) |
 | [2755-extra-characters-in-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [2801-count-stepping-numbers-in-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2801-count-stepping-numbers-in-range) |
@@ -2325,6 +2329,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2573-find-the-string-with-lcp](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2573-find-the-string-with-lcp) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
@@ -3049,6 +3054,7 @@
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0990-satisfiability-of-equality-equations) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2382-maximum-segment-sum-after-removals) |
+| [2573-find-the-string-with-lcp](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph Theory
