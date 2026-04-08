@@ -728,6 +728,7 @@
 | [1223-dice-roll-simulation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1223-dice-roll-simulation) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1240-stone-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1240-stone-game-ii) |
+| [1250-check-if-it-is-a-good-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1250-check-if-it-is-a-good-array) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1286-constrained-subsequence-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1286-constrained-subsequence-sum) |
 | [1290-make-array-strictly-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1290-make-array-strictly-increasing) |
@@ -1503,6 +1504,7 @@
 | [1223-graph-connectivity-with-threshold](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1223-graph-connectivity-with-threshold) |
 | [1236-n-th-tribonacci-number](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1240-stone-game-ii) |
+| [1250-check-if-it-is-a-good-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1250-check-if-it-is-a-good-array) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1390-four-divisors) |
@@ -2914,6 +2916,7 @@
 | [0258-add-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0258-add-digits) |
 | [0989-largest-component-size-by-common-factor](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0989-largest-component-size-by-common-factor) |
 | [1223-graph-connectivity-with-threshold](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1223-graph-connectivity-with-threshold) |
+| [1250-check-if-it-is-a-good-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1250-check-if-it-is-a-good-array) |
 | [1585-the-kth-factor-of-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1585-the-kth-factor-of-n) |
 | [1875-tree-of-coprimes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1875-tree-of-coprimes) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1947-number-of-different-subsequences-gcds) |
