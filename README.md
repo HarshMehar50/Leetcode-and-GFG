@@ -807,6 +807,7 @@
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1875-tree-of-coprimes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1875-tree-of-coprimes) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
