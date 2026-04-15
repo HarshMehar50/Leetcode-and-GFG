@@ -894,6 +894,7 @@
 | [2504-find-all-good-indices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2504-find-all-good-indices) |
 | [2505-number-of-good-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2505-number-of-good-paths) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2518-number-of-great-partitions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2518-number-of-great-partitions) |
 | [2529-range-product-queries-of-powers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2529-range-product-queries-of-powers) |
 | [2531-create-components-with-same-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2531-create-components-with-same-value) |
@@ -1996,6 +1997,7 @@
 | [2483-minimum-penalty-for-a-shop](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2510-maximum-deletions-on-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2510-maximum-deletions-on-a-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2573-find-the-string-with-lcp) |
