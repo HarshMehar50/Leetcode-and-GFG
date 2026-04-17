@@ -952,6 +952,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3074-apple-redistribution-into-boxes) |
 | [3079-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3079-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3152-special-array-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3152-special-array-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -1281,6 +1282,7 @@
 | [3112-count-valid-paths-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
@@ -2367,6 +2369,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3314-most-frequent-prime](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3314-most-frequent-prime) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3462-maximum-sum-with-at-most-k-elements) |
