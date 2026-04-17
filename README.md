@@ -142,6 +142,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3797-design-spreadsheet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3809-properties-graph) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3815-sum-of-largest-prime-substrings) |
@@ -1040,6 +1041,7 @@
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3797-design-spreadsheet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3809-properties-graph) |
@@ -1584,6 +1586,7 @@
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3868-find-maximum-area-of-a-triangle) |
