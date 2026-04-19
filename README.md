@@ -811,6 +811,7 @@
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1875-tree-of-coprimes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1875-tree-of-coprimes) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1907-count-pairs-with-xor-in-a-range) |
@@ -1363,6 +1364,7 @@
 | [1753-path-with-minimum-effort](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [1772-create-sorted-array-through-instructions](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1772-create-sorted-array-through-instructions) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -2100,6 +2102,7 @@
 | [1659-get-the-maximum-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1659-get-the-maximum-score) |
 | [1755-closest-subsequence-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1755-closest-subsequence-sum) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
