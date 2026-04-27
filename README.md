@@ -304,6 +304,7 @@
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1380-number-of-closed-islands) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1428-jump-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1428-jump-game-iii) |
@@ -435,6 +436,7 @@
 | [1308-smallest-string-with-swaps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1308-smallest-string-with-swaps) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1380-number-of-closed-islands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1380-number-of-closed-islands) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1428-jump-game-iii) |
@@ -754,6 +756,7 @@
 | [1380-number-of-closed-islands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1380-number-of-closed-islands) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1390-four-divisors](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1390-four-divisors) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -2352,6 +2355,7 @@
 | [1224-minimum-falling-path-sum-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1301-number-of-paths-with-max-score) |
 | [1380-number-of-closed-islands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1380-number-of-closed-islands) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -3103,6 +3107,7 @@
 |  |
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0990-satisfiability-of-equality-equations) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2573-find-the-string-with-lcp](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2573-find-the-string-with-lcp) |
