@@ -1039,6 +1039,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3654-minimum-array-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3654-minimum-array-sum) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
+| [3660-jump-game-ix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3660-jump-game-ix) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3719-longest-balanced-subarray-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3719-longest-balanced-subarray-i) |
@@ -1314,6 +1315,7 @@
 | [3651-minimum-cost-path-with-teleportations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3654-minimum-array-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3654-minimum-array-sum) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
+| [3660-jump-game-ix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3660-jump-game-ix) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3742-maximum-path-score-in-a-grid) |
