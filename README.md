@@ -1296,6 +1296,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3148-maximum-difference-score-in-a-grid) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
@@ -1580,6 +1581,7 @@
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2873-prime-pairs-with-target-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2873-prime-pairs-with-target-sum) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3112-count-valid-paths-in-a-tree) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3192-maximum-xor-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3192-maximum-xor-product) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -2292,6 +2294,7 @@
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3032-maximize-value-of-function-in-a-ball-passing-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3032-maximize-value-of-function-in-a-ball-passing-game) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3192-maximum-xor-product](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3192-maximum-xor-product) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3197-maximum-strong-pair-xor-ii) |
@@ -2713,6 +2716,7 @@
 | [0920-number-of-music-playlists](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0920-number-of-music-playlists) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2696-the-number-of-beautiful-subsets) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
@@ -2811,6 +2815,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Stack
 |  |
