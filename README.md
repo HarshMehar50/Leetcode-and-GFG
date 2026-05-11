@@ -913,6 +913,7 @@
 | [2550-words-within-two-edits-of-dictionary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2551-apply-operations-to-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-separate-the-digits-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2553-separate-the-digits-in-an-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2573-find-the-string-with-lcp](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2573-find-the-string-with-lcp) |
@@ -2703,6 +2704,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2402-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2553-separate-the-digits-in-an-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2662-check-knight-tour-configuration](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2662-check-knight-tour-configuration) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
