@@ -794,6 +794,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1659-get-the-maximum-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1659-get-the-maximum-score) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1680-count-all-possible-routes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1680-count-all-possible-routes) |
@@ -1457,6 +1458,7 @@
 | [1489-pizza-with-3n-slices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1503-reducing-dishes) |
 | [1659-get-the-maximum-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1659-get-the-maximum-score) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1686-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1686-stone-game-vi) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -1887,6 +1889,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1686-stone-game-vi](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1686-stone-game-vi) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
