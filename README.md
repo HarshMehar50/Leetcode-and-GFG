@@ -300,6 +300,7 @@
 | [1275-validate-binary-tree-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1275-validate-binary-tree-nodes) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1300-critical-connections-in-a-network](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1300-critical-connections-in-a-network) |
+| [1306-jump-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1306-jump-game-iii) |
 | [1308-smallest-string-with-swaps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1308-smallest-string-with-swaps) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -434,6 +435,7 @@
 | [1254-deepest-leaves-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1254-deepest-leaves-sum) |
 | [1275-validate-binary-tree-nodes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1275-validate-binary-tree-nodes) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1306-jump-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1306-jump-game-iii) |
 | [1308-smallest-string-with-swaps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1308-smallest-string-with-swaps) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1380-number-of-closed-islands](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1380-number-of-closed-islands) |
@@ -744,6 +746,7 @@
 | [1290-make-array-strictly-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1290-make-array-strictly-increasing) |
 | [1294-range-frequency-queries](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1294-range-frequency-queries) |
 | [1301-number-of-paths-with-max-score](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1301-number-of-paths-with-max-score) |
+| [1306-jump-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1306-jump-game-iii) |
 | [1308-smallest-string-with-swaps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1308-smallest-string-with-swaps) |
 | [1325-path-with-maximum-probability](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
