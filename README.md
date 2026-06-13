@@ -1071,6 +1071,7 @@
 | [3829-shortest-path-in-a-weighted-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3829-shortest-path-in-a-weighted-tree) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3838-weighted-word-mapping](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3838-weighted-word-mapping) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3849-equal-sum-grid-partition-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3850-equal-sum-grid-partition-ii) |
@@ -2078,6 +2079,7 @@
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3797-design-spreadsheet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3797-design-spreadsheet) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3815-sum-of-largest-prime-substrings) |
+| [3838-weighted-word-mapping](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Recursion
 |  |
@@ -2725,6 +2727,7 @@
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3597-partition-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3597-partition-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3838-weighted-word-mapping) |
 ## Combinatorics
 |  |
 | ------- |
