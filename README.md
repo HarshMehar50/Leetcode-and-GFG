@@ -346,6 +346,7 @@
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2662-check-knight-tour-configuration](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2662-check-knight-tour-configuration) |
+| [2685-count-the-number-of-complete-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2685-count-the-number-of-complete-components) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2793-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -484,6 +485,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2662-check-knight-tour-configuration) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2671-shortest-cycle-in-a-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2685-count-the-number-of-complete-components) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2793-count-the-number-of-complete-components) |
@@ -3143,12 +3145,14 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2573-find-the-string-with-lcp](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2573-find-the-string-with-lcp) |
+| [2685-count-the-number-of-complete-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2685-count-the-number-of-complete-components) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph Theory
 |  |
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0990-satisfiability-of-equality-equations) |
+| [2685-count-the-number-of-complete-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2685-count-the-number-of-complete-components) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2977-minimum-cost-to-convert-string-ii) |
