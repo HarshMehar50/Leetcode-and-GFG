@@ -71,6 +71,7 @@
 | [1294-range-frequency-queries](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1294-range-frequency-queries) |
 | [1308-smallest-string-with-swaps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1308-smallest-string-with-swaps) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1331-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
 | [1447-jump-game-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -752,6 +753,7 @@
 | [1308-smallest-string-with-swaps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1308-smallest-string-with-swaps) |
 | [1325-path-with-maximum-probability](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1331-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1340-jump-game-v](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1340-jump-game-v) |
 | [1348-maximum-score-of-spliced-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1348-maximum-score-of-spliced-array) |
@@ -1889,6 +1891,7 @@
 | [1200-minimum-absolute-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1200-minimum-absolute-difference) |
 | [1290-make-array-strictly-increasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1290-make-array-strictly-increasing) |
 | [1308-smallest-string-with-swaps](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1308-smallest-string-with-swaps) |
+| [1331-rank-transform-of-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1340-jump-game-v) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1367-maximum-height-by-stacking-cuboids) |
