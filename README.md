@@ -1618,6 +1618,7 @@
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3623-count-number-of-trapezoids-i) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
@@ -3012,6 +3013,7 @@
 | [3373-maximum-prime-difference](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3373-maximum-prime-difference) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3907-count-prime-gap-balanced-subarrays) |
