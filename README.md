@@ -2485,6 +2485,7 @@
 | [1962-remove-stones-to-minimize-the-total](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2054-two-best-non-overlapping-events](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2054-two-best-non-overlapping-events) |
 | [2164-two-best-non-overlapping-events](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2164-two-best-non-overlapping-events) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2336-smallest-number-in-infinite-set](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2336-smallest-number-in-infinite-set) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -2530,6 +2531,7 @@
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2678-design-graph-with-shortest-path-calculator) |
@@ -3169,6 +3171,7 @@
 |  |
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0990-satisfiability-of-equality-equations) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2685-count-the-number-of-complete-components](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2685-count-the-number-of-complete-components) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2976-minimum-cost-to-convert-string-i) |
