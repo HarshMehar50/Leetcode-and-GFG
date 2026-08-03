@@ -3183,4 +3183,8 @@
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3812-minimum-edge-toggles-on-a-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
