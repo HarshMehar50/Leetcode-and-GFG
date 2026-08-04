@@ -140,6 +140,7 @@
 | [3713-longest-balanced-substring-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -1061,6 +1062,7 @@
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3719-longest-balanced-subarray-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3731-find-missing-elements) |
 | [3738-make-array-non-decreasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3738-make-array-non-decreasing) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -1958,6 +1960,7 @@
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3634-minimum-removals-to-balance-array) |
+| [3731-find-missing-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3731-find-missing-elements) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3873-subsequence-sum-after-capping-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3873-subsequence-sum-after-capping-elements) |
