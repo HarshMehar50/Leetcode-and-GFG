@@ -1245,6 +1245,7 @@
 | [1488-sort-integers-by-the-power-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1488-sort-integers-by-the-power-value) |
 | [1489-pizza-with-3n-slices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1503-reducing-dishes) |
+| [1510-stone-game-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1510-stone-game-iv) |
 | [1522-stone-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1522-stone-game-iii) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -1572,6 +1573,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1510-stone-game-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1510-stone-game-iv) |
 | [1522-stone-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1522-stone-game-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1585-the-kth-factor-of-n](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1585-the-kth-factor-of-n) |
@@ -2225,6 +2227,7 @@
 | [0909-stone-game](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1240-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1510-stone-game-iv) |
 | [1522-stone-game-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1685-stone-game-v) |
@@ -3196,4 +3199,20 @@
 | [0595-big-countries](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1757-recyclable-and-low-fat-products) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
