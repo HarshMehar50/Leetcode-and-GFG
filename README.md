@@ -118,6 +118,7 @@
 | [2845-count-of-interesting-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2845-count-of-interesting-subarrays) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -973,6 +974,7 @@
 | [2914-find-the-safest-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -2610,6 +2612,7 @@
 | [2832-find-the-longest-equal-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2832-find-the-longest-equal-subarray) |
 | [2868-continuous-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2868-continuous-subarrays) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3197-maximum-strong-pair-xor-ii) |
