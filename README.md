@@ -1065,6 +1065,7 @@
 | [3660-jump-game-ix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3660-jump-game-ix) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3731-find-missing-elements) |
 | [3738-make-array-non-decreasing](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3738-make-array-non-decreasing) |
@@ -2353,6 +2354,7 @@
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 ## Bitmask
