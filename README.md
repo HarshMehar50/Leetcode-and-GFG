@@ -2858,6 +2858,7 @@
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3850-equal-sum-grid-partition-ii) |
+| [3903-smallest-stable-index-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3903-smallest-stable-index-i) |
 ## Memoization
 |  |
 | ------- |
