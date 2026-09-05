@@ -2859,6 +2859,7 @@
 | [3849-equal-sum-grid-partition-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3903-smallest-stable-index-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3904-smallest-stable-index-ii) |
 ## Memoization
 |  |
 | ------- |
