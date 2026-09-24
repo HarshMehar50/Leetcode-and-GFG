@@ -1040,6 +1040,7 @@
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3546-equal-sum-grid-partition-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -1631,6 +1632,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3519-count-numbers-with-non-decreasing-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3567-convert-date-to-binary](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
