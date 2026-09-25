@@ -1368,6 +1368,7 @@
 | [3900-find-weighted-median-node-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3900-find-weighted-median-node-in-tree) |
 | [3903-inverse-coin-change](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3903-inverse-coin-change) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Binary Search
 |  |
 | ------- |
@@ -1654,6 +1655,7 @@
 | [3868-find-maximum-area-of-a-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3936-split-array-by-prime-indices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3936-split-array-by-prime-indices) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Union Find
 |  |
 | ------- |
