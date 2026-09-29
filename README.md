@@ -887,6 +887,7 @@
 | [2241-design-an-atm-machine](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2241-design-an-atm-machine) |
 | [2262-solving-questions-with-brainpower](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1291,6 +1292,7 @@
 | [2176-parallel-courses-iii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2176-parallel-courses-iii) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2262-solving-questions-with-brainpower](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2318-number-of-distinct-roll-sequences](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2318-number-of-distinct-roll-sequences) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
@@ -2432,6 +2434,7 @@
 | [1970-last-day-where-you-can-still-cross](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2344-escape-the-spreading-fire](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2344-escape-the-spreading-fire) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -3231,4 +3234,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/1510-stone-game-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
