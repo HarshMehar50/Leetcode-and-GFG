@@ -10,12 +10,7 @@ class Solution {
     public int findColoredRoot(int[][] edges, String colors) {
         int[] f = new int[3];
         for(int i = 0; i < colors.length(); i++){
-            if(colors.charAt(i) == 'R')
-            f[0]++;
-            else if(colors.charAt(i) == 'B')
-            f[1]++;
-            else
-            f[2]++;
+            f[colorId(colors.charAt(i))]++;
         }
         int[] indegree = new int[colors.length()];
         int[] outdegree = new int[colors.length()];
