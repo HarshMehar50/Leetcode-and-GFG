@@ -1113,6 +1113,7 @@
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 | [3936-split-array-by-prime-indices](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3936-split-array-by-prime-indices) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
