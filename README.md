@@ -1064,6 +1064,7 @@
 | [3639-zero-array-transformation-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -2372,6 +2373,7 @@
 | [3394-minimum-array-end](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3394-minimum-array-end) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
