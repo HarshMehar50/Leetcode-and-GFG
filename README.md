@@ -1107,6 +1107,7 @@
 | [3863-power-grid-maintenance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3873-subsequence-sum-after-capping-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3873-subsequence-sum-after-capping-elements) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3892-minimum-operations-to-achieve-at-least-k-peaks) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3900-find-weighted-median-node-in-tree) |
@@ -1374,6 +1375,7 @@
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3873-subsequence-sum-after-capping-elements](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3873-subsequence-sum-after-capping-elements) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3892-minimum-operations-to-achieve-at-least-k-peaks) |
 | [3900-find-weighted-median-node-in-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3900-find-weighted-median-node-in-tree) |
@@ -2382,6 +2384,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bitmask
 |  |
 | ------- |
@@ -2485,6 +2488,7 @@
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3850-equal-sum-grid-partition-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3905-multi-source-flood-fill](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3905-multi-source-flood-fill) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Heap (Priority Queue)
