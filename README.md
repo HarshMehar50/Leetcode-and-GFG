@@ -2133,6 +2133,7 @@
 | [3815-sum-of-largest-prime-substrings](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3838-weighted-word-mapping](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Recursion
 |  |
 | ------- |
@@ -2567,6 +2568,7 @@
 | [3678-design-task-manager](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3863-power-grid-maintenance) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
@@ -2599,6 +2601,7 @@
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -3236,6 +3239,7 @@
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3812-minimum-edge-toggles-on-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Database
 |  |
 | ------- |
