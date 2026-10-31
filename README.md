@@ -1075,6 +1075,7 @@
 | [3654-minimum-array-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3654-minimum-array-sum) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3660-jump-game-ix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3665-twisted-mirror-path-count) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -1363,6 +1364,7 @@
 | [3654-minimum-array-sum](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3654-minimum-array-sum) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3660-jump-game-ix](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3665-twisted-mirror-path-count) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -2483,6 +2485,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3659-count-paths-with-the-given-xor-value) |
+| [3665-twisted-mirror-path-count](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3665-twisted-mirror-path-count) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3797-design-spreadsheet](https://github.com/HarshMehar50/Leetcode-and-GFG/tree/master/3797-design-spreadsheet) |
